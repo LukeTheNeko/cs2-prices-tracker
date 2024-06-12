@@ -1,0 +1,24 @@
+{
+  "name": "cs2-price-tracker",
+  "author": "LukeTheNeko",
+  "version": "1.0.0",
+  "description": "cs2 price tracker",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "counter",
+    "srtike",
+    "2",
+    "counter",
+    "strike",
+    "cs2",
+    "csgo"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "js-sha1": "^0.7.0",
+    "steamcommunity": "^3.48.3"
+  }
+}
