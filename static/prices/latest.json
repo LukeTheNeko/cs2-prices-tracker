@@ -1,82 +1,106 @@
 {
     "Desert Eagle | Urban DDPAT (Factory New)": {
         "steam": {
-            "last_24h": 16.955,
-            "last_7d": 16.887749999999997,
-            "last_30d": 18.921642857142853,
-            "last_90d": 19.120285714285714
+            "last_24h": 16.86,
+            "last_7d": 16.89275,
+            "last_30d": 18.7842,
+            "last_90d": 19.219131147540978
         }
     },
     "Desert Eagle | Urban DDPAT (Minimal Wear)": {
         "steam": {
-            "last_24h": 3.59375,
-            "last_7d": 3.8155102040816327,
-            "last_30d": 3.886689393939394,
-            "last_90d": 3.684388748950457
-        }
-    },
-    "Desert Eagle | Urban DDPAT (Well-Worn)": {
-        "steam": {
-            "last_24h": 2.6933333333333334,
-            "last_7d": 2.919423076923077,
-            "last_30d": 2.8453177570093455,
-            "last_90d": 2.82028306264501
+            "last_24h": 5.149,
+            "last_7d": 4.0099599999999995,
+            "last_30d": 3.9235303030303026,
+            "last_90d": 3.7017219882055565
         }
     },
     "Desert Eagle | Urban DDPAT (Field-Tested)": {
         "steam": {
-            "last_24h": 3.4293333333333336,
-            "last_7d": 3.4789523809523812,
-            "last_30d": 3.39883937823834,
-            "last_90d": 3.0473769776322994
+            "last_24h": 3.323428571428572,
+            "last_7d": 3.4347608695652165,
+            "last_30d": 3.4205008818342137,
+            "last_90d": 3.062725262576011
         }
     },
     "Souvenir Desert Eagle | Urban DDPAT (Factory New)": {
         "steam": {
-            "last_24h": 11.05,
+            "last_24h": null,
             "last_7d": 16.234,
-            "last_30d": 18.097272727272728,
-            "last_90d": 16.91173913043478
+            "last_30d": 17.865900000000003,
+            "last_90d": 17.013720930232555
+        }
+    },
+    "Desert Eagle | Urban DDPAT (Well-Worn)": {
+        "steam": {
+            "last_24h": 2.892333333333333,
+            "last_7d": 2.9136428571428574,
+            "last_30d": 2.846888888888888,
+            "last_90d": 2.8321678486997612
         }
     },
     "Desert Eagle | Urban DDPAT (Battle-Scarred)": {
         "steam": {
-            "last_24h": 3.0061428571428572,
-            "last_7d": 3.226569230769231,
-            "last_30d": 2.8947511737089213,
-            "last_90d": 2.7228402426693634
+            "last_24h": 2.5702499999999997,
+            "last_7d": 3.3089310344827583,
+            "last_30d": 2.899156862745098,
+            "last_90d": 2.7251692789968662
         }
     },
     "Souvenir Desert Eagle | Urban DDPAT (Field-Tested)": {
         "steam": {
-            "last_24h": 0.6251538461538463,
-            "last_7d": 0.6282440191387563,
-            "last_30d": 0.6580926737633068,
-            "last_90d": 0.7328977724054558
-        }
-    },
-    "Souvenir Desert Eagle | Urban DDPAT (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 0.6374545454545455,
-            "last_7d": 0.6361634615384616,
-            "last_30d": 0.7827056277056267,
-            "last_90d": 0.8186606786427157
-        }
-    },
-    "Souvenir Desert Eagle | Urban DDPAT (Well-Worn)": {
-        "steam": {
-            "last_24h": 1.0410000000000001,
-            "last_7d": 1.0873846153846156,
-            "last_30d": 1.07540650406504,
-            "last_90d": 1.0829986798679867
+            "last_24h": 0.5891333333333333,
+            "last_7d": 0.619520782396088,
+            "last_30d": 0.6553756313131316,
+            "last_90d": 0.7316493212669675
         }
     },
     "Souvenir Desert Eagle | Urban DDPAT (Minimal Wear)": {
         "steam": {
-            "last_24h": 2.907,
-            "last_7d": 2.4757117117117136,
-            "last_30d": 2.480281779661017,
-            "last_90d": 2.6438853046594963
+            "last_24h": 2.1834285714285713,
+            "last_7d": 2.4586666666666663,
+            "last_30d": 2.4564861995753717,
+            "last_90d": 2.6453086719223773
+        }
+    },
+    "Souvenir Desert Eagle | Urban DDPAT (Well-Worn)": {
+        "steam": {
+            "last_24h": 1.0503103448275861,
+            "last_7d": 1.055709090909091,
+            "last_30d": 1.0740767716535427,
+            "last_90d": 1.0830562091503264
+        }
+    },
+    "Souvenir Desert Eagle | Urban DDPAT (Battle-Scarred)": {
+        "steam": {
+            "last_24h": 0.6828181818181819,
+            "last_7d": 0.6420388349514563,
+            "last_30d": 0.7826064516129021,
+            "last_90d": 0.8161015467384002
+        }
+    },
+    "Desert Eagle | Hypnotic (Minimal Wear)": {
+        "steam": {
+            "last_24h": 111.45,
+            "last_7d": 111.45,
+            "last_30d": 113.225,
+            "last_90d": 113.11775000000002
+        }
+    },
+    "Desert Eagle | Night (Factory New)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 78.06700000000001,
+            "last_30d": 81.48154166666667,
+            "last_90d": 78.31626506024097
+        }
+    },
+    "Desert Eagle | Blaze (Factory New)": {
+        "steam": {
+            "last_24h": 691.3969999999999,
+            "last_7d": 709.1025999999999,
+            "last_30d": 774.6606111111112,
+            "last_90d": 768.584966101695
         }
     },
     "Desert Eagle | Blaze (Minimal Wear)": {
@@ -89,74 +113,58 @@
     },
     "Desert Eagle | Night (Battle-Scarred)": {
         "steam": {
-            "last_24h": 12.27,
-            "last_7d": 12.216411764705882,
-            "last_30d": 12.544989795918369,
-            "last_90d": 11.350513853904282
-        }
-    },
-    "Desert Eagle | Night (Well-Worn)": {
-        "steam": {
-            "last_24h": 11.331666666666669,
-            "last_7d": 11.713222222222221,
-            "last_30d": 12.15275,
-            "last_90d": 11.357457236842109
-        }
-    },
-    "Desert Eagle | Night (Factory New)": {
-        "steam": {
-            "last_24h": 79.99,
-            "last_7d": 77.92814285714284,
-            "last_30d": 81.41347999999999,
-            "last_90d": 78.05225581395348
-        }
-    },
-    "Desert Eagle | Night (Field-Tested)": {
-        "steam": {
-            "last_24h": 12.25225,
-            "last_7d": 12.695835616438352,
-            "last_30d": 13.123642599277982,
-            "last_90d": 12.417572854291421
-        }
-    },
-    "Desert Eagle | Hypnotic (Minimal Wear)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 115,
-            "last_90d": 113.35600000000001
-        }
-    },
-    "Desert Eagle | Hypnotic (Factory New)": {
-        "steam": {
-            "last_24h": 113.80149999999999,
-            "last_7d": 111.07256000000002,
-            "last_30d": 113.87447863247866,
-            "last_90d": 113.95401477832516
-        }
-    },
-    "Desert Eagle | Night (Minimal Wear)": {
-        "steam": {
-            "last_24h": 16.178800000000003,
-            "last_7d": 17.62959322033898,
-            "last_30d": 18.117602083333352,
-            "last_90d": 17.163712649945484
+            "last_24h": 12.28,
+            "last_7d": 12.247166666666665,
+            "last_30d": 12.550112359550564,
+            "last_90d": 11.355314070351756
         }
     },
     "StatTrak™ Desert Eagle | Hypnotic (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 185.0685,
+            "last_7d": 161,
             "last_30d": 182.0107619047619,
-            "last_90d": 176.50410144927537
+            "last_90d": 177.1170597014925
         }
     },
-    "Desert Eagle | Blaze (Factory New)": {
+    "Desert Eagle | Night (Field-Tested)": {
+        "steam": {
+            "last_24h": 12.5855,
+            "last_7d": 12.734027777777776,
+            "last_30d": 13.103189285714288,
+            "last_90d": 12.43558682634731
+        }
+    },
+    "Desert Eagle | Night (Well-Worn)": {
+        "steam": {
+            "last_24h": 10.905,
+            "last_7d": 11.577944444444443,
+            "last_30d": 12.123732558139533,
+            "last_90d": 11.375429042904292
+        }
+    },
+    "Desert Eagle | Night (Minimal Wear)": {
+        "steam": {
+            "last_24h": 16.539833333333334,
+            "last_7d": 17.580249999999992,
+            "last_30d": 18.0685105042017,
+            "last_90d": 17.16590010917031
+        }
+    },
+    "Desert Eagle | Hypnotic (Factory New)": {
+        "steam": {
+            "last_24h": 110.32,
+            "last_7d": 111.43452173913046,
+            "last_30d": 113.72007692307696,
+            "last_90d": 114.23596962025319
+        }
+    },
+    "Souvenir Desert Eagle | Mudder (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 719.5844444444444,
-            "last_30d": 783.4930540540541,
-            "last_90d": 770.176827586207
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 70.168
         }
     },
     "Souvenir Desert Eagle | Mudder (Well-Worn)": {
@@ -175,28 +183,36 @@
             "last_90d": null
         }
     },
-    "Souvenir Desert Eagle | Mudder (Field-Tested)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 70.168
-        }
-    },
-    "Desert Eagle | Mudder (Minimal Wear)": {
-        "steam": {
-            "last_24h": 0.058662751677852364,
-            "last_7d": 0.057987624509507965,
-            "last_30d": 0.057437472316551004,
-            "last_90d": 0.061342204070877836
-        }
-    },
     "Souvenir Desert Eagle | Mudder (Factory New)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
             "last_90d": null
+        }
+    },
+    "Desert Eagle | Mudder (Battle-Scarred)": {
+        "steam": {
+            "last_24h": 0.03676451612903226,
+            "last_7d": 0.03713140218303944,
+            "last_30d": 0.03784293340826075,
+            "last_90d": 0.037398747330139134
+        }
+    },
+    "Desert Eagle | Mudder (Minimal Wear)": {
+        "steam": {
+            "last_24h": 0.05924053452115813,
+            "last_7d": 0.058363259259259254,
+            "last_30d": 0.057505501858736076,
+            "last_90d": 0.061291111552992376
+        }
+    },
+    "Desert Eagle | Mudder (Field-Tested)": {
+        "steam": {
+            "last_24h": 0.03603525954946132,
+            "last_7d": 0.035372874493927134,
+            "last_30d": 0.03470552738193047,
+            "last_90d": 0.03534794499539927
         }
     },
     "StatTrak™ Desert Eagle | Hypnotic (Minimal Wear)": {
@@ -209,117 +225,21 @@
     },
     "Desert Eagle | Mudder (Well-Worn)": {
         "steam": {
-            "last_24h": 0.04063070539419088,
-            "last_7d": 0.03772947214076247,
-            "last_30d": 0.037078376972429376,
-            "last_90d": 0.03762331625376355
-        }
-    },
-    "Desert Eagle | Mudder (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 0.037484098939929336,
-            "last_7d": 0.0369481887110362,
-            "last_30d": 0.0377322732735509,
-            "last_90d": 0.0374250352589011
+            "last_24h": 0.03730487804878047,
+            "last_7d": 0.03772658610271904,
+            "last_30d": 0.037119119474525154,
+            "last_90d": 0.03760612017212973
         }
     },
     "Desert Eagle | Mudder (Factory New)": {
         "steam": {
-            "last_24h": 0.4714444444444445,
-            "last_7d": 0.490881818181818,
-            "last_30d": 0.5393074398249459,
-            "last_90d": 0.5926096291476908
+            "last_24h": 0.47067567567567564,
+            "last_7d": 0.4873924050632909,
+            "last_30d": 0.5362807775377977,
+            "last_90d": 0.5911808718282375
         }
     },
-    "Desert Eagle | Mudder (Field-Tested)": {
-        "steam": {
-            "last_24h": 0.036186875891583446,
-            "last_7d": 0.03519967532467532,
-            "last_30d": 0.03464221439749608,
-            "last_90d": 0.0353654790477564
-        }
-    },
-    "StatTrak™ Sawed-Off | Analog Input (Factory New)": {
-        "steam": {
-            "last_24h": 6.1561,
-            "last_7d": 6.488695652173914,
-            "last_30d": 7.084811704834607,
-            "last_90d": 8.298617270788922
-        }
-    },
-    "StatTrak™ Sawed-Off | Analog Input (Well-Worn)": {
-        "steam": {
-            "last_24h": 1.5320769230769231,
-            "last_7d": 1.7731250000000003,
-            "last_30d": 2.1581396648044677,
-            "last_90d": 2.7199657422512247
-        }
-    },
-    "Sawed-Off | Analog Input (Field-Tested)": {
-        "steam": {
-            "last_24h": 0.9515510204081632,
-            "last_7d": 0.950423309352518,
-            "last_30d": 1.0484372523117573,
-            "last_90d": 1.4441169625911259
-        }
-    },
-    "Sawed-Off | Analog Input (Factory New)": {
-        "steam": {
-            "last_24h": 2.3124000000000007,
-            "last_7d": 2.3529455164585706,
-            "last_30d": 2.606690972984846,
-            "last_90d": 3.178438649564374
-        }
-    },
-    "StatTrak™ Sawed-Off | Analog Input (Field-Tested)": {
-        "steam": {
-            "last_24h": 2.480108108108108,
-            "last_7d": 2.3714061302681984,
-            "last_30d": 2.5483927492447127,
-            "last_90d": 3.230352992573177
-        }
-    },
-    "Sawed-Off | Analog Input (Well-Worn)": {
-        "steam": {
-            "last_24h": 0.8245641025641024,
-            "last_7d": 0.8280913242009135,
-            "last_30d": 0.9130579185520354,
-            "last_90d": 1.2076099914845302
-        }
-    },
-    "StatTrak™ Sawed-Off | Analog Input (Minimal Wear)": {
-        "steam": {
-            "last_24h": 3.6500909090909097,
-            "last_7d": 3.9178642857142854,
-            "last_30d": 4.369039928486297,
-            "last_90d": 5.328263690583773
-        }
-    },
-    "Sawed-Off | Analog Input (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 0.784371794871795,
-            "last_7d": 0.7901773504273499,
-            "last_30d": 0.8892437258687238,
-            "last_90d": 1.1915117451891213
-        }
-    },
-    "StatTrak™ Sawed-Off | Analog Input (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 1.9049999999999998,
-            "last_7d": 1.9236049382716052,
-            "last_30d": 2.105307142857143,
-            "last_90d": 2.6747662068965474
-        }
-    },
-    "Sawed-Off | Analog Input (Minimal Wear)": {
-        "steam": {
-            "last_24h": 1.4740935672514621,
-            "last_7d": 1.4881477611940304,
-            "last_30d": 1.646461381019068,
-            "last_90d": 2.1876738878627497
-        }
-    },
-    "Souvenir Tec-9 | Groundwater (Factory New)": {
+    "★ StatTrak™ Talon Knife | Doppler (Minimal Wear)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
@@ -327,564 +247,12 @@
             "last_90d": null
         }
     },
-    "Souvenir Tec-9 | Groundwater (Field-Tested)": {
+    "Sticker | v4lde | Boston 2018": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 8.867,
-            "last_90d": 9.867897435897437
-        }
-    },
-    "Tec-9 | Groundwater (Factory New)": {
-        "steam": {
-            "last_24h": 0.17051111111111109,
-            "last_7d": 0.2023240740740741,
-            "last_30d": 0.18756071964017962,
-            "last_90d": 0.17872880622837345
-        }
-    },
-    "Souvenir Tec-9 | Groundwater (Battle-Scarred)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 9.989,
-            "last_90d": 18.367800000000003
-        }
-    },
-    "Tec-9 | Groundwater (Well-Worn)": {
-        "steam": {
-            "last_24h": 0.029999999999999995,
-            "last_7d": 0.05775255102040824,
-            "last_30d": 0.03472974425102087,
-            "last_90d": 0.0312920498995663
-        }
-    },
-    "Souvenir Tec-9 | Groundwater (Minimal Wear)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 45.081,
-            "last_30d": 29.94,
-            "last_90d": 35.1023
-        }
-    },
-    "Souvenir Tec-9 | Groundwater (Well-Worn)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 18.751,
-            "last_90d": 16.912333333333333
-        }
-    },
-    "Tec-9 | Groundwater (Minimal Wear)": {
-        "steam": {
-            "last_24h": 0.030000000000000006,
-            "last_7d": 0.030078798325535578,
-            "last_30d": 0.03022888550282969,
-            "last_90d": 0.030059915383410026
-        }
-    },
-    "Tec-9 | Groundwater (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 0.030009302325581386,
-            "last_7d": 0.030032229185317852,
-            "last_30d": 0.030079224060640584,
-            "last_90d": 0.030016621868970722
-        }
-    },
-    "Tec-9 | Groundwater (Field-Tested)": {
-        "steam": {
-            "last_24h": 0.030177554438860964,
-            "last_7d": 0.030072074350382515,
-            "last_30d": 0.030034701482675664,
-            "last_90d": 0.03000975707629542
-        }
-    },
-    "Tec-9 | Brass (Factory New)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 46,
-            "last_30d": 61.098833333333324,
-            "last_90d": 66.09321739130435
-        }
-    },
-    "Tec-9 | Urban DDPAT (Well-Worn)": {
-        "steam": {
-            "last_24h": 0.03090497737556561,
-            "last_7d": 0.030154500354358602,
-            "last_30d": 0.03240397619691664,
-            "last_90d": 0.03072083215053306
-        }
-    },
-    "Tec-9 | Urban DDPAT (Minimal Wear)": {
-        "steam": {
-            "last_24h": 0.030448548812664906,
-            "last_7d": 0.03005644090305445,
-            "last_30d": 0.030239874739039663,
-            "last_90d": 0.0300671882276241
-        }
-    },
-    "Tec-9 | Ossified (Factory New)": {
-        "steam": {
-            "last_24h": 1.2992000000000001,
-            "last_7d": 1.3685681818181816,
-            "last_30d": 1.5576401028277642,
-            "last_90d": 1.583124398073836
-        }
-    },
-    "Tec-9 | Ossified (Minimal Wear)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 5.23,
-            "last_30d": 5.4380000000000015,
-            "last_90d": 5.42504
-        }
-    },
-    "Tec-9 | Brass (Field-Tested)": {
-        "steam": {
-            "last_24h": 4.17525,
-            "last_7d": 3.953384615384615,
-            "last_30d": 3.8372147239263796,
-            "last_90d": 4.304293736501082
-        }
-    },
-    "Tec-9 | Urban DDPAT (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 0.029999999999999995,
-            "last_7d": 0.030194456665200185,
-            "last_30d": 0.030105363075462757,
-            "last_90d": 0.030029511073298955
-        }
-    },
-    "Tec-9 | Urban DDPAT (Factory New)": {
-        "steam": {
-            "last_24h": 0.1306071428571429,
-            "last_7d": 0.1464569732937685,
-            "last_30d": 0.14093059746529865,
-            "last_90d": 0.1319614063447159
-        }
-    },
-    "Tec-9 | Urban DDPAT (Field-Tested)": {
-        "steam": {
-            "last_24h": 0.030501320655044902,
-            "last_7d": 0.030580714067744885,
-            "last_30d": 0.030140507000857228,
-            "last_90d": 0.03003713753944916
-        }
-    },
-    "Tec-9 | Brass (Minimal Wear)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 11.662857142857144,
-            "last_30d": 12.417627450980392,
-            "last_90d": 11.789552795031055
-        }
-    },
-    "★ Survival Knife | Crimson Web (Factory New)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": null
-        }
-    },
-    "★ StatTrak™ Survival Knife | Crimson Web (Factory New)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": null
-        }
-    },
-    "★ Survival Knife | Crimson Web (Battle-Scarred)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 180.18540000000002,
-            "last_30d": 193.14291666666668,
-            "last_90d": 198.06695945945947
-        }
-    },
-    "★ StatTrak™ Survival Knife | Crimson Web (Minimal Wear)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 371.2,
-            "last_90d": 348.28385714285713
-        }
-    },
-    "★ StatTrak™ Survival Knife | Forest DDPAT (Battle-Scarred)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 123.83,
-            "last_30d": 113.78133333333334,
-            "last_90d": 112.19361538461538
-        }
-    },
-    "★ Survival Knife | Crimson Web (Minimal Wear)": {
-        "steam": {
-            "last_24h": 290.721,
-            "last_7d": 308.32620000000003,
-            "last_30d": 299.8902777777778,
-            "last_90d": 293.4005714285714
-        }
-    },
-    "★ StatTrak™ Survival Knife | Crimson Web (Field-Tested)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 252.16750000000002,
-            "last_30d": 251.20828571428572,
-            "last_90d": 253.1705909090909
-        }
-    },
-    "★ StatTrak™ Survival Knife | Crimson Web (Well-Worn)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 229.10999999999999,
-            "last_90d": 230.59533333333334
-        }
-    },
-    "★ Survival Knife | Crimson Web (Field-Tested)": {
-        "steam": {
-            "last_24h": 220.897,
-            "last_7d": 219.38506666666663,
-            "last_30d": 234.3766037735849,
-            "last_90d": 236.97904494382013
-        }
-    },
-    "★ Survival Knife | Crimson Web (Well-Worn)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 200,
-            "last_30d": 224.3107,
-            "last_90d": 221.4391142857143
-        }
-    },
-    "★ StatTrak™ Survival Knife | Fade (Minimal Wear)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": null
-        }
-    },
-    "★ Survival Knife | Blue Steel (Factory New)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 280.08133333333336,
-            "last_90d": 282.3827333333334
-        }
-    },
-    "★ Survival Knife | Fade (Factory New)": {
-        "steam": {
-            "last_24h": 529.574,
-            "last_7d": 504.74566666666664,
-            "last_30d": 513.4764047619047,
-            "last_90d": 516.5997283950618
-        }
-    },
-    "★ Survival Knife | Blue Steel (Field-Tested)": {
-        "steam": {
-            "last_24h": 156.70600000000002,
-            "last_7d": 166.5706153846154,
-            "last_30d": 173.909568627451,
-            "last_90d": 175.83216763005777
-        }
-    },
-    "★ Survival Knife | Blue Steel (Well-Worn)": {
-        "steam": {
-            "last_24h": 139.64,
-            "last_7d": 150.62966666666665,
-            "last_30d": 164.4162564102564,
-            "last_90d": 167.2958938053097
-        }
-    },
-    "★ Survival Knife | Fade (Minimal Wear)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 462.61999999999995,
-            "last_90d": 496.145
-        }
-    },
-    "★ StatTrak™ Survival Knife | Fade (Factory New)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 516.746,
-            "last_30d": 501.384,
-            "last_90d": 535.4930833333334
-        }
-    },
-    "★ Survival Knife | Blue Steel (Minimal Wear)": {
-        "steam": {
-            "last_24h": 186.64,
-            "last_7d": 183.78225,
-            "last_30d": 191.16521212121214,
-            "last_90d": 190.0437063492064
-        }
-    },
-    "★ Survival Knife | Blue Steel (Battle-Scarred)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 165.35575,
-            "last_30d": 161.12151999999998,
-            "last_90d": 167.00567010309277
-        }
-    },
-    "★ StatTrak™ Survival Knife | Crimson Web (Battle-Scarred)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 220.13775,
-            "last_90d": 221.3394
-        }
-    },
-    "★ StatTrak™ Survival Knife | Blue Steel (Minimal Wear)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 209.99,
-            "last_30d": 199.178,
-            "last_90d": 211.69074999999998
-        }
-    },
-    "★ StatTrak™ Survival Knife | Blue Steel (Well-Worn)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 164.40800000000002,
-            "last_90d": 177.05999999999997
-        }
-    },
-    "★ Survival Knife | Stained (Battle-Scarred)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 130.64277777777778,
-            "last_30d": 134.73017857142855,
-            "last_90d": 138.47883050847457
-        }
-    },
-    "★ StatTrak™ Survival Knife | Blue Steel (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 141.268,
-            "last_7d": 164.885,
-            "last_30d": 169.61814285714286,
-            "last_90d": 171.4902
-        }
-    },
-    "★ Survival Knife | Stained (Factory New)": {
-        "steam": {
-            "last_24h": 203.736,
-            "last_7d": 203.736,
-            "last_30d": 219.87833333333333,
-            "last_90d": 221.74315789473684
-        }
-    },
-    "★ StatTrak™ Survival Knife | Blue Steel (Field-Tested)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 195.482,
-            "last_30d": 183.85887499999998,
-            "last_90d": 185.9786923076923
-        }
-    },
-    "★ StatTrak™ Survival Knife | Blue Steel (Factory New)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 314.8095
-        }
-    },
-    "★ Survival Knife | Stained (Field-Tested)": {
-        "steam": {
-            "last_24h": 154.29,
-            "last_7d": 143.07454545454542,
-            "last_30d": 147.8369607843137,
-            "last_90d": 150.9905724137931
-        }
-    },
-    "★ Survival Knife | Stained (Well-Worn)": {
-        "steam": {
-            "last_24h": 129.58,
-            "last_7d": 135.29829999999998,
-            "last_30d": 138.48191111111112,
-            "last_90d": 140.88474242424243
-        }
-    },
-    "★ Survival Knife | Stained (Minimal Wear)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 163.6175,
-            "last_30d": 168.97325925925927,
-            "last_90d": 169.5496597938144
-        }
-    },
-    "Sticker | jkaem (Foil) | Cologne 2016": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 14.296,
-            "last_30d": 14.296,
-            "last_90d": 14.296
-        }
-    },
-    "null": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": null
-        }
-    },
-    "Sticker | fnx | Cologne 2016": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 3.4528,
-            "last_30d": 3.5669230769230773,
-            "last_90d": 3.425111111111112
-        }
-    },
-    "Sticker | denis (Foil) | Cologne 2016": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 15.205,
-            "last_90d": 16.7882
-        }
-    },
-    "Sticker | denis | Cologne 2016": {
-        "steam": {
-            "last_24h": 5.336,
-            "last_7d": 4.588,
-            "last_30d": 4.588,
-            "last_90d": 4.350333333333333
-        }
-    },
-    "Sticker | NiKo (Foil) | Cologne 2016": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 214.96
-        }
-    },
-    "Sticker | seized | Cologne 2016": {
-        "steam": {
-            "last_24h": 2.503,
-            "last_7d": 2.31,
-            "last_30d": 2.307,
-            "last_90d": 2.2162580645161287
-        }
-    },
-    "Sticker | f0rest | Cologne 2016": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 2.4453333333333336,
-            "last_90d": 2.45815
-        }
-    },
-    "Sticker | f0rest (Foil) | Cologne 2016": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 19.682499999999997,
-            "last_90d": 17.8465
-        }
-    },
-    "Sticker | Xizt (Foil) | Cologne 2016": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 13.970333333333334,
-            "last_90d": 13.6755
-        }
-    },
-    "Sticker | RUBINO | Cologne 2016": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 8.05,
-            "last_30d": 8.05,
-            "last_90d": 8.05
-        }
-    },
-    "Sticker | EliGE (Foil) | Cologne 2016": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 42,
-            "last_30d": 42,
-            "last_90d": 41.552
-        }
-    },
-    "Sticker | EliGE | Cologne 2016": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 3.894,
-            "last_30d": 4.5487,
-            "last_90d": 4.626363636363635
-        }
-    },
-    "Sticker | nitr0 (Foil) | Cologne 2016": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 30.06,
-            "last_90d": 28.6585
-        }
-    },
-    "Sticker | shox | Cologne 2016": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 7.78,
-            "last_30d": 8.887,
-            "last_90d": 9.915062499999998
-        }
-    },
-    "Sticker | device (Foil) | Cologne 2016": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 74.7025
-        }
-    },
-    "Sticker | device | Cologne 2016": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 17.54114285714286
-        }
-    },
-    "Sticker | Xyp9x (Foil) | Cologne 2016": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 11.745,
-            "last_30d": 11.745,
-            "last_90d": 14.603166666666665
-        }
-    },
-    "Sticker | mou | Cologne 2016": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 9.603
-        }
-    },
-    "Sticker | NEO | Cologne 2016": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 4.5179
-        }
-    },
-    "Sticker | NEO (Foil) | Cologne 2016": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 16.487000000000002,
-            "last_90d": 16.8768
+            "last_7d": 2.25,
+            "last_30d": 1.5221999999999998,
+            "last_90d": 1.293211267605634
         }
     }
 }
