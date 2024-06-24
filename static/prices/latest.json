@@ -1,82 +1,90 @@
 {
-    "Souvenir Desert Eagle | Urban DDPAT (Well-Worn)": {
+    "Desert Eagle | Urban DDPAT (Minimal Wear)": {
         "steam": {
-            "last_24h": 1.1189090909090913,
-            "last_7d": 1.0650677966101698,
-            "last_30d": 1.0750098425196843,
-            "last_90d": 1.0805560625814863
+            "last_24h": 3.5405,
+            "last_7d": 3.9049607843137246,
+            "last_30d": 3.8802099236641223,
+            "last_90d": 3.720589239965839
         }
     },
     "Souvenir Desert Eagle | Urban DDPAT (Factory New)": {
         "steam": {
-            "last_24h": 11,
-            "last_7d": 15.1645,
-            "last_30d": 17.241727272727275,
-            "last_90d": 16.941162790697675
-        }
-    },
-    "Desert Eagle | Urban DDPAT (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 2.8280000000000003,
-            "last_7d": 2.884529411764705,
-            "last_30d": 2.895951690821256,
-            "last_90d": 2.7216695557963164
-        }
-    },
-    "Desert Eagle | Urban DDPAT (Factory New)": {
-        "steam": {
-            "last_24h": 16.86,
-            "last_7d": 16.8862,
-            "last_30d": 18.6639375,
-            "last_90d": 19.216180327868848
-        }
-    },
-    "Souvenir Desert Eagle | Urban DDPAT (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 1.0908333333333333,
-            "last_7d": 0.7198148148148147,
-            "last_30d": 0.7966385281385269,
-            "last_90d": 0.8178760107816722
-        }
-    },
-    "Souvenir Desert Eagle | Urban DDPAT (Minimal Wear)": {
-        "steam": {
-            "last_24h": 2.2351999999999994,
-            "last_7d": 2.4209433962264146,
-            "last_30d": 2.449471578947367,
-            "last_90d": 2.6422111990261725
-        }
-    },
-    "Desert Eagle | Urban DDPAT (Minimal Wear)": {
-        "steam": {
-            "last_24h": 3.406857142857143,
-            "last_7d": 3.9627222222222223,
-            "last_30d": 3.8923601532567047,
-            "last_90d": 3.71057724957555
-        }
-    },
-    "Souvenir Desert Eagle | Urban DDPAT (Field-Tested)": {
-        "steam": {
-            "last_24h": 0.5868723404255319,
-            "last_7d": 0.6156785714285713,
-            "last_30d": 0.6520152671755727,
-            "last_90d": 0.7287502628811771
-        }
-    },
-    "Desert Eagle | Urban DDPAT (Well-Worn)": {
-        "steam": {
-            "last_24h": 2.8760000000000003,
-            "last_7d": 2.8946153846153844,
-            "last_30d": 2.8487477477477468,
-            "last_90d": 2.842352517985611
+            "last_24h": 16.5,
+            "last_7d": 15.4316,
+            "last_30d": 17.179916666666667,
+            "last_90d": 16.946976744186045
         }
     },
     "Desert Eagle | Urban DDPAT (Field-Tested)": {
         "steam": {
-            "last_24h": 3.5944705882352936,
-            "last_7d": 3.436421052631579,
-            "last_30d": 3.4339705372616964,
-            "last_90d": 3.077947719688545
+            "last_24h": 3.444454545454545,
+            "last_7d": 3.4174470588235306,
+            "last_30d": 3.4544878048780467,
+            "last_90d": 3.0833915461624044
+        }
+    },
+    "Desert Eagle | Urban DDPAT (Factory New)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 16.8862,
+            "last_30d": 18.528200000000002,
+            "last_90d": 19.283449999999995
+        }
+    },
+    "Desert Eagle | Urban DDPAT (Battle-Scarred)": {
+        "steam": {
+            "last_24h": 2.8005,
+            "last_7d": 2.889134615384616,
+            "last_30d": 2.8996824644549757,
+            "last_90d": 2.7226424581005584
+        }
+    },
+    "Desert Eagle | Urban DDPAT (Well-Worn)": {
+        "steam": {
+            "last_24h": 2.605,
+            "last_7d": 2.892727272727272,
+            "last_30d": 2.847801801801802,
+            "last_90d": 2.844640287769784
+        }
+    },
+    "Souvenir Desert Eagle | Urban DDPAT (Field-Tested)": {
+        "steam": {
+            "last_24h": 0.6162500000000001,
+            "last_7d": 0.6159060052219321,
+            "last_30d": 0.650551059730251,
+            "last_90d": 0.727752551918338
+        }
+    },
+    "Souvenir Desert Eagle | Urban DDPAT (Minimal Wear)": {
+        "steam": {
+            "last_24h": 2.6792307692307693,
+            "last_7d": 2.452459016393441,
+            "last_30d": 2.4639064449064447,
+            "last_90d": 2.635100303951369
+        }
+    },
+    "Souvenir Desert Eagle | Urban DDPAT (Well-Worn)": {
+        "steam": {
+            "last_24h": 1.0897894736842106,
+            "last_7d": 1.0646560000000003,
+            "last_30d": 1.078960629921259,
+            "last_90d": 1.0811538461538464
+        }
+    },
+    "Souvenir Desert Eagle | Urban DDPAT (Battle-Scarred)": {
+        "steam": {
+            "last_24h": 0.654,
+            "last_7d": 0.7224752475247523,
+            "last_30d": 0.7706293859649113,
+            "last_90d": 0.8152656250000009
+        }
+    },
+    "Desert Eagle | Hypnotic (Minimal Wear)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 111.45,
+            "last_30d": 113.225,
+            "last_90d": 116.23333333333335
         }
     },
     "Desert Eagle | Blaze (Minimal Wear)": {
@@ -87,76 +95,68 @@
             "last_90d": 591.8805000000001
         }
     },
+    "StatTrak™ Desert Eagle | Hypnotic (Factory New)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 181.4604117647059,
+            "last_90d": 176.58204615384614
+        }
+    },
     "Desert Eagle | Night (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 79.97875,
+            "last_7d": 77.31,
             "last_30d": 81.57291304347825,
-            "last_90d": 78.47865853658537
-        }
-    },
-    "Desert Eagle | Hypnotic (Minimal Wear)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 111.45,
-            "last_30d": 113.225,
-            "last_90d": 115.05714285714286
-        }
-    },
-    "Desert Eagle | Night (Field-Tested)": {
-        "steam": {
-            "last_24h": 12.688,
-            "last_7d": 12.830605633802818,
-            "last_30d": 13.091092526690394,
-            "last_90d": 12.46246646646647
+            "last_90d": 78.504987654321
         }
     },
     "Desert Eagle | Night (Minimal Wear)": {
         "steam": {
-            "last_24h": 16.60157142857143,
-            "last_7d": 16.691155963302748,
-            "last_30d": 18.0388680851064,
-            "last_90d": 17.188016976998906
+            "last_24h": 15.385749999999996,
+            "last_7d": 16.53774285714285,
+            "last_30d": 17.97639186295505,
+            "last_90d": 17.207603296703297
         }
     },
-    "StatTrak™ Desert Eagle | Hypnotic (Factory New)": {
+    "Desert Eagle | Night (Well-Worn)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 161,
-            "last_30d": 181.952,
-            "last_90d": 176.55183076923075
+            "last_24h": 10.12,
+            "last_7d": 11.412,
+            "last_30d": 12.013188235294116,
+            "last_90d": 11.387990131578947
         }
     },
     "Desert Eagle | Blaze (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 709.1025999999999,
+            "last_7d": 707.8928888888888,
             "last_30d": 772.680125,
-            "last_90d": 768.5849576271188
+            "last_90d": 769.8623103448277
         }
     },
     "Desert Eagle | Hypnotic (Factory New)": {
         "steam": {
-            "last_24h": 107.53033333333333,
-            "last_7d": 110.52356521739132,
-            "last_30d": 113.55605042016806,
-            "last_90d": 114.30091603053435
+            "last_24h": 104.575,
+            "last_7d": 110.98719047619049,
+            "last_30d": 113.27659322033902,
+            "last_90d": 114.42094601542416
         }
     },
-    "Desert Eagle | Night (Well-Worn)": {
+    "Desert Eagle | Night (Field-Tested)": {
         "steam": {
-            "last_24h": 10.867750000000001,
-            "last_7d": 11.5147,
-            "last_30d": 12.057395348837206,
-            "last_90d": 11.373571895424838
+            "last_24h": 12.369199999999998,
+            "last_7d": 12.695779411764708,
+            "last_30d": 13.070165492957754,
+            "last_90d": 12.484754016064262
         }
     },
     "Desert Eagle | Night (Battle-Scarred)": {
         "steam": {
-            "last_24h": 13.474800000000002,
-            "last_7d": 12.582047619047618,
-            "last_30d": 12.59929787234043,
-            "last_90d": 11.387361596009976
+            "last_24h": 11.89,
+            "last_7d": 12.541649999999997,
+            "last_30d": 12.561106382978723,
+            "last_90d": 11.414265664160402
         }
     },
     "Souvenir Desert Eagle | Mudder (Factory New)": {
@@ -167,22 +167,6 @@
             "last_90d": null
         }
     },
-    "Desert Eagle | Mudder (Well-Worn)": {
-        "steam": {
-            "last_24h": 0.03979861111111112,
-            "last_7d": 0.0380673297628156,
-            "last_30d": 0.037248558038932976,
-            "last_90d": 0.03756843337590454
-        }
-    },
-    "Desert Eagle | Mudder (Minimal Wear)": {
-        "steam": {
-            "last_24h": 0.05988655462184874,
-            "last_7d": 0.05858098068350669,
-            "last_30d": 0.05746618608799052,
-            "last_90d": 0.061229879710241006
-        }
-    },
     "Souvenir Desert Eagle | Mudder (Minimal Wear)": {
         "steam": {
             "last_24h": null,
@@ -191,12 +175,12 @@
             "last_90d": null
         }
     },
-    "StatTrak™ Desert Eagle | Hypnotic (Minimal Wear)": {
+    "Desert Eagle | Mudder (Well-Worn)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 194.8915,
-            "last_90d": 200.7344
+            "last_24h": 0.041411458333333324,
+            "last_7d": 0.038449264705882356,
+            "last_30d": 0.0372654532348171,
+            "last_90d": 0.037597399150743026
         }
     },
     "Souvenir Desert Eagle | Mudder (Field-Tested)": {
@@ -207,28 +191,12 @@
             "last_90d": 70.168
         }
     },
-    "Desert Eagle | Mudder (Factory New)": {
+    "StatTrak™ Desert Eagle | Hypnotic (Minimal Wear)": {
         "steam": {
-            "last_24h": 0.4704838709677419,
-            "last_7d": 0.48700896860986537,
-            "last_30d": 0.5339794149512468,
-            "last_90d": 0.589975927130775
-        }
-    },
-    "Desert Eagle | Mudder (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 0.037286956521739134,
-            "last_7d": 0.03713252032520323,
-            "last_30d": 0.036802574257425766,
-            "last_90d": 0.03737185262185265
-        }
-    },
-    "Desert Eagle | Mudder (Field-Tested)": {
-        "steam": {
-            "last_24h": 0.03615360824742269,
-            "last_7d": 0.035693239015100006,
-            "last_30d": 0.0347692662401291,
-            "last_90d": 0.0353138347419606
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 194.8915,
+            "last_90d": 200.7344
         }
     },
     "Souvenir Desert Eagle | Mudder (Well-Worn)": {
@@ -239,484 +207,516 @@
             "last_90d": null
         }
     },
-    "Galil AR | Eco (Minimal Wear)": {
+    "Desert Eagle | Mudder (Field-Tested)": {
         "steam": {
-            "last_24h": 36.120999999999995,
-            "last_7d": 36.76790322580645,
-            "last_30d": 40.50322047244093,
-            "last_90d": 41.47879261363633
+            "last_24h": 0.03579233226837061,
+            "last_7d": 0.035616243108780435,
+            "last_30d": 0.03485614516977382,
+            "last_90d": 0.03529285720405423
         }
     },
-    "StatTrak™ Galil AR | Chatterbox (Field-Tested)": {
+    "Desert Eagle | Mudder (Minimal Wear)": {
+        "steam": {
+            "last_24h": 0.061250000000000006,
+            "last_7d": 0.05886036426712924,
+            "last_30d": 0.05756926262850381,
+            "last_90d": 0.06120230728429966
+        }
+    },
+    "Desert Eagle | Mudder (Factory New)": {
+        "steam": {
+            "last_24h": 0.46568,
+            "last_7d": 0.485943722943723,
+            "last_30d": 0.5322955771305294,
+            "last_90d": 0.5886969301110391
+        }
+    },
+    "Desert Eagle | Mudder (Battle-Scarred)": {
+        "steam": {
+            "last_24h": 0.04116216216216217,
+            "last_7d": 0.03811807024968262,
+            "last_30d": 0.036888933440256635,
+            "last_90d": 0.03701329095637104
+        }
+    },
+    "StatTrak™ PP-Bizon | Judgement of Anubis (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 501.915,
-            "last_90d": 430.6775
+            "last_7d": 10.725714285714288,
+            "last_30d": 11.770483870967743,
+            "last_90d": 11.761573333333336
         }
     },
-    "StatTrak™ Galil AR | Chatterbox (Well-Worn)": {
+    "StatTrak™ PP-Bizon | Judgement of Anubis (Battle-Scarred)": {
+        "steam": {
+            "last_24h": 9.92,
+            "last_7d": 11.116333333333335,
+            "last_30d": 11.5476,
+            "last_90d": 12.009731707317075
+        }
+    },
+    "StatTrak™ PP-Bizon | Harvester (Minimal Wear)": {
+        "steam": {
+            "last_24h": 0.5376666666666666,
+            "last_7d": 0.6016195652173912,
+            "last_30d": 0.5805121951219511,
+            "last_90d": 0.5676764705882356
+        }
+    },
+    "PP-Bizon | Harvester (Field-Tested)": {
+        "steam": {
+            "last_24h": 0.18961616161616163,
+            "last_7d": 0.1851401273885349,
+            "last_30d": 0.17491230692575999,
+            "last_90d": 0.14801563279560903
+        }
+    },
+    "PP-Bizon | Harvester (Well-Worn)": {
+        "steam": {
+            "last_24h": 0.12444444444444443,
+            "last_7d": 0.15116498316498317,
+            "last_30d": 0.15226770060687797,
+            "last_90d": 0.14752854251012112
+        }
+    },
+    "PP-Bizon | Harvester (Battle-Scarred)": {
+        "steam": {
+            "last_24h": 0.12713333333333335,
+            "last_7d": 0.14013492063492067,
+            "last_30d": 0.14065744680851056,
+            "last_90d": 0.12807349268640755
+        }
+    },
+    "PP-Bizon | Harvester (Minimal Wear)": {
+        "steam": {
+            "last_24h": 0.1444,
+            "last_7d": 0.16028636363636367,
+            "last_30d": 0.1642618806875632,
+            "last_90d": 0.15898716683119443
+        }
+    },
+    "StatTrak™ PP-Bizon | Harvester (Factory New)": {
+        "steam": {
+            "last_24h": 2.37,
+            "last_7d": 2.1671538461538455,
+            "last_30d": 2.3227391304347824,
+            "last_90d": 1.9734748603351961
+        }
+    },
+    "PP-Bizon | Harvester (Factory New)": {
+        "steam": {
+            "last_24h": 0.5615000000000001,
+            "last_7d": 0.5973999999999999,
+            "last_30d": 0.6372283105022831,
+            "last_90d": 0.6461462140992167
+        }
+    },
+    "StatTrak™ PP-Bizon | Harvester (Field-Tested)": {
+        "steam": {
+            "last_24h": 0.2209375,
+            "last_7d": 0.2320476190476191,
+            "last_30d": 0.2474246575342465,
+            "last_90d": 0.25540293890177856
+        }
+    },
+    "PP-Bizon | Jungle Slipstream (Well-Worn)": {
+        "steam": {
+            "last_24h": 0.256875,
+            "last_7d": 0.2522153846153846,
+            "last_30d": 0.2479757085020244,
+            "last_90d": 0.25815191387559805
+        }
+    },
+    "StatTrak™ PP-Bizon | Jungle Slipstream (Field-Tested)": {
+        "steam": {
+            "last_24h": 0.36391666666666667,
+            "last_7d": 0.3605212765957446,
+            "last_30d": 0.3784852941176475,
+            "last_90d": 0.39028846153846153
+        }
+    },
+    "PP-Bizon | Jungle Slipstream (Field-Tested)": {
+        "steam": {
+            "last_24h": 0.23157894736842108,
+            "last_7d": 0.24207171314741033,
+            "last_30d": 0.25788252148997126,
+            "last_90d": 0.2511664050235481
+        }
+    },
+    "StatTrak™ PP-Bizon | Jungle Slipstream (Minimal Wear)": {
+        "steam": {
+            "last_24h": 0.725,
+            "last_7d": 0.6914130434782608,
+            "last_30d": 0.7016402266288949,
+            "last_90d": 0.7395499999999998
+        }
+    },
+    "PP-Bizon | Jungle Slipstream (Battle-Scarred)": {
+        "steam": {
+            "last_24h": 0.23515384615384619,
+            "last_7d": 0.22937037037037045,
+            "last_30d": 0.23840579710144932,
+            "last_90d": 0.3522906793048974
+        }
+    },
+    "PP-Bizon | Jungle Slipstream (Minimal Wear)": {
+        "steam": {
+            "last_24h": 0.2720666666666667,
+            "last_7d": 0.27516956521739144,
+            "last_30d": 0.3067347368421049,
+            "last_90d": 0.3099079975947084
+        }
+    },
+    "PP-Bizon | Jungle Slipstream (Factory New)": {
+        "steam": {
+            "last_24h": 0.38749999999999996,
+            "last_7d": 0.39883333333333343,
+            "last_30d": 0.41814074074074054,
+            "last_90d": 0.41050367775831853
+        }
+    },
+    "StatTrak™ PP-Bizon | Jungle Slipstream (Factory New)": {
+        "steam": {
+            "last_24h": 1.0113999999999999,
+            "last_7d": 1.0595263157894734,
+            "last_30d": 1.020637583892618,
+            "last_90d": 1.0115565939771562
+        }
+    },
+    "StatTrak™ PP-Bizon | Harvester (Battle-Scarred)": {
+        "steam": {
+            "last_24h": 0.1867777777777778,
+            "last_7d": 0.2053392857142857,
+            "last_30d": 0.20841011235955062,
+            "last_90d": 0.21645814307458133
+        }
+    },
+    "StatTrak™ PP-Bizon | Harvester (Well-Worn)": {
+        "steam": {
+            "last_24h": 0.16960000000000003,
+            "last_7d": 0.21539344262295082,
+            "last_30d": 0.21575789473684195,
+            "last_90d": 0.2111795580110497
+        }
+    },
+    "PP-Bizon | High Roller (Well-Worn)": {
+        "steam": {
+            "last_24h": 2.443103448275862,
+            "last_7d": 2.381454545454545,
+            "last_30d": 2.5844999999999994,
+            "last_90d": 2.5178299180327905
+        }
+    },
+    "StatTrak™ PP-Bizon | Jungle Slipstream (Well-Worn)": {
+        "steam": {
+            "last_24h": 4.383333333333334,
+            "last_7d": 1.1264666666666665,
+            "last_30d": 0.4629102564102565,
+            "last_90d": 0.3640366300366299
+        }
+    },
+    "PP-Bizon | High Roller (Battle-Scarred)": {
+        "steam": {
+            "last_24h": 2.0453125,
+            "last_7d": 2.004794642857143,
+            "last_30d": 2.135783231083846,
+            "last_90d": 2.116099350973538
+        }
+    },
+    "PP-Bizon | High Roller (Field-Tested)": {
+        "steam": {
+            "last_24h": 3.049895833333333,
+            "last_7d": 3.066755274261606,
+            "last_30d": 3.2589208443271755,
+            "last_90d": 3.1658196564885475
+        }
+    },
+    "StatTrak™ PP-Bizon | High Roller (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 57.550000000000004,
-            "last_30d": 62.03847619047619,
-            "last_90d": 63.04417142857141
+            "last_7d": 33.375,
+            "last_30d": 38.09278260869565,
+            "last_90d": 36.236135135135136
         }
     },
-    "StatTrak™ Galil AR | Eco (Field-Tested)": {
+    "StatTrak™ PP-Bizon | High Roller (Field-Tested)": {
         "steam": {
-            "last_24h": 10.755142857142857,
-            "last_7d": 12.031218181818184,
-            "last_30d": 12.634277777777777,
-            "last_90d": 12.973286894923271
+            "last_24h": 5.61,
+            "last_7d": 5.4193250000000015,
+            "last_30d": 5.937165413533837,
+            "last_90d": 6.122045454545455
         }
     },
-    "StatTrak™ Galil AR | Eco (Minimal Wear)": {
+    "StatTrak™ PP-Bizon | High Roller (Minimal Wear)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 98.686,
-            "last_30d": 101.2343846153846,
-            "last_90d": 90.14045652173911
+            "last_24h": 11.282499999999999,
+            "last_7d": 12.113159999999995,
+            "last_30d": 13.082887755102039,
+            "last_90d": 12.600075657894738
         }
     },
-    "Galil AR | Eco (Battle-Scarred)": {
+    "StatTrak™ PP-Bizon | Jungle Slipstream (Battle-Scarred)": {
         "steam": {
-            "last_24h": 2.18825,
-            "last_7d": 2.3727050000000007,
-            "last_30d": 2.4228702031602705,
-            "last_90d": 2.4227268328991456
+            "last_24h": 0.25566666666666665,
+            "last_7d": 0.2642857142857143,
+            "last_30d": 0.29278125,
+            "last_90d": 0.8311949999999997
         }
     },
-    "StatTrak™ Galil AR | Chatterbox (Battle-Scarred)": {
+    "PP-Bizon | High Roller (Minimal Wear)": {
         "steam": {
-            "last_24h": 27.56425,
-            "last_7d": 29.23540909090909,
-            "last_30d": 32.263825,
-            "last_90d": 32.47655045871561
+            "last_24h": 5.685266666666665,
+            "last_7d": 5.801017543859647,
+            "last_30d": 6.048207156308849,
+            "last_90d": 5.876164718976072
         }
     },
-    "Galil AR | Eco (Field-Tested)": {
+    "PP-Bizon | High Roller (Factory New)": {
         "steam": {
-            "last_24h": 5.5889999999999995,
-            "last_7d": 5.707527131782945,
-            "last_30d": 5.816290178571432,
-            "last_90d": 5.869526126408006
+            "last_24h": 14.147916666666665,
+            "last_7d": 13.660151515151515,
+            "last_30d": 13.850596330275227,
+            "last_90d": 13.481569696969702
         }
     },
-    "Galil AR | Chatterbox (Battle-Scarred)": {
+    "Sealed Graffiti | Chef Kiss (Blood Red)": {
         "steam": {
-            "last_24h": 7.948916666666666,
-            "last_7d": 7.986046875000002,
-            "last_30d": 8.525460093896719,
-            "last_90d": 8.816943643512449
+            "last_24h": 0.344,
+            "last_7d": 0.30233333333333334,
+            "last_30d": 0.30668965517241387,
+            "last_90d": 0.27957286432160783
         }
     },
-    "Galil AR | Eco (Well-Worn)": {
-        "steam": {
-            "last_24h": 3.2080740740740747,
-            "last_7d": 3.1678579545454544,
-            "last_30d": 3.2450083420229374,
-            "last_90d": 3.338571616294349
-        }
-    },
-    "Galil AR | Aqua Terrace (Field-Tested)": {
+    "Sealed Graffiti | Question Mark (Shark White)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 130.44,
-            "last_30d": 138.79375,
-            "last_90d": 124.85168571428567
+            "last_7d": 0.9277500000000001,
+            "last_30d": 0.8919032258064513,
+            "last_90d": 0.6812138364779873
         }
     },
-    "Galil AR | Aqua Terrace (Well-Worn)": {
+    "Sealed Graffiti | Chef Kiss (Tiger Orange)": {
+        "steam": {
+            "last_24h": 0.12,
+            "last_7d": 0.11342857142857143,
+            "last_30d": 0.11155128205128204,
+            "last_90d": 0.09785057471264369
+        }
+    },
+    "Sealed Graffiti | Chef Kiss (Jungle Green)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 110
+            "last_7d": 0.12416666666666666,
+            "last_30d": 0.11688524590163932,
+            "last_90d": 0.10222707423580789
         }
     },
-    "Galil AR | Rocket Pop (Field-Tested)": {
+    "Sealed Graffiti | Chef Kiss (SWAT Blue)": {
         "steam": {
-            "last_24h": 0.978009523809524,
-            "last_7d": 0.9985879574970484,
-            "last_30d": 1.0554864376130197,
-            "last_90d": 1.0534111992533814
+            "last_24h": 0.13733333333333334,
+            "last_7d": 0.142,
+            "last_30d": 0.13590384615384615,
+            "last_90d": 0.11241798941798949
         }
     },
-    "Galil AR | Rocket Pop (Minimal Wear)": {
+    "Sealed Graffiti | Chef Kiss (Monarch Blue)": {
         "steam": {
-            "last_24h": 2.477353658536585,
-            "last_7d": 2.485032608695654,
-            "last_30d": 2.620813774354329,
-            "last_90d": 2.677929908351618
+            "last_24h": 0.13816666666666666,
+            "last_7d": 0.1360625,
+            "last_30d": 0.14257627118644067,
+            "last_90d": 0.1474734848484849
         }
     },
-    "Galil AR | Aqua Terrace (Minimal Wear)": {
+    "Sealed Graffiti | Chef Kiss (Battle Green)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 140.5612,
-            "last_90d": 125.13366666666666
+            "last_24h": 0.11688888888888889,
+            "last_7d": 0.10838095238095237,
+            "last_30d": 0.10160377358490567,
+            "last_90d": 0.09954404145077722
         }
     },
-    "StatTrak™ Galil AR | Eco (Well-Worn)": {
+    "Sealed Graffiti | Chef Kiss (Tracer Yellow)": {
         "steam": {
-            "last_24h": 5.63175,
-            "last_7d": 6.165967741935485,
-            "last_30d": 6.919965753424657,
-            "last_90d": 7.0681117886178795
+            "last_24h": 0.14800000000000002,
+            "last_7d": 0.14116666666666666,
+            "last_30d": 0.15238709677419354,
+            "last_90d": 0.12232314410480359
         }
     },
-    "StatTrak™ Galil AR | Eco (Battle-Scarred)": {
+    "Sealed Graffiti | Little Bock (Brick Red)": {
         "steam": {
-            "last_24h": 5.058000000000001,
-            "last_7d": 5.646027027027028,
-            "last_30d": 5.461206896551726,
-            "last_90d": 5.882878243512973
+            "last_24h": 0.10525000000000001,
+            "last_7d": 0.16659999999999997,
+            "last_30d": 0.15970512820512822,
+            "last_90d": 0.14102898550724646
         }
     },
-    "Galil AR | Aqua Terrace (Battle-Scarred)": {
+    "Sealed Graffiti | Chef Kiss (Shark White)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 132.25,
-            "last_90d": 115.79
+            "last_24h": 0.145,
+            "last_7d": 0.16584615384615387,
+            "last_30d": 0.16208823529411767,
+            "last_90d": 0.16676221498371327
         }
     },
-    "Galil AR | Rocket Pop (Factory New)": {
+    "Sealed Graffiti | Chef Kiss (War Pig Pink)": {
         "steam": {
-            "last_24h": 7.832750000000001,
-            "last_7d": 7.899227272727272,
-            "last_30d": 8.129418660287072,
-            "last_90d": 8.320120583717355
+            "last_24h": 0.26,
+            "last_7d": 0.2426,
+            "last_30d": 0.24461224489795924,
+            "last_90d": 0.1977611940298507
         }
     },
-    "Galil AR | Aqua Terrace (Factory New)": {
+    "Sealed Graffiti | Chef Kiss (Princess Pink)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 162.618,
-            "last_30d": 160.530875,
-            "last_90d": 159.6904090909091
+            "last_24h": 0.23279999999999998,
+            "last_7d": 0.22294999999999998,
+            "last_30d": 0.21400000000000013,
+            "last_90d": 0.1914444444444444
         }
     },
-    "Galil AR | Rocket Pop (Well-Worn)": {
+    "Sealed Graffiti | Chef Kiss (Bazooka Pink)": {
         "steam": {
-            "last_24h": 0.5181686746987951,
-            "last_7d": 0.5434634525660965,
-            "last_30d": 0.5629492333901193,
-            "last_90d": 0.558887444207257
+            "last_24h": 0.19,
+            "last_7d": 0.217,
+            "last_30d": 0.25864705882352945,
+            "last_90d": 0.2289867841409692
         }
     },
-    "StatTrak™ Galil AR | Rocket Pop (Factory New)": {
+    "Sealed Graffiti | Little Bock (Jungle Green)": {
         "steam": {
-            "last_24h": 20.634,
-            "last_7d": 21.530176470588234,
-            "last_30d": 22.788420289855075,
-            "last_90d": 22.256465306122443
+            "last_24h": 0.13066666666666668,
+            "last_7d": 0.13826666666666665,
+            "last_30d": 0.1344477611940298,
+            "last_90d": 0.11772844827586221
         }
     },
-    "StatTrak™ Galil AR | Rocket Pop (Field-Tested)": {
-        "steam": {
-            "last_24h": 1.7979545454545454,
-            "last_7d": 1.8406898395721925,
-            "last_30d": 1.8238168249660776,
-            "last_90d": 1.8224777546777555
-        }
-    },
-    "Galil AR | Stone Cold (Field-Tested)": {
-        "steam": {
-            "last_24h": 1.5774761904761905,
-            "last_7d": 1.6352904656319283,
-            "last_30d": 1.6977952218430044,
-            "last_90d": 1.7541780580815496
-        }
-    },
-    "StatTrak™ Galil AR | Rocket Pop (Minimal Wear)": {
-        "steam": {
-            "last_24h": 4.6049999999999995,
-            "last_7d": 4.793830357142856,
-            "last_30d": 4.868326415094341,
-            "last_90d": 4.926951985773562
-        }
-    },
-    "Galil AR | Rocket Pop (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 0.38,
-            "last_7d": 0.38806864988558337,
-            "last_30d": 0.3828896034297958,
-            "last_90d": 0.37456818912833767
-        }
-    },
-    "Galil AR | Stone Cold (Factory New)": {
-        "steam": {
-            "last_24h": 7.5811666666666655,
-            "last_7d": 7.5962499999999995,
-            "last_30d": 7.718056291390726,
-            "last_90d": 7.794898158179846
-        }
-    },
-    "StatTrak™ Galil AR | Rocket Pop (Well-Worn)": {
-        "steam": {
-            "last_24h": 0.9740000000000001,
-            "last_7d": 1.0459072164948455,
-            "last_30d": 1.0606458569807042,
-            "last_90d": 1.0567752956636025
-        }
-    },
-    "Galil AR | Stone Cold (Minimal Wear)": {
-        "steam": {
-            "last_24h": 3.178189189189189,
-            "last_7d": 3.2588761904761907,
-            "last_30d": 3.4499119683481663,
-            "last_90d": 3.4642193059200936
-        }
-    },
-    "StatTrak™ Galil AR | Rocket Pop (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 0.6878421052631579,
-            "last_7d": 0.7801623931623931,
-            "last_30d": 0.760588336192109,
-            "last_90d": 0.7201799086757993
-        }
-    },
-    "Souvenir Sawed-Off | Full Stop (Battle-Scarred)": {
+    "Sealed Graffiti | Little Bock (Frog Green)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": null
+            "last_7d": 0.1546,
+            "last_30d": 0.14086274509803923,
+            "last_90d": 0.12454773869346739
         }
     },
-    "Sawed-Off | The Kraken (Well-Worn)": {
+    "Sealed Graffiti | Little Bock (Bazooka Pink)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 8.91275,
-            "last_30d": 9.658538461538463,
-            "last_90d": 9.63301612903226
+            "last_7d": 0.409625,
+            "last_30d": 0.4300285714285714,
+            "last_90d": 0.32781203007518817
         }
     },
-    "Souvenir Sawed-Off | Full Stop (Well-Worn)": {
+    "Sealed Graffiti | Little Bock (Wire Blue)": {
+        "steam": {
+            "last_24h": 0.168,
+            "last_7d": 0.13483333333333333,
+            "last_30d": 0.1479473684210526,
+            "last_90d": 0.14826940639269404
+        }
+    },
+    "Sealed Graffiti | Little Bock (Battle Green)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": null
+            "last_7d": 0.15874999999999997,
+            "last_30d": 0.15178461538461538,
+            "last_90d": 0.12533203125
         }
     },
-    "Souvenir Sawed-Off | Full Stop (Field-Tested)": {
+    "Sealed Graffiti | Little Bock (Cash Green)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 62.008,
-            "last_90d": 57.8205
+            "last_7d": 0.1382307692307692,
+            "last_30d": 0.1441538461538462,
+            "last_90d": 0.12052857142857142
         }
     },
-    "Souvenir Sawed-Off | Full Stop (Minimal Wear)": {
+    "Sealed Graffiti | Little Bock (War Pig Pink)": {
+        "steam": {
+            "last_24h": 0.19000000000000003,
+            "last_7d": 0.21199999999999997,
+            "last_30d": 0.22324528301886795,
+            "last_90d": 0.18224999999999994
+        }
+    },
+    "Sealed Graffiti | Little Bock (Princess Pink)": {
+        "steam": {
+            "last_24h": 0.418,
+            "last_7d": 0.18492105263157899,
+            "last_30d": 0.4083240740740741,
+            "last_90d": 0.2729786476868328
+        }
+    },
+    "Sealed Graffiti | Choke (Blood Red)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 65.83,
-            "last_30d": 65.83,
-            "last_90d": 70
+            "last_7d": 0.5599999999999999,
+            "last_30d": 0.6223018867924527,
+            "last_90d": 0.5944600000000002
         }
     },
-    "Sawed-Off | The Kraken (Minimal Wear)": {
+    "Sealed Graffiti | Choke (Desert Amber)": {
         "steam": {
-            "last_24h": 4.682454545454545,
-            "last_7d": 4.543803278688526,
-            "last_30d": 4.488389078498293,
-            "last_90d": 4.719977272727273
+            "last_24h": 0.257,
+            "last_7d": 0.28500000000000003,
+            "last_30d": 0.34678787878787876,
+            "last_90d": 0.27867567567567564
         }
     },
-    "StatTrak™ Sawed-Off | The Kraken (Minimal Wear)": {
+    "Sealed Graffiti | Choke (Tiger Orange)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 18.890333333333334,
-            "last_30d": 19.60980952380952,
-            "last_90d": 20.93125
+            "last_24h": 0.32,
+            "last_7d": 0.36699999999999994,
+            "last_30d": 0.3426744186046512,
+            "last_90d": 0.28504624277456647
         }
     },
-    "Sawed-Off | The Kraken (Field-Tested)": {
+    "Sealed Graffiti | Choke (Brick Red)": {
         "steam": {
-            "last_24h": 4.1971304347826095,
-            "last_7d": 4.042820000000001,
-            "last_30d": 3.933756286266927,
-            "last_90d": 4.40484930643127
+            "last_24h": 0.478,
+            "last_7d": 0.433875,
+            "last_30d": 0.4137049180327871,
+            "last_90d": 0.41541666666666677
         }
     },
-    "StatTrak™ Sawed-Off | The Kraken (Factory New)": {
+    "Sealed Graffiti | Choke (Battle Green)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 40.79,
-            "last_30d": 43.2164375,
-            "last_90d": 45.02334285714287
+            "last_24h": 0.45458333333333334,
+            "last_7d": 0.40820000000000006,
+            "last_30d": 0.4259038461538462,
+            "last_90d": 0.30934482758620696
         }
     },
-    "Sawed-Off | The Kraken (Factory New)": {
+    "Sealed Graffiti | Little Bock (Shark White)": {
         "steam": {
-            "last_24h": 5.722666666666667,
-            "last_7d": 5.954033333333333,
-            "last_30d": 6.442565217391302,
-            "last_90d": 6.716138817480722
+            "last_24h": 0.367,
+            "last_7d": 0.291,
+            "last_30d": 0.3715714285714286,
+            "last_90d": 0.23061599999999993
         }
     },
-    "Sawed-Off | Rust Coat (Well-Worn)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 17.317,
-            "last_30d": 18.12325,
-            "last_90d": 17.6336
-        }
-    },
-    "Sawed-Off | Rust Coat (Field-Tested)": {
+    "Sealed Graffiti | Choke (Wire Blue)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 18.5584,
-            "last_30d": 19.619533333333333,
-            "last_90d": 17.584584459459457
+            "last_7d": 0.30019999999999997,
+            "last_30d": 0.34506122448979604,
+            "last_90d": 0.3072499999999999
         }
     },
-    "StatTrak™ Sawed-Off | The Kraken (Well-Worn)": {
+    "Sealed Graffiti | Choke (Cash Green)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": null
+            "last_7d": 0.3772500000000001,
+            "last_30d": 0.3882250000000001,
+            "last_90d": 0.31376973684210546
         }
     },
-    "Souvenir Sawed-Off | Rust Coat (Factory New)": {
+    "Sealed Graffiti | Choke (Monster Purple)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 4.355600000000001,
-            "last_90d": 5.33023076923077
-        }
-    },
-    "Sawed-Off | Rust Coat (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 16.526,
-            "last_7d": 16.864,
-            "last_30d": 19.543740740740738,
-            "last_90d": 17.70120270270271
-        }
-    },
-    "Souvenir Sawed-Off | Rust Coat (Minimal Wear)": {
-        "steam": {
-            "last_24h": 1.101,
-            "last_7d": 1.0803333333333334,
-            "last_30d": 1.1117499999999998,
-            "last_90d": 1.1284235294117646
-        }
-    },
-    "Souvenir Sawed-Off | Rust Coat (Field-Tested)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 0.8249444444444445,
-            "last_30d": 0.8905074626865673,
-            "last_90d": 0.8526099290780137
-        }
-    },
-    "Sawed-Off | Rust Coat (Factory New)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 19.932,
-            "last_30d": 23.91725,
-            "last_90d": 22.46435294117647
-        }
-    },
-    "Sawed-Off | Rust Coat (Minimal Wear)": {
-        "steam": {
-            "last_24h": 18.12,
-            "last_7d": 18.285,
-            "last_30d": 20.916607142857142,
-            "last_90d": 18.749681318681326
-        }
-    },
-    "StatTrak™ Sawed-Off | The Kraken (Field-Tested)": {
-        "steam": {
-            "last_24h": 15,
-            "last_7d": 14.23976923076923,
-            "last_30d": 14.231027777777777,
-            "last_90d": 14.926805825242717
-        }
-    },
-    "Sawed-Off | First Class (Well-Worn)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 34,
-            "last_30d": 44.335,
-            "last_90d": 39.626333333333335
-        }
-    },
-    "Sawed-Off | First Class (Minimal Wear)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 37.21675,
-            "last_90d": 38.30303225806451
-        }
-    },
-    "Souvenir Sawed-Off | Rust Coat (Well-Worn)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 13.16575,
-            "last_90d": 7.883538461538462
-        }
-    },
-    "Sawed-Off | First Class (Battle-Scarred)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": null,
-            "last_90d": 33.76
-        }
-    },
-    "Sawed-Off | First Class (Factory New)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": null,
-            "last_30d": 56.964,
-            "last_90d": 48.93280000000001
-        }
-    },
-    "Sawed-Off | First Class (Field-Tested)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 33.797,
-            "last_30d": 35.35154545454546,
-            "last_90d": 34.84676470588234
-        }
-    },
-    "Sawed-Off | Highwayman (Field-Tested)": {
-        "steam": {
-            "last_24h": 0.6875,
-            "last_7d": 0.7511176470588234,
-            "last_30d": 0.8012629482071719,
-            "last_90d": 0.7939402628434876
-        }
-    },
-    "Sawed-Off | Highwayman (Factory New)": {
-        "steam": {
-            "last_24h": 4.125,
-            "last_7d": 2.5701764705882355,
-            "last_30d": 2.509052631578948,
-            "last_90d": 2.7565209580838332
-        }
-    },
-    "Sawed-Off | Highwayman (Minimal Wear)": {
-        "steam": {
-            "last_24h": 1.2476666666666665,
-            "last_7d": 1.3758333333333332,
-            "last_30d": 1.390050955414013,
-            "last_90d": 1.4404211663066964
-        }
-    },
-    "StatTrak™ Sawed-Off | Highwayman (Field-Tested)": {
-        "steam": {
-            "last_24h": 2.088,
-            "last_7d": 2.2605999999999997,
-            "last_30d": 2.3355645161290317,
-            "last_90d": 2.4179189189189194
+            "last_24h": 0.41,
+            "last_7d": 0.3916111111111112,
+            "last_30d": 0.40237096774193554,
+            "last_90d": 0.44872560975609743
         }
     }
 }
