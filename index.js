@@ -1,32 +1,29 @@
 const SteamCommunity = require("steamcommunity");
 const fs = require("fs");
 const sha1 = require("js-sha1");
+
 const dir = `./static`;
 const dirPrices = `./static/prices`;
 const dirPricehistory = `./static/pricehistory`;
 const itemsApiBase = "https://cs2-api.vercel.app/api/en";
-const marketBase = "https://steamcommunity.com/market";
+const marketBaseURL = "https://steamcommunity.com/market";
 
 if (process.argv.length != 4) {
     console.error(`Missing input arguments, expected 4 got ${process.argv.length}`);
     process.exit(1);
 }
 
-if (!fs.existsSync(dir)) {
-    fs.mkdirSync(dir);
-}
+const directories = [dir, dirPrices, dirPricehistory];
 
-if (!fs.existsSync(dirPrices)) {
-    fs.mkdirSync(dirPrices);
-}
-
-if (!fs.existsSync(dirPricehistory)) {
-    fs.mkdirSync(dirPricehistory);
-}
+directories.forEach(directory => {
+    if (!fs.existsSync(directory)) {
+        fs.mkdirSync(directory);
+    }
+});
 
 let community = new SteamCommunity();
 
-console.log("Logging into Steam community....");
+console.log("Logging into Steam...");
 
 community.login(
     {
@@ -87,14 +84,19 @@ async function getAllItemNames() {
 
 async function fetchPrice(name) {
     return new Promise((resolve, reject) => {
-        community.request.get(
-            `${marketBase}/pricehistory/?appid=730&market_hash_name=${encodeURI(name)}`,
+        community.request.get(`${marketBaseURL}/pricehistory/?appid=730&market_hash_name=${encodeURIComponent(name)}`,
             (err, res) => {
                 if (err) {
                     reject(err);
                     return;
                 }
                 try {
+                    if (res.statusCode > 400) {
+                        console.log('[ERROR]', res.statusCode, res.statusMessage);
+                        console.log(`${marketBaseURL}/pricehistory/?appid=730&market_hash_name=${encodeURIComponent(name)}`);
+                        resolve([]);
+                    }
+
                     const prices = (JSON.parse(res.body).prices || []).map(
                         ([time, value, volume]) => ({
                             time: Date.parse(time),
@@ -115,10 +117,10 @@ async function processBatch(batch) {
     const promises = batch.map((name) =>
         fetchPrice(name)
             .then((prices) => {
-                priceDataByItemHashName[name] = {
-                    steam: getWeightedAveragePrice(prices),
-                };
-                if (prices.length) {
+                if (prices.length > 0) {
+                    priceDataByItemHashName[name] = {
+                        steam: getWeightedAveragePrice(prices),
+                    };
                     const hashedName = sha1(name);
                     const filteredPrices = prices.splice(-500);
                     return fs.writeFile(
@@ -133,55 +135,20 @@ async function processBatch(batch) {
     await Promise.all(promises);
 }
 
-async function processItems(items, batchSize = 10) {
-    
-    const delayPerBatch = 0;
+async function processItems(items, batchSize = 1) {
+    const requestsPerMinute = 30;
+    const delayPerBatch = (60 / requestsPerMinute) * batchSize * 1000;
 
     for (let i = 0; i < items.length; i += batchSize) {
         const batch = items.slice(i, i + batchSize);
         await processBatch(batch);
-        console.log(
-            `Processed batch ${i / batchSize + 1}/${Math.ceil(
-                items.length / batchSize
-            )}`
-        );
+        console.log(`Processed batch ${i / batchSize + 1}/${Math.ceil(items.length / batchSize)}`);
 
         if (i + batchSize < items.length) {
-            console.log(
-                `Waiting for ${
-                    delayPerBatch / 1000
-                } seconds to respect rate limit...`
-            );
+            console.log(`Waiting for ${ delayPerBatch / 1000 } seconds to respect rate limit...`);
             await new Promise((resolve) => setTimeout(resolve, delayPerBatch));
         }
     }
-}
-
-function getMedianPrice(data) {
-    const now = Date.now();
-
-    const filterByTime = (days) => {
-        const limit = now - days * 24 * 60 * 60 * 1000;
-        return data
-            .filter(({ time }) => time >= limit)
-            .map((item) => item.value)
-            .sort((a, b) => a - b);
-    };
-
-    const calculateMedian = (values) => {
-        if (values.length === 0) return null;
-        const mid = Math.floor(values.length / 2);
-        return values.length % 2 === 0
-            ? (values[mid - 1] + values[mid]) / 2
-            : values[mid];
-    };
-
-    return {
-        last_24h: calculateMedian(filterByTime(1)),
-        last_7d: calculateMedian(filterByTime(7)),
-        last_30d: calculateMedian(filterByTime(30)),
-        last_90d: calculateMedian(filterByTime(90)),
-    };
 }
 
 function getWeightedAveragePrice(data) {
@@ -205,6 +172,7 @@ function getWeightedAveragePrice(data) {
     return {
         last_24h: calculateWAP(1),
         last_7d: calculateWAP(7),
+        last_14d: calculateWAP(14),
         last_30d: calculateWAP(30),
         last_90d: calculateWAP(90),
     };

@@ -1,32 +1,7 @@
 {
-    "material-icon-theme.folders.associations": {
-      "deprecated": "Archive",
-      "development": "Test",
-      "production": "Dist",
-      "protection": "Guard",
-      "presets": "Template",
-      "default": "Project",
-      "playground": "typescript",
-      "firestore": "Firebase",
-      "mongodb": "Database",
-      "mysql": "Database",
-      "quickdb": "Json",
-      "responders": "Meta"
-    },
-    "material-icon-theme.files.associations": {
-      "settings.json": "Raml",
-      "config.json": "Raml",
-      "*.lang.json": "i18n",
-      "lang.json": "i18n",
-      "gitignore": "Git"
-    },
-    "material-icon-theme.folders.theme": "specific",
     "explorer.fileNesting.enabled": true,
     "explorer.fileNesting.patterns": {
       ".env": ".env.development, .env.production, .env.test, .env.example",
       "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb, tsconfig.json, .eslintrc.json, .gitignore, LICENSE, ignore.txt",
     },
-    "typescript.suggest.autoImports": true,
-    "window.title": "${rootName}${separator}${appName}",
-    "files.autoSave": "afterDelay",
   }

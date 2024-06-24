@@ -1,165 +1,125 @@
 {
-    "Desert Eagle | Urban DDPAT (Minimal Wear)": {
+    "Gift Package": {
         "steam": {
-            "last_24h": 3.5405,
-            "last_7d": 3.9049607843137246,
-            "last_30d": 3.8802099236641223,
-            "last_90d": 3.720589239965839
+            "last_24h": 4.238636363636363,
+            "last_7d": 4.3548114754098375,
+            "last_30d": 4.788537671232878,
+            "last_90d": 4.67240045506257
         }
     },
-    "Souvenir Desert Eagle | Urban DDPAT (Factory New)": {
-        "steam": {
-            "last_24h": 16.5,
-            "last_7d": 15.4316,
-            "last_30d": 17.179916666666667,
-            "last_90d": 16.946976744186045
-        }
-    },
-    "Desert Eagle | Urban DDPAT (Field-Tested)": {
-        "steam": {
-            "last_24h": 3.444454545454545,
-            "last_7d": 3.4174470588235306,
-            "last_30d": 3.4544878048780467,
-            "last_90d": 3.0833915461624044
-        }
-    },
-    "Desert Eagle | Urban DDPAT (Factory New)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 16.8862,
-            "last_30d": 18.528200000000002,
-            "last_90d": 19.283449999999995
-        }
-    },
-    "Desert Eagle | Urban DDPAT (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 2.8005,
-            "last_7d": 2.889134615384616,
-            "last_30d": 2.8996824644549757,
-            "last_90d": 2.7226424581005584
-        }
-    },
-    "Desert Eagle | Urban DDPAT (Well-Worn)": {
-        "steam": {
-            "last_24h": 2.605,
-            "last_7d": 2.892727272727272,
-            "last_30d": 2.847801801801802,
-            "last_90d": 2.844640287769784
-        }
-    },
-    "Souvenir Desert Eagle | Urban DDPAT (Field-Tested)": {
-        "steam": {
-            "last_24h": 0.6162500000000001,
-            "last_7d": 0.6159060052219321,
-            "last_30d": 0.650551059730251,
-            "last_90d": 0.727752551918338
-        }
-    },
-    "Souvenir Desert Eagle | Urban DDPAT (Minimal Wear)": {
-        "steam": {
-            "last_24h": 2.6792307692307693,
-            "last_7d": 2.452459016393441,
-            "last_30d": 2.4639064449064447,
-            "last_90d": 2.635100303951369
-        }
-    },
-    "Souvenir Desert Eagle | Urban DDPAT (Well-Worn)": {
-        "steam": {
-            "last_24h": 1.0897894736842106,
-            "last_7d": 1.0646560000000003,
-            "last_30d": 1.078960629921259,
-            "last_90d": 1.0811538461538464
-        }
-    },
-    "Souvenir Desert Eagle | Urban DDPAT (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 0.654,
-            "last_7d": 0.7224752475247523,
-            "last_30d": 0.7706293859649113,
-            "last_90d": 0.8152656250000009
-        }
-    },
-    "Desert Eagle | Hypnotic (Minimal Wear)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 111.45,
-            "last_30d": 113.225,
-            "last_90d": 116.23333333333335
-        }
-    },
-    "Desert Eagle | Blaze (Minimal Wear)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 613.5,
-            "last_30d": 613.5,
-            "last_90d": 591.8805000000001
-        }
-    },
-    "StatTrak™ Desert Eagle | Hypnotic (Factory New)": {
+    "Pallet of Presents": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 181.4604117647059,
-            "last_90d": 176.58204615384614
+            "last_30d": null,
+            "last_90d": 158.17533333333333
         }
     },
-    "Desert Eagle | Night (Factory New)": {
+    "Audience Participation Parcel": {
         "steam": {
             "last_24h": null,
-            "last_7d": 77.31,
-            "last_30d": 81.57291304347825,
-            "last_90d": 78.504987654321
+            "last_7d": 80.497,
+            "last_30d": 80.497,
+            "last_90d": 72.3998
         }
     },
-    "Desert Eagle | Night (Minimal Wear)": {
+    "CS:GO Weapon Case": {
         "steam": {
-            "last_24h": 15.385749999999996,
-            "last_7d": 16.53774285714285,
-            "last_30d": 17.97639186295505,
-            "last_90d": 17.207603296703297
+            "last_24h": 97.32766233766235,
+            "last_7d": 97.75474150485437,
+            "last_30d": 99.34093150684939,
+            "last_90d": 93.62317604943858
         }
     },
-    "Desert Eagle | Night (Well-Worn)": {
+    "eSports 2013 Case": {
         "steam": {
-            "last_24h": 10.12,
-            "last_7d": 11.412,
-            "last_30d": 12.013188235294116,
-            "last_90d": 11.387990131578947
+            "last_24h": 46.910375,
+            "last_7d": 46.359564516129026,
+            "last_30d": 49.20959307359308,
+            "last_90d": 49.22010266940454
         }
     },
-    "Desert Eagle | Blaze (Factory New)": {
+    "Operation Bravo Case": {
+        "steam": {
+            "last_24h": 45.65968939393938,
+            "last_7d": 46.31734774774774,
+            "last_30d": 47.73035815002818,
+            "last_90d": 47.18623316387733
+        }
+    },
+    "CS:GO Weapon Case 2": {
+        "steam": {
+            "last_24h": 14.428027932960894,
+            "last_7d": 14.470305728088341,
+            "last_30d": 14.333194878871494,
+            "last_90d": 13.432893984847722
+        }
+    },
+    "eSports 2013 Winter Case": {
+        "steam": {
+            "last_24h": 9.879527027027027,
+            "last_7d": 9.96563392857143,
+            "last_30d": 10.486449369136201,
+            "last_90d": 10.210685862309466
+        }
+    },
+    "DreamHack 2013 Souvenir Package": {
         "steam": {
             "last_24h": null,
-            "last_7d": 707.8928888888888,
-            "last_30d": 772.680125,
-            "last_90d": 769.8623103448277
+            "last_7d": 1107.56,
+            "last_30d": 1107.56,
+            "last_90d": 666.579
         }
     },
-    "Desert Eagle | Hypnotic (Factory New)": {
+    "Sticker Capsule": {
         "steam": {
-            "last_24h": 104.575,
-            "last_7d": 110.98719047619049,
-            "last_30d": 113.27659322033902,
-            "last_90d": 114.42094601542416
+            "last_24h": 0.6045384615384616,
+            "last_7d": 0.6126327292110872,
+            "last_30d": 0.6431432071542313,
+            "last_90d": 0.6730914196567873
         }
     },
-    "Desert Eagle | Night (Field-Tested)": {
+    "Winter Offensive Weapon Case": {
         "steam": {
-            "last_24h": 12.369199999999998,
-            "last_7d": 12.695779411764708,
-            "last_30d": 13.070165492957754,
-            "last_90d": 12.484754016064262
+            "last_24h": 6.846289156626507,
+            "last_7d": 6.56675188442211,
+            "last_30d": 6.654367242117278,
+            "last_90d": 6.330688673774366
         }
     },
-    "Desert Eagle | Night (Battle-Scarred)": {
+    "CS:GO Weapon Case 3": {
         "steam": {
-            "last_24h": 11.89,
-            "last_7d": 12.541649999999997,
-            "last_30d": 12.561106382978723,
-            "last_90d": 11.414265664160402
+            "last_24h": 7.818540540540542,
+            "last_7d": 7.558550692924869,
+            "last_30d": 7.515766434020458,
+            "last_90d": 7.332833847661026
         }
     },
-    "Souvenir Desert Eagle | Mudder (Factory New)": {
+    "Operation Phoenix Weapon Case": {
+        "steam": {
+            "last_24h": 3.8035407166123765,
+            "last_7d": 3.7533959721819774,
+            "last_30d": 3.731413776924719,
+            "last_90d": 3.512143722832276
+        }
+    },
+    "Sticker Capsule 2": {
+        "steam": {
+            "last_24h": 15.550047619047621,
+            "last_7d": 15.856677943166435,
+            "last_30d": 16.185922016861216,
+            "last_90d": 16.56706225339764
+        }
+    },
+    "EMS One 2014 Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 851.5
+        }
+    },
+    "EMS Katowice 2014 Challengers": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
@@ -167,7 +127,7 @@
             "last_90d": null
         }
     },
-    "Souvenir Desert Eagle | Mudder (Minimal Wear)": {
+    "EMS Katowice 2014 Legends": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
@@ -175,31 +135,79 @@
             "last_90d": null
         }
     },
-    "Desert Eagle | Mudder (Well-Worn)": {
+    "Community Sticker Capsule 1": {
         "steam": {
-            "last_24h": 0.041411458333333324,
-            "last_7d": 0.038449264705882356,
-            "last_30d": 0.0372654532348171,
-            "last_90d": 0.037597399150743026
+            "last_24h": 3.134522058823529,
+            "last_7d": 3.089782363977487,
+            "last_30d": 3.0872955675675664,
+            "last_90d": 3.1710029114007794
         }
     },
-    "Souvenir Desert Eagle | Mudder (Field-Tested)": {
+    "Huntsman Weapon Case": {
+        "steam": {
+            "last_24h": 10.427693693693692,
+            "last_7d": 10.190890439276485,
+            "last_30d": 10.355950823421763,
+            "last_90d": 9.850337009551303
+        }
+    },
+    "Operation Breakout Weapon Case": {
+        "steam": {
+            "last_24h": 7.5857744075829405,
+            "last_7d": 7.611147341415564,
+            "last_30d": 7.832285850533104,
+            "last_90d": 7.545873966116625
+        }
+    },
+    "eSports 2014 Summer Case": {
+        "steam": {
+            "last_24h": 9.214877192982456,
+            "last_7d": 9.567112040133784,
+            "last_30d": 9.901888660640926,
+            "last_90d": 9.440909207161129
+        }
+    },
+    "ESL One Cologne 2014 Legends": {
+        "steam": {
+            "last_24h": 94.035,
+            "last_7d": 101.24746666666668,
+            "last_30d": 105.72289285714284,
+            "last_90d": 102.35019373219377
+        }
+    },
+    "ESL One Cologne 2014 Challengers": {
+        "steam": {
+            "last_24h": 72.257,
+            "last_7d": 82.016,
+            "last_30d": 85.08401818181818,
+            "last_90d": 83.25260301507537
+        }
+    },
+    "ESL One Cologne 2014 Dust II Souvenir Package": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
             "last_30d": null,
-            "last_90d": 70.168
+            "last_90d": 132.6015
         }
     },
-    "StatTrak™ Desert Eagle | Hypnotic (Minimal Wear)": {
+    "ESL One Cologne 2014 Inferno Souvenir Package": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 194.8915,
-            "last_90d": 200.7344
+            "last_30d": 122.96133333333334,
+            "last_90d": 100.63137499999999
         }
     },
-    "Souvenir Desert Eagle | Mudder (Well-Worn)": {
+    "ESL One Cologne 2014 Mirage Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 186.19
+        }
+    },
+    "ESL One Cologne 2014 Nuke Souvenir Package": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
@@ -207,516 +215,2972 @@
             "last_90d": null
         }
     },
-    "Desert Eagle | Mudder (Field-Tested)": {
-        "steam": {
-            "last_24h": 0.03579233226837061,
-            "last_7d": 0.035616243108780435,
-            "last_30d": 0.03485614516977382,
-            "last_90d": 0.03529285720405423
-        }
-    },
-    "Desert Eagle | Mudder (Minimal Wear)": {
-        "steam": {
-            "last_24h": 0.061250000000000006,
-            "last_7d": 0.05886036426712924,
-            "last_30d": 0.05756926262850381,
-            "last_90d": 0.06120230728429966
-        }
-    },
-    "Desert Eagle | Mudder (Factory New)": {
-        "steam": {
-            "last_24h": 0.46568,
-            "last_7d": 0.485943722943723,
-            "last_30d": 0.5322955771305294,
-            "last_90d": 0.5886969301110391
-        }
-    },
-    "Desert Eagle | Mudder (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 0.04116216216216217,
-            "last_7d": 0.03811807024968262,
-            "last_30d": 0.036888933440256635,
-            "last_90d": 0.03701329095637104
-        }
-    },
-    "StatTrak™ PP-Bizon | Judgement of Anubis (Well-Worn)": {
+    "ESL One Cologne 2014 Cache Souvenir Package": {
         "steam": {
             "last_24h": null,
-            "last_7d": 10.725714285714288,
-            "last_30d": 11.770483870967743,
-            "last_90d": 11.761573333333336
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": null
         }
     },
-    "StatTrak™ PP-Bizon | Judgement of Anubis (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 9.92,
-            "last_7d": 11.116333333333335,
-            "last_30d": 11.5476,
-            "last_90d": 12.009731707317075
-        }
-    },
-    "StatTrak™ PP-Bizon | Harvester (Minimal Wear)": {
-        "steam": {
-            "last_24h": 0.5376666666666666,
-            "last_7d": 0.6016195652173912,
-            "last_30d": 0.5805121951219511,
-            "last_90d": 0.5676764705882356
-        }
-    },
-    "PP-Bizon | Harvester (Field-Tested)": {
-        "steam": {
-            "last_24h": 0.18961616161616163,
-            "last_7d": 0.1851401273885349,
-            "last_30d": 0.17491230692575999,
-            "last_90d": 0.14801563279560903
-        }
-    },
-    "PP-Bizon | Harvester (Well-Worn)": {
-        "steam": {
-            "last_24h": 0.12444444444444443,
-            "last_7d": 0.15116498316498317,
-            "last_30d": 0.15226770060687797,
-            "last_90d": 0.14752854251012112
-        }
-    },
-    "PP-Bizon | Harvester (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 0.12713333333333335,
-            "last_7d": 0.14013492063492067,
-            "last_30d": 0.14065744680851056,
-            "last_90d": 0.12807349268640755
-        }
-    },
-    "PP-Bizon | Harvester (Minimal Wear)": {
-        "steam": {
-            "last_24h": 0.1444,
-            "last_7d": 0.16028636363636367,
-            "last_30d": 0.1642618806875632,
-            "last_90d": 0.15898716683119443
-        }
-    },
-    "StatTrak™ PP-Bizon | Harvester (Factory New)": {
-        "steam": {
-            "last_24h": 2.37,
-            "last_7d": 2.1671538461538455,
-            "last_30d": 2.3227391304347824,
-            "last_90d": 1.9734748603351961
-        }
-    },
-    "PP-Bizon | Harvester (Factory New)": {
-        "steam": {
-            "last_24h": 0.5615000000000001,
-            "last_7d": 0.5973999999999999,
-            "last_30d": 0.6372283105022831,
-            "last_90d": 0.6461462140992167
-        }
-    },
-    "StatTrak™ PP-Bizon | Harvester (Field-Tested)": {
-        "steam": {
-            "last_24h": 0.2209375,
-            "last_7d": 0.2320476190476191,
-            "last_30d": 0.2474246575342465,
-            "last_90d": 0.25540293890177856
-        }
-    },
-    "PP-Bizon | Jungle Slipstream (Well-Worn)": {
-        "steam": {
-            "last_24h": 0.256875,
-            "last_7d": 0.2522153846153846,
-            "last_30d": 0.2479757085020244,
-            "last_90d": 0.25815191387559805
-        }
-    },
-    "StatTrak™ PP-Bizon | Jungle Slipstream (Field-Tested)": {
-        "steam": {
-            "last_24h": 0.36391666666666667,
-            "last_7d": 0.3605212765957446,
-            "last_30d": 0.3784852941176475,
-            "last_90d": 0.39028846153846153
-        }
-    },
-    "PP-Bizon | Jungle Slipstream (Field-Tested)": {
-        "steam": {
-            "last_24h": 0.23157894736842108,
-            "last_7d": 0.24207171314741033,
-            "last_30d": 0.25788252148997126,
-            "last_90d": 0.2511664050235481
-        }
-    },
-    "StatTrak™ PP-Bizon | Jungle Slipstream (Minimal Wear)": {
-        "steam": {
-            "last_24h": 0.725,
-            "last_7d": 0.6914130434782608,
-            "last_30d": 0.7016402266288949,
-            "last_90d": 0.7395499999999998
-        }
-    },
-    "PP-Bizon | Jungle Slipstream (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 0.23515384615384619,
-            "last_7d": 0.22937037037037045,
-            "last_30d": 0.23840579710144932,
-            "last_90d": 0.3522906793048974
-        }
-    },
-    "PP-Bizon | Jungle Slipstream (Minimal Wear)": {
-        "steam": {
-            "last_24h": 0.2720666666666667,
-            "last_7d": 0.27516956521739144,
-            "last_30d": 0.3067347368421049,
-            "last_90d": 0.3099079975947084
-        }
-    },
-    "PP-Bizon | Jungle Slipstream (Factory New)": {
-        "steam": {
-            "last_24h": 0.38749999999999996,
-            "last_7d": 0.39883333333333343,
-            "last_30d": 0.41814074074074054,
-            "last_90d": 0.41050367775831853
-        }
-    },
-    "StatTrak™ PP-Bizon | Jungle Slipstream (Factory New)": {
-        "steam": {
-            "last_24h": 1.0113999999999999,
-            "last_7d": 1.0595263157894734,
-            "last_30d": 1.020637583892618,
-            "last_90d": 1.0115565939771562
-        }
-    },
-    "StatTrak™ PP-Bizon | Harvester (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 0.1867777777777778,
-            "last_7d": 0.2053392857142857,
-            "last_30d": 0.20841011235955062,
-            "last_90d": 0.21645814307458133
-        }
-    },
-    "StatTrak™ PP-Bizon | Harvester (Well-Worn)": {
-        "steam": {
-            "last_24h": 0.16960000000000003,
-            "last_7d": 0.21539344262295082,
-            "last_30d": 0.21575789473684195,
-            "last_90d": 0.2111795580110497
-        }
-    },
-    "PP-Bizon | High Roller (Well-Worn)": {
-        "steam": {
-            "last_24h": 2.443103448275862,
-            "last_7d": 2.381454545454545,
-            "last_30d": 2.5844999999999994,
-            "last_90d": 2.5178299180327905
-        }
-    },
-    "StatTrak™ PP-Bizon | Jungle Slipstream (Well-Worn)": {
-        "steam": {
-            "last_24h": 4.383333333333334,
-            "last_7d": 1.1264666666666665,
-            "last_30d": 0.4629102564102565,
-            "last_90d": 0.3640366300366299
-        }
-    },
-    "PP-Bizon | High Roller (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 2.0453125,
-            "last_7d": 2.004794642857143,
-            "last_30d": 2.135783231083846,
-            "last_90d": 2.116099350973538
-        }
-    },
-    "PP-Bizon | High Roller (Field-Tested)": {
-        "steam": {
-            "last_24h": 3.049895833333333,
-            "last_7d": 3.066755274261606,
-            "last_30d": 3.2589208443271755,
-            "last_90d": 3.1658196564885475
-        }
-    },
-    "StatTrak™ PP-Bizon | High Roller (Factory New)": {
+    "ESL One Cologne 2014 Cobblestone Souvenir Package": {
         "steam": {
             "last_24h": null,
-            "last_7d": 33.375,
-            "last_30d": 38.09278260869565,
-            "last_90d": 36.236135135135136
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": null
         }
     },
-    "StatTrak™ PP-Bizon | High Roller (Field-Tested)": {
-        "steam": {
-            "last_24h": 5.61,
-            "last_7d": 5.4193250000000015,
-            "last_30d": 5.937165413533837,
-            "last_90d": 6.122045454545455
-        }
-    },
-    "StatTrak™ PP-Bizon | High Roller (Minimal Wear)": {
-        "steam": {
-            "last_24h": 11.282499999999999,
-            "last_7d": 12.113159999999995,
-            "last_30d": 13.082887755102039,
-            "last_90d": 12.600075657894738
-        }
-    },
-    "StatTrak™ PP-Bizon | Jungle Slipstream (Battle-Scarred)": {
-        "steam": {
-            "last_24h": 0.25566666666666665,
-            "last_7d": 0.2642857142857143,
-            "last_30d": 0.29278125,
-            "last_90d": 0.8311949999999997
-        }
-    },
-    "PP-Bizon | High Roller (Minimal Wear)": {
-        "steam": {
-            "last_24h": 5.685266666666665,
-            "last_7d": 5.801017543859647,
-            "last_30d": 6.048207156308849,
-            "last_90d": 5.876164718976072
-        }
-    },
-    "PP-Bizon | High Roller (Factory New)": {
-        "steam": {
-            "last_24h": 14.147916666666665,
-            "last_7d": 13.660151515151515,
-            "last_30d": 13.850596330275227,
-            "last_90d": 13.481569696969702
-        }
-    },
-    "Sealed Graffiti | Chef Kiss (Blood Red)": {
-        "steam": {
-            "last_24h": 0.344,
-            "last_7d": 0.30233333333333334,
-            "last_30d": 0.30668965517241387,
-            "last_90d": 0.27957286432160783
-        }
-    },
-    "Sealed Graffiti | Question Mark (Shark White)": {
+    "ESL One Cologne 2014 Overpass Souvenir Package": {
         "steam": {
             "last_24h": null,
-            "last_7d": 0.9277500000000001,
-            "last_30d": 0.8919032258064513,
-            "last_90d": 0.6812138364779873
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 507.27
         }
     },
-    "Sealed Graffiti | Chef Kiss (Tiger Orange)": {
+    "Operation Vanguard Weapon Case": {
         "steam": {
-            "last_24h": 0.12,
-            "last_7d": 0.11342857142857143,
-            "last_30d": 0.11155128205128204,
-            "last_90d": 0.09785057471264369
+            "last_24h": 3.1829469548133593,
+            "last_7d": 3.116739379723744,
+            "last_30d": 3.2542843326885857,
+            "last_90d": 3.0219248535263716
         }
     },
-    "Sealed Graffiti | Chef Kiss (Jungle Green)": {
-        "steam": {
-            "last_24h": null,
-            "last_7d": 0.12416666666666666,
-            "last_30d": 0.11688524590163932,
-            "last_90d": 0.10222707423580789
-        }
-    },
-    "Sealed Graffiti | Chef Kiss (SWAT Blue)": {
-        "steam": {
-            "last_24h": 0.13733333333333334,
-            "last_7d": 0.142,
-            "last_30d": 0.13590384615384615,
-            "last_90d": 0.11241798941798949
-        }
-    },
-    "Sealed Graffiti | Chef Kiss (Monarch Blue)": {
-        "steam": {
-            "last_24h": 0.13816666666666666,
-            "last_7d": 0.1360625,
-            "last_30d": 0.14257627118644067,
-            "last_90d": 0.1474734848484849
-        }
-    },
-    "Sealed Graffiti | Chef Kiss (Battle Green)": {
-        "steam": {
-            "last_24h": 0.11688888888888889,
-            "last_7d": 0.10838095238095237,
-            "last_30d": 0.10160377358490567,
-            "last_90d": 0.09954404145077722
-        }
-    },
-    "Sealed Graffiti | Chef Kiss (Tracer Yellow)": {
-        "steam": {
-            "last_24h": 0.14800000000000002,
-            "last_7d": 0.14116666666666666,
-            "last_30d": 0.15238709677419354,
-            "last_90d": 0.12232314410480359
-        }
-    },
-    "Sealed Graffiti | Little Bock (Brick Red)": {
-        "steam": {
-            "last_24h": 0.10525000000000001,
-            "last_7d": 0.16659999999999997,
-            "last_30d": 0.15970512820512822,
-            "last_90d": 0.14102898550724646
-        }
-    },
-    "Sealed Graffiti | Chef Kiss (Shark White)": {
-        "steam": {
-            "last_24h": 0.145,
-            "last_7d": 0.16584615384615387,
-            "last_30d": 0.16208823529411767,
-            "last_90d": 0.16676221498371327
-        }
-    },
-    "Sealed Graffiti | Chef Kiss (War Pig Pink)": {
-        "steam": {
-            "last_24h": 0.26,
-            "last_7d": 0.2426,
-            "last_30d": 0.24461224489795924,
-            "last_90d": 0.1977611940298507
-        }
-    },
-    "Sealed Graffiti | Chef Kiss (Princess Pink)": {
-        "steam": {
-            "last_24h": 0.23279999999999998,
-            "last_7d": 0.22294999999999998,
-            "last_30d": 0.21400000000000013,
-            "last_90d": 0.1914444444444444
-        }
-    },
-    "Sealed Graffiti | Chef Kiss (Bazooka Pink)": {
-        "steam": {
-            "last_24h": 0.19,
-            "last_7d": 0.217,
-            "last_30d": 0.25864705882352945,
-            "last_90d": 0.2289867841409692
-        }
-    },
-    "Sealed Graffiti | Little Bock (Jungle Green)": {
-        "steam": {
-            "last_24h": 0.13066666666666668,
-            "last_7d": 0.13826666666666665,
-            "last_30d": 0.1344477611940298,
-            "last_90d": 0.11772844827586221
-        }
-    },
-    "Sealed Graffiti | Little Bock (Frog Green)": {
+    "DreamHack 2014 Legends (Holo-Foil)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 0.1546,
-            "last_30d": 0.14086274509803923,
-            "last_90d": 0.12454773869346739
+            "last_7d": 401.719,
+            "last_30d": 431.25280000000004,
+            "last_90d": 392.58926923076916
         }
     },
-    "Sealed Graffiti | Little Bock (Bazooka Pink)": {
+    "DreamHack 2014 Dust II Souvenir Package": {
         "steam": {
             "last_24h": null,
-            "last_7d": 0.409625,
-            "last_30d": 0.4300285714285714,
-            "last_90d": 0.32781203007518817
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": null
         }
     },
-    "Sealed Graffiti | Little Bock (Wire Blue)": {
-        "steam": {
-            "last_24h": 0.168,
-            "last_7d": 0.13483333333333333,
-            "last_30d": 0.1479473684210526,
-            "last_90d": 0.14826940639269404
-        }
-    },
-    "Sealed Graffiti | Little Bock (Battle Green)": {
+    "DreamHack 2014 Inferno Souvenir Package": {
         "steam": {
             "last_24h": null,
-            "last_7d": 0.15874999999999997,
-            "last_30d": 0.15178461538461538,
-            "last_90d": 0.12533203125
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 294.73400000000004
         }
     },
-    "Sealed Graffiti | Little Bock (Cash Green)": {
+    "DreamHack 2014 Mirage Souvenir Package": {
         "steam": {
             "last_24h": null,
-            "last_7d": 0.1382307692307692,
-            "last_30d": 0.1441538461538462,
-            "last_90d": 0.12052857142857142
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": null
         }
     },
-    "Sealed Graffiti | Little Bock (War Pig Pink)": {
-        "steam": {
-            "last_24h": 0.19000000000000003,
-            "last_7d": 0.21199999999999997,
-            "last_30d": 0.22324528301886795,
-            "last_90d": 0.18224999999999994
-        }
-    },
-    "Sealed Graffiti | Little Bock (Princess Pink)": {
-        "steam": {
-            "last_24h": 0.418,
-            "last_7d": 0.18492105263157899,
-            "last_30d": 0.4083240740740741,
-            "last_90d": 0.2729786476868328
-        }
-    },
-    "Sealed Graffiti | Choke (Blood Red)": {
+    "DreamHack 2014 Nuke Souvenir Package": {
         "steam": {
             "last_24h": null,
-            "last_7d": 0.5599999999999999,
-            "last_30d": 0.6223018867924527,
-            "last_90d": 0.5944600000000002
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": null
         }
     },
-    "Sealed Graffiti | Choke (Desert Amber)": {
-        "steam": {
-            "last_24h": 0.257,
-            "last_7d": 0.28500000000000003,
-            "last_30d": 0.34678787878787876,
-            "last_90d": 0.27867567567567564
-        }
-    },
-    "Sealed Graffiti | Choke (Tiger Orange)": {
-        "steam": {
-            "last_24h": 0.32,
-            "last_7d": 0.36699999999999994,
-            "last_30d": 0.3426744186046512,
-            "last_90d": 0.28504624277456647
-        }
-    },
-    "Sealed Graffiti | Choke (Brick Red)": {
-        "steam": {
-            "last_24h": 0.478,
-            "last_7d": 0.433875,
-            "last_30d": 0.4137049180327871,
-            "last_90d": 0.41541666666666677
-        }
-    },
-    "Sealed Graffiti | Choke (Battle Green)": {
-        "steam": {
-            "last_24h": 0.45458333333333334,
-            "last_7d": 0.40820000000000006,
-            "last_30d": 0.4259038461538462,
-            "last_90d": 0.30934482758620696
-        }
-    },
-    "Sealed Graffiti | Little Bock (Shark White)": {
-        "steam": {
-            "last_24h": 0.367,
-            "last_7d": 0.291,
-            "last_30d": 0.3715714285714286,
-            "last_90d": 0.23061599999999993
-        }
-    },
-    "Sealed Graffiti | Choke (Wire Blue)": {
+    "DreamHack 2014 Cache Souvenir Package": {
         "steam": {
             "last_24h": null,
-            "last_7d": 0.30019999999999997,
-            "last_30d": 0.34506122448979604,
-            "last_90d": 0.3072499999999999
+            "last_7d": null,
+            "last_30d": 212.336,
+            "last_90d": 212.336
         }
     },
-    "Sealed Graffiti | Choke (Cash Green)": {
+    "DreamHack 2014 Cobblestone Souvenir Package": {
         "steam": {
             "last_24h": null,
-            "last_7d": 0.3772500000000001,
-            "last_30d": 0.3882250000000001,
-            "last_90d": 0.31376973684210546
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": null
         }
     },
-    "Sealed Graffiti | Choke (Monster Purple)": {
+    "DreamHack 2014 Overpass Souvenir Package": {
         "steam": {
-            "last_24h": 0.41,
-            "last_7d": 0.3916111111111112,
-            "last_30d": 0.40237096774193554,
-            "last_90d": 0.44872560975609743
+            "last_24h": 634.242,
+            "last_7d": 634.242,
+            "last_30d": 593.626,
+            "last_90d": 593.626
+        }
+    },
+    "Chroma Case": {
+        "steam": {
+            "last_24h": 3.379074681238616,
+            "last_7d": 3.4110131073051413,
+            "last_30d": 3.450075958119317,
+            "last_90d": 3.255457229781624
+        }
+    },
+    "ESL One Katowice 2015 Dust II Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 40.826,
+            "last_90d": 46.72244444444445
+        }
+    },
+    "ESL One Katowice 2015 Inferno Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 40.277,
+            "last_90d": 39.3786
+        }
+    },
+    "ESL One Katowice 2015 Mirage Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 78.021,
+            "last_30d": 67.35740000000001,
+            "last_90d": 62.68073333333333
+        }
+    },
+    "ESL One Katowice 2015 Nuke Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": null
+        }
+    },
+    "ESL One Katowice 2015 Cache Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 64.46,
+            "last_30d": 60.692874999999994,
+            "last_90d": 56.7249375
+        }
+    },
+    "ESL One Katowice 2015 Cobblestone Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 1576.5749999999998
+        }
+    },
+    "ESL One Katowice 2015 Overpass Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 186.991,
+            "last_30d": 186.991,
+            "last_90d": 243.92366666666666
+        }
+    },
+    "ESL One Katowice 2015 Legends (Holo-Foil)": {
+        "steam": {
+            "last_24h": 235,
+            "last_7d": 253.82533333333333,
+            "last_30d": 265.59149999999994,
+            "last_90d": 283.98371428571426
+        }
+    },
+    "ESL One Katowice 2015 Challengers (Holo-Foil)": {
+        "steam": {
+            "last_24h": 555.661,
+            "last_7d": 555.661,
+            "last_30d": 744.6924545454547,
+            "last_90d": 716.0232894736843
+        }
+    },
+    "Chroma 2 Case": {
+        "steam": {
+            "last_24h": 2.8480158251695555,
+            "last_7d": 2.851318471337579,
+            "last_30d": 2.9325028462444185,
+            "last_90d": 2.807920078496422
+        }
+    },
+    "Enfu Sticker Capsule": {
+        "steam": {
+            "last_24h": 1.0496,
+            "last_7d": 1.0193092105263162,
+            "last_30d": 1.0036746987951801,
+            "last_90d": 1.0496019354838706
+        }
+    },
+    "Falchion Case": {
+        "steam": {
+            "last_24h": 0.9470374955783515,
+            "last_7d": 0.9649324037413212,
+            "last_30d": 0.9808540346378983,
+            "last_90d": 0.9716791469350775
+        }
+    },
+    "ESL One Cologne 2015 Legends (Foil)": {
+        "steam": {
+            "last_24h": 22.009,
+            "last_7d": 21.420625,
+            "last_30d": 22.94573076923077,
+            "last_90d": 22.297499999999996
+        }
+    },
+    "ESL One Cologne 2015 Challengers (Foil)": {
+        "steam": {
+            "last_24h": 44.141,
+            "last_7d": 42.67127272727273,
+            "last_30d": 41.69687234042553,
+            "last_90d": 42.004992700729915
+        }
+    },
+    "Autograph Capsule | Group A (Foil) | Cologne 2015": {
+        "steam": {
+            "last_24h": 16.256,
+            "last_7d": 16.439625,
+            "last_30d": 16.76025,
+            "last_90d": 17.22982692307692
+        }
+    },
+    "Autograph Capsule | Group B (Foil) | Cologne 2015": {
+        "steam": {
+            "last_24h": 19.570666666666668,
+            "last_7d": 18.512333333333334,
+            "last_30d": 18.778384615384617,
+            "last_90d": 18.504500000000004
+        }
+    },
+    "Autograph Capsule | Group C (Foil) | Cologne 2015": {
+        "steam": {
+            "last_24h": 22.00466666666667,
+            "last_7d": 21.387636363636364,
+            "last_30d": 20.964588235294116,
+            "last_90d": 20.996102040816325
+        }
+    },
+    "Autograph Capsule | Group D (Foil) | Cologne 2015": {
+        "steam": {
+            "last_24h": 29.99,
+            "last_7d": 27.22,
+            "last_30d": 29.37205882352941,
+            "last_90d": 30.39068292682928
+        }
+    },
+    "Autograph Capsule | Fnatic | Cologne 2015": {
+        "steam": {
+            "last_24h": 4.145499999999999,
+            "last_7d": 3.915461538461538,
+            "last_30d": 3.9376836734693876,
+            "last_90d": 3.835645914396888
+        }
+    },
+    "Autograph Capsule | Luminosity Gaming | Cologne 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 12.528250000000002,
+            "last_90d": 11.733210526315789
+        }
+    },
+    "Autograph Capsule | Natus Vincere | Cologne 2015": {
+        "steam": {
+            "last_24h": 6.609500000000001,
+            "last_7d": 5.8671,
+            "last_30d": 6.080481481481481,
+            "last_90d": 5.875632352941176
+        }
+    },
+    "Autograph Capsule | Ninjas in Pyjamas | Cologne 2015": {
+        "steam": {
+            "last_24h": 3.8806666666666665,
+            "last_7d": 3.8748750000000007,
+            "last_30d": 3.7369677419354836,
+            "last_90d": 3.7593688524590165
+        }
+    },
+    "Autograph Capsule | Team EnVyUs | Cologne 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 5.1530555555555555,
+            "last_30d": 5.471916666666666,
+            "last_90d": 5.573164634146339
+        }
+    },
+    "Autograph Capsule | Titan | Cologne 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 20.974333333333334,
+            "last_30d": 21.857499999999998,
+            "last_90d": 20.46429824561404
+        }
+    },
+    "Autograph Capsule | Team SoloMid | Cologne 2015": {
+        "steam": {
+            "last_24h": 4.846,
+            "last_7d": 4.485900000000001,
+            "last_30d": 4.580235294117647,
+            "last_90d": 5.293695652173914
+        }
+    },
+    "Autograph Capsule | Virtus.Pro | Cologne 2015": {
+        "steam": {
+            "last_24h": 5.149,
+            "last_7d": 5.005285714285714,
+            "last_30d": 5.054666666666665,
+            "last_90d": 5.232950617283952
+        }
+    },
+    "Autograph Capsule | mousesports | Cologne 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 7.822,
+            "last_30d": 9.994555555555555,
+            "last_90d": 12.027386363636365
+        }
+    },
+    "Autograph Capsule | Renegades | Cologne 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 10.6305,
+            "last_90d": 9.897945945945946
+        }
+    },
+    "Autograph Capsule | Team Immunity | Cologne 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 11.0805,
+            "last_90d": 13.042148148148149
+        }
+    },
+    "Autograph Capsule | Team eBettle | Cologne 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 3.706,
+            "last_30d": 6.7518,
+            "last_90d": 7.123896551724139
+        }
+    },
+    "Autograph Capsule | Team Kinguin | Cologne 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 7.93,
+            "last_30d": 8.510090909090907,
+            "last_90d": 7.007100917431196
+        }
+    },
+    "Autograph Capsule | Flipsid3 Tactics | Cologne 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 10.591000000000001,
+            "last_90d": 11.698954545454546
+        }
+    },
+    "Autograph Capsule | Counter Logic Gaming | Cologne 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 14.543333333333331,
+            "last_90d": 11.57474074074074
+        }
+    },
+    "Autograph Capsule | Cloud9 G2A | Cologne 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 9.605500000000001,
+            "last_30d": 10.086312500000004,
+            "last_90d": 10.25668181818182
+        }
+    },
+    "ESL One Cologne 2015 Dust II Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 43.465,
+            "last_30d": 38.9668,
+            "last_90d": 39.73566666666666
+        }
+    },
+    "ESL One Cologne 2015 Mirage Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 32.015,
+            "last_30d": 37.098,
+            "last_90d": 33.375933333333336
+        }
+    },
+    "ESL One Cologne 2015 Inferno Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 16.436,
+            "last_30d": 19.58885714285714,
+            "last_90d": 19.824814814814815
+        }
+    },
+    "ESL One Cologne 2015 Cobblestone Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 1665.37,
+            "last_30d": 1665.37,
+            "last_90d": 1496.1029333333333
+        }
+    },
+    "ESL One Cologne 2015 Overpass Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 69.9205,
+            "last_30d": 71.61366666666667,
+            "last_90d": 72.83627272727273
+        }
+    },
+    "ESL One Cologne 2015 Cache Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 57.38,
+            "last_90d": 56.932
+        }
+    },
+    "ESL One Cologne 2015 Train Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 28.409,
+            "last_30d": 27.163,
+            "last_90d": 23.83311111111111
+        }
+    },
+    "Shadow Case": {
+        "steam": {
+            "last_24h": 0.8717727272727274,
+            "last_7d": 0.8852379171624448,
+            "last_30d": 0.9483523613558227,
+            "last_90d": 0.9799262322009533
+        }
+    },
+    "DreamHack Cluj-Napoca 2015 Legends (Foil)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 22.17875,
+            "last_30d": 22.646250000000002,
+            "last_90d": 22.97773076923077
+        }
+    },
+    "DreamHack Cluj-Napoca 2015 Challengers (Foil)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 53.4875,
+            "last_30d": 57.53792857142857,
+            "last_90d": 61.080714285714286
+        }
+    },
+    "Autograph Capsule | Challengers (Foil) | Cluj-Napoca 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 68.49133333333333,
+            "last_90d": 67.74507692307692
+        }
+    },
+    "Autograph Capsule | Legends (Foil) | Cluj-Napoca 2015": {
+        "steam": {
+            "last_24h": 26.982,
+            "last_7d": 25.206500000000002,
+            "last_30d": 24.6763870967742,
+            "last_90d": 26.96116666666666
+        }
+    },
+    "Autograph Capsule | Ninjas in Pyjamas | Cluj-Napoca 2015": {
+        "steam": {
+            "last_24h": 3.757,
+            "last_7d": 3.6973333333333334,
+            "last_30d": 4.118897959183674,
+            "last_90d": 4.289102564102564
+        }
+    },
+    "Autograph Capsule | Team Dignitas | Cluj-Napoca 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 67.27850000000001,
+            "last_30d": 71.79575,
+            "last_90d": 57.08611764705883
+        }
+    },
+    "Autograph Capsule | Counter Logic Gaming | Cluj-Napoca 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 8.921999999999999,
+            "last_30d": 8.188125,
+            "last_90d": 7.890882352941177
+        }
+    },
+    "Autograph Capsule | Vexed Gaming | Cluj-Napoca 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 11.231,
+            "last_30d": 11.563863636363637,
+            "last_90d": 11.151333333333334
+        }
+    },
+    "Autograph Capsule | Flipsid3 Tactics | Cluj-Napoca 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 19.44633333333333,
+            "last_90d": 20.622049999999998
+        }
+    },
+    "Autograph Capsule | Team Liquid | Cluj-Napoca 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 10.168,
+            "last_30d": 11.774500000000002,
+            "last_90d": 12.083789473684211
+        }
+    },
+    "Autograph Capsule | mousesports | Cluj-Napoca 2015": {
+        "steam": {
+            "last_24h": 37.593,
+            "last_7d": 31.097000000000005,
+            "last_30d": 30.733333333333327,
+            "last_90d": 30.450416666666666
+        }
+    },
+    "Autograph Capsule | Natus Vincere | Cluj-Napoca 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 7.0165999999999995,
+            "last_30d": 6.716222222222223,
+            "last_90d": 6.822639344262294
+        }
+    },
+    "Autograph Capsule | Virtus.Pro | Cluj-Napoca 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 6.518,
+            "last_30d": 6.706714285714286,
+            "last_90d": 6.754410958904111
+        }
+    },
+    "Autograph Capsule | Cloud9 | Cluj-Napoca 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 16.835,
+            "last_90d": 17.2815
+        }
+    },
+    "Autograph Capsule | G2 Esports | Cluj-Napoca 2015": {
+        "steam": {
+            "last_24h": 8.47,
+            "last_7d": 8.47,
+            "last_30d": 8.129117647058823,
+            "last_90d": 7.854140624999999
+        }
+    },
+    "Autograph Capsule | Titan | Cluj-Napoca 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 19.194,
+            "last_30d": 20.98155555555556,
+            "last_90d": 23.137606557377048
+        }
+    },
+    "Autograph Capsule | Team SoloMid | Cluj-Napoca 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 5.211857142857142,
+            "last_30d": 5.4135294117647055,
+            "last_90d": 6.0951176470588235
+        }
+    },
+    "Autograph Capsule | Team EnVyUs | Cluj-Napoca 2015": {
+        "steam": {
+            "last_24h": 6.829,
+            "last_7d": 6.728000000000001,
+            "last_30d": 7.224872727272727,
+            "last_90d": 6.845642105263161
+        }
+    },
+    "Autograph Capsule | Fnatic | Cluj-Napoca 2015": {
+        "steam": {
+            "last_24h": 4.776,
+            "last_7d": 4.842571428571429,
+            "last_30d": 5.0418,
+            "last_90d": 5.0114318181818165
+        }
+    },
+    "Autograph Capsule | Luminosity Gaming | Cluj-Napoca 2015": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 13.84,
+            "last_30d": 11.461666666666668,
+            "last_90d": 10.767766666666667
+        }
+    },
+    "DreamHack Cluj-Napoca 2015 Dust II Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 36.4645,
+            "last_30d": 45.64933333333334,
+            "last_90d": 44.13975
+        }
+    },
+    "DreamHack Cluj-Napoca 2015 Mirage Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 34.73766666666666,
+            "last_90d": 35.67066666666667
+        }
+    },
+    "DreamHack Cluj-Napoca 2015 Inferno Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 25.833,
+            "last_30d": 27.873999999999995,
+            "last_90d": 28.005399999999998
+        }
+    },
+    "DreamHack Cluj-Napoca 2015 Cobblestone Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 1594.8899999999999,
+            "last_90d": 1552.2920000000001
+        }
+    },
+    "DreamHack Cluj-Napoca 2015 Overpass Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 131.954
+        }
+    },
+    "DreamHack Cluj-Napoca 2015 Cache Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 39.1,
+            "last_90d": 41.815333333333335
+        }
+    },
+    "DreamHack Cluj-Napoca 2015 Train Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 28.194399999999995,
+            "last_90d": 23.9066875
+        }
+    },
+    "Pinups Capsule": {
+        "steam": {
+            "last_24h": 1.0528942307692308,
+            "last_7d": 1.048745412844037,
+            "last_30d": 1.0228224299065427,
+            "last_90d": 1.051650417615793
+        }
+    },
+    "Slid3 Capsule": {
+        "steam": {
+            "last_24h": 1.0705789473684209,
+            "last_7d": 1.0730360360360363,
+            "last_30d": 1.0739281183932343,
+            "last_90d": 1.0882067692307686
+        }
+    },
+    "Team Roles Capsule": {
+        "steam": {
+            "last_24h": 1.0981875,
+            "last_7d": 1.0511044776119407,
+            "last_30d": 1.0379882629107975,
+            "last_90d": 1.0556941838649152
+        }
+    },
+    "Revolver Case": {
+        "steam": {
+            "last_24h": 2.024603154574132,
+            "last_7d": 2.0515220645737915,
+            "last_30d": 2.071789351608653,
+            "last_90d": 2.0304142647975936
+        }
+    },
+    "Operation Wildfire Case": {
+        "steam": {
+            "last_24h": 2.4697404190086862,
+            "last_7d": 2.4831453058044426,
+            "last_30d": 2.453012983726053,
+            "last_90d": 2.451662438925708
+        }
+    },
+    "MLG Columbus 2016 Legends (Holo-Foil)": {
+        "steam": {
+            "last_24h": 38.545,
+            "last_7d": 38.47963157894737,
+            "last_30d": 41.91508333333333,
+            "last_90d": 41.87051999999997
+        }
+    },
+    "MLG Columbus 2016 Challengers (Holo-Foil)": {
+        "steam": {
+            "last_24h": 41.78,
+            "last_7d": 41.2081,
+            "last_30d": 44.82155,
+            "last_90d": 45.57713095238095
+        }
+    },
+    "Autograph Capsule | Challengers (Foil) | MLG Columbus 2016": {
+        "steam": {
+            "last_24h": 42.654,
+            "last_7d": 38.330666666666666,
+            "last_30d": 34.82517391304347,
+            "last_90d": 37.258796296296296
+        }
+    },
+    "Autograph Capsule | Legends (Foil) | MLG Columbus 2016": {
+        "steam": {
+            "last_24h": 29.79925,
+            "last_7d": 29.14225,
+            "last_30d": 28.7577,
+            "last_90d": 26.71870909090909
+        }
+    },
+    "Autograph Capsule | Ninjas in Pyjamas | MLG Columbus 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 5.237,
+            "last_30d": 5.0315,
+            "last_90d": 4.690227272727271
+        }
+    },
+    "Autograph Capsule | Splyce | MLG Columbus 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 5.432250000000001,
+            "last_30d": 6.14211111111111,
+            "last_90d": 8.120559999999998
+        }
+    },
+    "Autograph Capsule | Counter Logic Gaming | MLG Columbus 2016": {
+        "steam": {
+            "last_24h": 4.72,
+            "last_7d": 5.6072,
+            "last_30d": 5.6856363636363625,
+            "last_90d": 5.754166666666666
+        }
+    },
+    "Autograph Capsule | Gambit Gaming | MLG Columbus 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 7.563,
+            "last_30d": 6.61825,
+            "last_90d": 5.897571428571429
+        }
+    },
+    "Autograph Capsule | Flipsid3 Tactics | MLG Columbus 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 9.16,
+            "last_30d": 8.601,
+            "last_90d": 8.605136363636364
+        }
+    },
+    "Autograph Capsule | Team Liquid | MLG Columbus 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 6.345571428571428,
+            "last_30d": 6.333379310344828,
+            "last_90d": 6.3223918918918915
+        }
+    },
+    "Autograph Capsule | mousesports | MLG Columbus 2016": {
+        "steam": {
+            "last_24h": 9.509,
+            "last_7d": 8.7879,
+            "last_30d": 8.505,
+            "last_90d": 8.362125
+        }
+    },
+    "Autograph Capsule | Natus Vincere | MLG Columbus 2016": {
+        "steam": {
+            "last_24h": 5.554,
+            "last_7d": 5.472999999999999,
+            "last_30d": 5.281076923076924,
+            "last_90d": 5.228519230769231
+        }
+    },
+    "Autograph Capsule | Virtus.Pro | MLG Columbus 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 16.224,
+            "last_30d": 14.838666666666668,
+            "last_90d": 12.90745
+        }
+    },
+    "Autograph Capsule | Cloud9 | MLG Columbus 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 18.895642857142857
+        }
+    },
+    "Autograph Capsule | G2 Esports | MLG Columbus 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 14.53621052631579,
+            "last_90d": 14.05562962962963
+        }
+    },
+    "Autograph Capsule | FaZe Clan | MLG Columbus 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 6.251,
+            "last_30d": 6.312208333333333,
+            "last_90d": 6.225730769230769
+        }
+    },
+    "Autograph Capsule | Astralis | MLG Columbus 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 3.706,
+            "last_30d": 5.448222222222222,
+            "last_90d": 5.423114285714286
+        }
+    },
+    "Autograph Capsule | Team EnVyUs | MLG Columbus 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 6.214968750000001,
+            "last_90d": 5.980808080808081
+        }
+    },
+    "Autograph Capsule | Fnatic | MLG Columbus 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 4.986,
+            "last_30d": 4.908444444444445,
+            "last_90d": 4.61939024390244
+        }
+    },
+    "Autograph Capsule | Luminosity Gaming | MLG Columbus 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 6.710166666666667,
+            "last_30d": 7.302857142857143,
+            "last_90d": 7.592719999999999
+        }
+    },
+    "MLG Columbus 2016 Dust II Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": null
+        }
+    },
+    "MLG Columbus 2016 Mirage Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 36.69,
+            "last_90d": 31.576800000000002
+        }
+    },
+    "MLG Columbus 2016 Inferno Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": null
+        }
+    },
+    "MLG Columbus 2016 Cobblestone Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 1629.025,
+            "last_90d": 1567.6147999999998
+        }
+    },
+    "MLG Columbus 2016 Overpass Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 54.37,
+            "last_30d": 61.84166666666667,
+            "last_90d": 68.13616666666667
+        }
+    },
+    "MLG Columbus 2016 Cache Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 31.44,
+            "last_90d": 29.608166666666666
+        }
+    },
+    "MLG Columbus 2016 Train Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 65.19,
+            "last_90d": 65.421
+        }
+    },
+    "MLG Columbus 2016 Nuke Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 220.65
+        }
+    },
+    "Chroma 3 Case": {
+        "steam": {
+            "last_24h": 2.5073743517208866,
+            "last_7d": 2.5124405378054093,
+            "last_30d": 2.6042473395400427,
+            "last_90d": 2.5197805978077406
+        }
+    },
+    "Community Graffiti Box 1": {
+        "steam": {
+            "last_24h": 1.1352857142857142,
+            "last_7d": 1.1202727272727275,
+            "last_30d": 1.1164838709677425,
+            "last_90d": 1.115064312736444
+        }
+    },
+    "Collectible Pins Capsule Series 1": {
+        "steam": {
+            "last_24h": 9.91,
+            "last_7d": 9.952599999999999,
+            "last_30d": 10.337747368421052,
+            "last_90d": 10.208238907849832
+        }
+    },
+    "Gamma Case": {
+        "steam": {
+            "last_24h": 2.8052832733812947,
+            "last_7d": 2.799531262392597,
+            "last_30d": 2.9337386485253982,
+            "last_90d": 2.8112636021350816
+        }
+    },
+    "Cologne 2016 Legends (Holo-Foil)": {
+        "steam": {
+            "last_24h": 29.735,
+            "last_7d": 30.200400000000002,
+            "last_30d": 31.67710256410257,
+            "last_90d": 31.636406666666662
+        }
+    },
+    "Cologne 2016 Challengers (Holo-Foil)": {
+        "steam": {
+            "last_24h": 37.99466666666667,
+            "last_7d": 37.896846153846155,
+            "last_30d": 39.25717021276595,
+            "last_90d": 40.25534
+        }
+    },
+    "Autograph Capsule | Challengers (Foil) | Cologne 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 67.56,
+            "last_30d": 69.92349999999999,
+            "last_90d": 72.2728125
+        }
+    },
+    "Autograph Capsule | Legends (Foil) | Cologne 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 42.8908,
+            "last_90d": 43.00251724137931
+        }
+    },
+    "Autograph Capsule | Ninjas in Pyjamas | Cologne 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 6.1370000000000005,
+            "last_90d": 6.202333333333333
+        }
+    },
+    "Autograph Capsule | OpTic Gaming | Cologne 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 8.55,
+            "last_90d": 10.949625
+        }
+    },
+    "Autograph Capsule | Counter Logic Gaming | Cologne 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 16.009,
+            "last_90d": 15.970333333333334
+        }
+    },
+    "Autograph Capsule | Gambit Gaming | Cologne 2016": {
+        "steam": {
+            "last_24h": 31.757,
+            "last_7d": 31.757,
+            "last_30d": 22.29642857142857,
+            "last_90d": 17.330434782608698
+        }
+    },
+    "Autograph Capsule | Flipsid3 Tactics | Cologne 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 7.849,
+            "last_90d": 9.6484375
+        }
+    },
+    "Autograph Capsule | Team Liquid | Cologne 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 10.308250000000001,
+            "last_30d": 9.532490196078433,
+            "last_90d": 9.350710843373495
+        }
+    },
+    "Autograph Capsule | mousesports | Cologne 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 18.047142857142855
+        }
+    },
+    "Autograph Capsule | Natus Vincere | Cologne 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 9.631833333333333,
+            "last_90d": 8.97892857142857
+        }
+    },
+    "Autograph Capsule | Virtus.Pro | Cologne 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 8.483,
+            "last_30d": 8.502545454545455,
+            "last_90d": 7.447396226415095
+        }
+    },
+    "Autograph Capsule | SK Gaming | Cologne 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 7.4526666666666666,
+            "last_90d": 6.729978260869564
+        }
+    },
+    "Autograph Capsule | G2 Esports | Cologne 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 17.402,
+            "last_30d": 18.287555555555556,
+            "last_90d": 16.18314814814815
+        }
+    },
+    "Autograph Capsule | FaZe Clan | Cologne 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 12.473,
+            "last_30d": 12.9,
+            "last_90d": 10.8925
+        }
+    },
+    "Autograph Capsule | Astralis | Cologne 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 14.826,
+            "last_30d": 14.069400000000002,
+            "last_90d": 13.91225
+        }
+    },
+    "Autograph Capsule | Team EnVyUs | Cologne 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 19.011000000000003,
+            "last_30d": 19.011000000000003,
+            "last_90d": 19.19514285714286
+        }
+    },
+    "Autograph Capsule | Fnatic | Cologne 2016": {
+        "steam": {
+            "last_24h": 4.57,
+            "last_7d": 5.453500000000001,
+            "last_30d": 5.850250000000001,
+            "last_90d": 5.679888888888889
+        }
+    },
+    "Autograph Capsule | Team Dignitas | Cologne 2016": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 25.363666666666663,
+            "last_30d": 24.349,
+            "last_90d": 23.982722222222225
+        }
+    },
+    "Cologne 2016 Dust II Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 28.068,
+            "last_90d": 29.9086
+        }
+    },
+    "Cologne 2016 Mirage Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 29.31233333333334,
+            "last_90d": 29.1548
+        }
+    },
+    "Cologne 2016 Cobblestone Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 1644.5872
+        }
+    },
+    "Cologne 2016 Overpass Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 118.53999999999999
+        }
+    },
+    "Cologne 2016 Cache Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 35.152,
+            "last_90d": 30.7788
+        }
+    },
+    "Cologne 2016 Train Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 18.65825,
+            "last_30d": 18.52,
+            "last_90d": 19.6784
+        }
+    },
+    "Cologne 2016 Nuke Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 75.08800000000001,
+            "last_90d": 73.66222222222223
+        }
+    },
+    "Gamma 2 Case": {
+        "steam": {
+            "last_24h": 2.708620552234557,
+            "last_7d": 2.7472103022562773,
+            "last_30d": 2.8559469195324123,
+            "last_90d": 2.7347004867944094
+        }
+    },
+    "Sugarface Capsule": {
+        "steam": {
+            "last_24h": 1.0693076923076925,
+            "last_7d": 1.0535669291338579,
+            "last_30d": 1.0588719723183384,
+            "last_90d": 1.0783667770941787
+        }
+    },
+    "Bestiary Capsule": {
+        "steam": {
+            "last_24h": 1.1987999999999999,
+            "last_7d": 1.1653540669856461,
+            "last_30d": 1.11283061480552,
+            "last_90d": 1.0981623203831814
+        }
+    },
+    "Collectible Pins Capsule Series 2": {
+        "steam": {
+            "last_24h": 10.045,
+            "last_7d": 10.147083333333333,
+            "last_30d": 11.547342465753426,
+            "last_90d": 11.294802083333337
+        }
+    },
+    "CS:GO Graffiti Box": {
+        "steam": {
+            "last_24h": 1.1077142857142857,
+            "last_7d": 1.1145,
+            "last_30d": 1.1016638477801273,
+            "last_90d": 1.1314157814871022
+        }
+    },
+    "Perfect World Graffiti Box": {
+        "steam": {
+            "last_24h": 1.1116666666666666,
+            "last_7d": 1.0935142857142854,
+            "last_30d": 1.0626931216931215,
+            "last_90d": 1.1234665334665328
+        }
+    },
+    "StatTrak™ Radicals Box": {
+        "steam": {
+            "last_24h": 8.942,
+            "last_7d": 8.809333333333333,
+            "last_30d": 8.576302083333337,
+            "last_90d": 8.580649681528657
+        }
+    },
+    "Glove Case": {
+        "steam": {
+            "last_24h": 7.1758204565408255,
+            "last_7d": 7.309105547917871,
+            "last_30d": 7.550147829221404,
+            "last_90d": 6.945464328903419
+        }
+    },
+    "Atlanta 2017 Legends (Holo-Foil)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 100.015,
+            "last_30d": 101.2388,
+            "last_90d": 99.1634375
+        }
+    },
+    "Atlanta 2017 Challengers (Holo-Foil)": {
+        "steam": {
+            "last_24h": 83.38,
+            "last_7d": 88.47966666666666,
+            "last_30d": 92.39719999999997,
+            "last_90d": 94.4077380952381
+        }
+    },
+    "Autograph Capsule | Challengers (Foil) | Atlanta 2017": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 99.024,
+            "last_30d": 96.156,
+            "last_90d": 92.37718181818182
+        }
+    },
+    "Autograph Capsule | Legends (Foil) | Atlanta 2017": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 99.54,
+            "last_30d": 99.39666666666666,
+            "last_90d": 101.27043750000001
+        }
+    },
+    "Autograph Capsule | Astralis | Atlanta 2017": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 6.958000000000001,
+            "last_30d": 6.565999999999998,
+            "last_90d": 6.62753947368421
+        }
+    },
+    "Autograph Capsule | Team EnVyUs | Atlanta 2017": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 10.35,
+            "last_30d": 9.293,
+            "last_90d": 8.531344827586208
+        }
+    },
+    "Autograph Capsule | FaZe Clan | Atlanta 2017": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 8.9225,
+            "last_90d": 8.863733333333334
+        }
+    },
+    "Autograph Capsule | Flipsid3 Tactics | Atlanta 2017": {
+        "steam": {
+            "last_24h": 12.31,
+            "last_7d": 10.381,
+            "last_30d": 10.381,
+            "last_90d": 10.299266666666664
+        }
+    },
+    "Autograph Capsule | Fnatic | Atlanta 2017": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 4.9799999999999995,
+            "last_30d": 4.9655,
+            "last_90d": 4.903333333333333
+        }
+    },
+    "Autograph Capsule | G2 Esports | Atlanta 2017": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 6.2796666666666665,
+            "last_30d": 6.234434782608695,
+            "last_90d": 6.0693863636363625
+        }
+    },
+    "Autograph Capsule | Gambit Gaming | Atlanta 2017": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 5.4,
+            "last_30d": 6.4491249999999996,
+            "last_90d": 6.4846875000000015
+        }
+    },
+    "Autograph Capsule | GODSENT | Atlanta 2017": {
+        "steam": {
+            "last_24h": 5.29,
+            "last_7d": 5.287,
+            "last_30d": 5.1836,
+            "last_90d": 4.844475
+        }
+    },
+    "Autograph Capsule | HellRaisers | Atlanta 2017": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 7.5,
+            "last_30d": 8.934571428571427,
+            "last_90d": 8.574722222222222
+        }
+    },
+    "Autograph Capsule | mousesports | Atlanta 2017": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 12.567,
+            "last_30d": 12.529714285714283,
+            "last_90d": 11.561423076923079
+        }
+    },
+    "Autograph Capsule | Natus Vincere | Atlanta 2017": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 17.791,
+            "last_30d": 17.2512,
+            "last_90d": 16.950732142857145
+        }
+    },
+    "Autograph Capsule | North | Atlanta 2017": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 8.34442857142857,
+            "last_90d": 9.08508695652174
+        }
+    },
+    "Autograph Capsule | OpTic Gaming | Atlanta 2017": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 10.84,
+            "last_30d": 12.776714285714286,
+            "last_90d": 13.314894736842106
+        }
+    },
+    "Autograph Capsule | SK Gaming | Atlanta 2017": {
+        "steam": {
+            "last_24h": 6.23,
+            "last_7d": 6.23,
+            "last_30d": 7.087625,
+            "last_90d": 6.5129375000000005
+        }
+    },
+    "Autograph Capsule | Team Liquid | Atlanta 2017": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 15.174750000000001,
+            "last_90d": 14.863222222222223
+        }
+    },
+    "Autograph Capsule | Virtus.Pro | Atlanta 2017": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 5.040666666666667,
+            "last_30d": 5.240708333333333,
+            "last_90d": 5.133013513513514
+        }
+    },
+    "Atlanta 2017 Dust II Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 31.11,
+            "last_90d": 28.696000000000005
+        }
+    },
+    "Atlanta 2017 Mirage Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 25.068833333333334,
+            "last_90d": 22.87695
+        }
+    },
+    "Atlanta 2017 Cobblestone Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 1597.3025
+        }
+    },
+    "Atlanta 2017 Overpass Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 40.903,
+            "last_30d": 37.772733333333335,
+            "last_90d": 38.272212121212114
+        }
+    },
+    "Atlanta 2017 Cache Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 25.7846,
+            "last_90d": 29.022000000000002
+        }
+    },
+    "Atlanta 2017 Train Souvenir Package": {
+        "steam": {
+            "last_24h": 9.006,
+            "last_7d": 12.491333333333335,
+            "last_30d": 14.297391304347828,
+            "last_90d": 13.345931818181816
+        }
+    },
+    "Atlanta 2017 Nuke Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 58.00666666666666,
+            "last_90d": 52.98733333333333
+        }
+    },
+    "Spectrum Case": {
+        "steam": {
+            "last_24h": 3.1204325481798714,
+            "last_7d": 3.1496866619971997,
+            "last_30d": 3.2705461140946364,
+            "last_90d": 3.1537452689532306
+        }
+    },
+    "Operation Hydra Case": {
+        "steam": {
+            "last_24h": 20.320490740740738,
+            "last_7d": 20.56107872539832,
+            "last_30d": 21.176625659382033,
+            "last_90d": 19.647966598731895
+        }
+    },
+    "Krakow 2017 Legends (Holo-Foil)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 15.540214285714281,
+            "last_30d": 16.291810526315786,
+            "last_90d": 17.621778242677838
+        }
+    },
+    "Krakow 2017 Challengers (Holo-Foil)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 24.710666666666665,
+            "last_30d": 27.43007142857143,
+            "last_90d": 27.71626595744682
+        }
+    },
+    "Krakow 2017 Challengers Autograph Capsule": {
+        "steam": {
+            "last_24h": 36.82,
+            "last_7d": 32.594066666666656,
+            "last_30d": 34.949040540540544,
+            "last_90d": 38.2754024960998
+        }
+    },
+    "Krakow 2017 Legends Autograph Capsule": {
+        "steam": {
+            "last_24h": 37.109428571428566,
+            "last_7d": 36.56219230769231,
+            "last_30d": 39.13283216783217,
+            "last_90d": 43.48742476190479
+        }
+    },
+    "Krakow 2017 Inferno Souvenir Package": {
+        "steam": {
+            "last_24h": 17.712,
+            "last_7d": 16.069,
+            "last_30d": 16.08981818181818,
+            "last_90d": 18.510736842105263
+        }
+    },
+    "Krakow 2017 Mirage Souvenir Package": {
+        "steam": {
+            "last_24h": 35.63,
+            "last_7d": 35.732,
+            "last_30d": 35.83728571428571,
+            "last_90d": 34.64675
+        }
+    },
+    "Krakow 2017 Cobblestone Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 1518.48,
+            "last_90d": 1596.112
+        }
+    },
+    "Krakow 2017 Overpass Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 42.482,
+            "last_30d": 45.55175,
+            "last_90d": 48.81420689655174
+        }
+    },
+    "Krakow 2017 Cache Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 33.841,
+            "last_90d": 40.70309090909091
+        }
+    },
+    "Krakow 2017 Train Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 18.576833333333333,
+            "last_90d": 16.782014925373133
+        }
+    },
+    "Krakow 2017 Nuke Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 61.60000000000001,
+            "last_90d": 61.07092307692308
+        }
+    },
+    "Spectrum 2 Case": {
+        "steam": {
+            "last_24h": 2.120600448514296,
+            "last_7d": 2.155829270958574,
+            "last_30d": 2.2116707349467988,
+            "last_90d": 2.1095646488730555
+        }
+    },
+    "Perfect World Sticker Capsule 1": {
+        "steam": {
+            "last_24h": 1.047962962962963,
+            "last_7d": 1.0021916666666668,
+            "last_30d": 0.9915426540284357,
+            "last_90d": 1.0485262411347525
+        }
+    },
+    "Perfect World Sticker Capsule 2": {
+        "steam": {
+            "last_24h": 1.0265,
+            "last_7d": 0.9971492537313434,
+            "last_30d": 1.0015884476534302,
+            "last_90d": 1.0273536363636342
+        }
+    },
+    "Boston 2018 Legends (Holo-Foil)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 363.199
+        }
+    },
+    "Boston 2018 Returning Challengers (Holo-Foil)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 39.623599999999996,
+            "last_30d": 46.76470833333332,
+            "last_90d": 48.4266
+        }
+    },
+    "Boston 2018 Minor Challengers (Holo-Foil)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 201.368,
+            "last_90d": 219.736
+        }
+    },
+    "Boston 2018 Legends Autograph Capsule": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": null,
+            "last_90d": 179.314
+        }
+    },
+    "Boston 2018 Returning Challengers Autograph Capsule": {
+        "steam": {
+            "last_24h": 14.8895,
+            "last_7d": 15.219799999999998,
+            "last_30d": 14.93808116883117,
+            "last_90d": 14.933857346647644
+        }
+    },
+    "Boston 2018 Minor Challengers Autograph Capsule": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 236.4015,
+            "last_90d": 235.30433333333335
+        }
+    },
+    "Boston 2018 Inferno Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 15.00325,
+            "last_30d": 14.411866666666667,
+            "last_90d": 15.594126760563384
+        }
+    },
+    "Boston 2018 Mirage Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 16.401,
+            "last_30d": 19.492062500000003,
+            "last_90d": 17.434160000000002
+        }
+    },
+    "Boston 2018 Cobblestone Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 1497.04,
+            "last_30d": 1497.04,
+            "last_90d": 1552.33
+        }
+    },
+    "Boston 2018 Overpass Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 38.888799999999996,
+            "last_90d": 37.88297222222221
+        }
+    },
+    "Boston 2018 Cache Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 23.504,
+            "last_30d": 25.63688888888889,
+            "last_90d": 24.513344827586202
+        }
+    },
+    "Boston 2018 Train Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 14.54011111111111,
+            "last_90d": 12.915439999999998
+        }
+    },
+    "Boston 2018 Nuke Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 72.986,
+            "last_30d": 72.986,
+            "last_90d": 70.55369999999999
+        }
+    },
+    "Community Capsule 2018": {
+        "steam": {
+            "last_24h": 1.1806666666666665,
+            "last_7d": 1.16551875,
+            "last_30d": 1.1392740471869311,
+            "last_90d": 1.1107417261518486
+        }
+    },
+    "Clutch Case": {
+        "steam": {
+            "last_24h": 0.4579120007879056,
+            "last_7d": 0.46540684905377605,
+            "last_30d": 0.4740510645100062,
+            "last_90d": 0.48638091924580373
+        }
+    },
+    "Boston 2018 Minor Challengers with Flash Gaming (Holo-Foil)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 41.13833333333333,
+            "last_30d": 39.539857142857144,
+            "last_90d": 42.674510638297875
+        }
+    },
+    "Boston 2018 Minor Challengers with Flash Gaming Autograph Capsule": {
+        "steam": {
+            "last_24h": 22.451,
+            "last_7d": 22.1705,
+            "last_30d": 20.659176470588235,
+            "last_90d": 21.967601503759397
+        }
+    },
+    "Chicken Capsule": {
+        "steam": {
+            "last_24h": 1.110625,
+            "last_7d": 1.0921904761904762,
+            "last_30d": 1.0711253731343284,
+            "last_90d": 1.061607636967349
+        }
+    },
+    "Boston 2018 Attending Legends (Holo-Foil)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 30.7095,
+            "last_30d": 30.747952380952377,
+            "last_90d": 29.879985074626873
+        }
+    },
+    "Boston 2018 Attending Legends Autograph Capsule": {
+        "steam": {
+            "last_24h": 11.2756,
+            "last_7d": 10.8652,
+            "last_30d": 11.300227513227515,
+            "last_90d": 13.00626251896814
+        }
+    },
+    "Collectible Pins Capsule Series 3": {
+        "steam": {
+            "last_24h": 10.187999999999999,
+            "last_7d": 10.444837209302326,
+            "last_30d": 10.501948818897642,
+            "last_90d": 10.624489361702123
+        }
+    },
+    "Horizon Case": {
+        "steam": {
+            "last_24h": 0.9257454661151766,
+            "last_7d": 0.9358265538483662,
+            "last_30d": 0.9438543441594938,
+            "last_90d": 0.9165829258658768
+        }
+    },
+    "London 2018 Legends (Holo-Foil)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 14.691,
+            "last_30d": 17.585285714285718,
+            "last_90d": 18.724958677685944
+        }
+    },
+    "London 2018 Returning Challengers (Holo-Foil)": {
+        "steam": {
+            "last_24h": 16.736,
+            "last_7d": 16.766166666666663,
+            "last_30d": 16.521612903225808,
+            "last_90d": 16.86325333333334
+        }
+    },
+    "London 2018 Minor Challengers (Holo-Foil)": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 15.515333333333336,
+            "last_30d": 16.224277777777775,
+            "last_90d": 15.416720930232561
+        }
+    },
+    "London 2018 Legends Autograph Capsule": {
+        "steam": {
+            "last_24h": 11.106,
+            "last_7d": 10.20038,
+            "last_30d": 10.444789855072463,
+            "last_90d": 11.413225469728609
+        }
+    },
+    "London 2018 Returning Challengers Autograph Capsule": {
+        "steam": {
+            "last_24h": 10.558,
+            "last_7d": 9.94806779661017,
+            "last_30d": 10.640666666666664,
+            "last_90d": 11.865502222222215
+        }
+    },
+    "London 2018 Minor Challengers Autograph Capsule": {
+        "steam": {
+            "last_24h": 9.808,
+            "last_7d": 8.805803030303029,
+            "last_30d": 9.677266233766233,
+            "last_90d": 10.93829295154185
+        }
+    },
+    "London 2018 Inferno Souvenir Package": {
+        "steam": {
+            "last_24h": 10.116,
+            "last_7d": 11.593583333333333,
+            "last_30d": 11.505357142857145,
+            "last_90d": 11.921653846153841
+        }
+    },
+    "London 2018 Mirage Souvenir Package": {
+        "steam": {
+            "last_24h": 18.37,
+            "last_7d": 18.272333333333336,
+            "last_30d": 16.812939999999998,
+            "last_90d": 15.068618644067799
+        }
+    },
+    "London 2018 Dust II Souvenir Package": {
+        "steam": {
+            "last_24h": 19.995,
+            "last_7d": 13.22475,
+            "last_30d": 13.195133333333333,
+            "last_90d": 13.430240740740736
+        }
+    },
+    "London 2018 Overpass Souvenir Package": {
+        "steam": {
+            "last_24h": 23.5425,
+            "last_7d": 25.135833333333334,
+            "last_30d": 25.2910625,
+            "last_90d": 28.35943529411765
+        }
+    },
+    "London 2018 Cache Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 25.384333333333338,
+            "last_90d": 21.655122807017545
+        }
+    },
+    "London 2018 Train Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 9.639299999999999,
+            "last_30d": 9.682566666666668,
+            "last_90d": 10.215483146067415
+        }
+    },
+    "London 2018 Nuke Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 19.889333333333333,
+            "last_30d": 20.250785714285715,
+            "last_90d": 19.988948275862068
+        }
+    },
+    "Skill Groups Capsule": {
+        "steam": {
+            "last_24h": 1.078933333333333,
+            "last_7d": 1.0797395833333334,
+            "last_30d": 1.0319333333333343,
+            "last_90d": 1.0336061588330627
+        }
+    },
+    "Danger Zone Case": {
+        "steam": {
+            "last_24h": 0.6757100037467215,
+            "last_7d": 0.6792004690002291,
+            "last_30d": 0.7203301394985625,
+            "last_90d": 0.741105788937935
+        }
+    },
+    "Katowice 2019 Legends (Holo-Foil)": {
+        "steam": {
+            "last_24h": 8.699000000000002,
+            "last_7d": 8.705377777777777,
+            "last_30d": 8.844711764705881,
+            "last_90d": 9.121116424116433
+        }
+    },
+    "Katowice 2019 Returning Challengers (Holo-Foil)": {
+        "steam": {
+            "last_24h": 11.981,
+            "last_7d": 12.479249999999999,
+            "last_30d": 12.644276836158186,
+            "last_90d": 13.077226744186051
+        }
+    },
+    "Katowice 2019 Minor Challengers (Holo-Foil)": {
+        "steam": {
+            "last_24h": 7.963000000000001,
+            "last_7d": 7.752625,
+            "last_30d": 7.413536082474228,
+            "last_90d": 7.7959188235294095
+        }
+    },
+    "Katowice 2019 Legends Autograph Capsule": {
+        "steam": {
+            "last_24h": 4.478706766917292,
+            "last_7d": 4.629021798365123,
+            "last_30d": 4.913970860927152,
+            "last_90d": 5.2970405327156955
+        }
+    },
+    "Katowice 2019 Returning Challengers Autograph Capsule": {
+        "steam": {
+            "last_24h": 5.3428,
+            "last_7d": 4.788476635514019,
+            "last_30d": 5.034392935982339,
+            "last_90d": 5.434230303030308
+        }
+    },
+    "Katowice 2019 Minor Challengers Autograph Capsule": {
+        "steam": {
+            "last_24h": 7.572304347826088,
+            "last_7d": 7.186628930817611,
+            "last_30d": 7.820123110151188,
+            "last_90d": 8.523723985239846
+        }
+    },
+    "Katowice 2019 Inferno Souvenir Package": {
+        "steam": {
+            "last_24h": 9.008,
+            "last_7d": 9.050249999999998,
+            "last_30d": 10.902041666666664,
+            "last_90d": 11.695013333333334
+        }
+    },
+    "Katowice 2019 Mirage Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 25.900799999999997,
+            "last_90d": 26.614095238095242
+        }
+    },
+    "Katowice 2019 Dust II Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 19.75,
+            "last_90d": 20.37777777777778
+        }
+    },
+    "Katowice 2019 Overpass Souvenir Package": {
+        "steam": {
+            "last_24h": 34.2685,
+            "last_7d": 15.141285714285715,
+            "last_30d": 13.560255319148938,
+            "last_90d": 15.65640909090909
+        }
+    },
+    "Katowice 2019 Cache Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 18.399,
+            "last_30d": 24.282375,
+            "last_90d": 23.793166666666668
+        }
+    },
+    "Katowice 2019 Train Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 11.015,
+            "last_30d": 12.181615384615384,
+            "last_90d": 12.275599999999999
+        }
+    },
+    "Katowice 2019 Nuke Souvenir Package": {
+        "steam": {
+            "last_24h": 9.257,
+            "last_7d": 11.365058823529413,
+            "last_30d": 11.776926829268294,
+            "last_90d": 12.018568181818177
+        }
+    },
+    "Halo Capsule": {
+        "steam": {
+            "last_24h": 1.061921052631579,
+            "last_7d": 1.0486980519480522,
+            "last_30d": 1.083157057654076,
+            "last_90d": 1.0736132681137274
+        }
+    },
+    "Prisma Case": {
+        "steam": {
+            "last_24h": 0.5932465220949263,
+            "last_7d": 0.5929333204309402,
+            "last_30d": 0.6184913457592978,
+            "last_90d": 0.6504122502117125
+        }
+    },
+    "Feral Predators Capsule": {
+        "steam": {
+            "last_24h": 1.0081363636363636,
+            "last_7d": 1.0131500000000004,
+            "last_30d": 0.9792777777777776,
+            "last_90d": 1.0878273316528626
+        }
+    },
+    "CS:GO Patch Pack": {
+        "steam": {
+            "last_24h": 1.5855081967213114,
+            "last_7d": 1.5551622574955912,
+            "last_30d": 1.5622129724208365,
+            "last_90d": 1.5406060418280418
+        }
+    },
+    "Half-Life: Alyx Patch Pack": {
+        "steam": {
+            "last_24h": 2.0605,
+            "last_7d": 2.015771653543307,
+            "last_30d": 1.988679577464789,
+            "last_90d": 1.8611881785283482
+        }
+    },
+    "Warhammer 40,000 Sticker Capsule": {
+        "steam": {
+            "last_24h": 1.1352,
+            "last_7d": 1.1205,
+            "last_30d": 1.1236653919694073,
+            "last_90d": 1.1141887034659814
+        }
+    },
+    "Shattered Web Case": {
+        "steam": {
+            "last_24h": 3.8610654008438825,
+            "last_7d": 3.7791525344545676,
+            "last_30d": 3.9970762912185336,
+            "last_90d": 3.953453322401514
+        }
+    },
+    "Berlin 2019 Legends (Holo-Foil)": {
+        "steam": {
+            "last_24h": 1.6368333333333334,
+            "last_7d": 1.63904984423676,
+            "last_30d": 1.6458723835246447,
+            "last_90d": 1.7629463922189526
+        }
+    },
+    "Berlin 2019 Returning Challengers (Holo-Foil)": {
+        "steam": {
+            "last_24h": 2.3785454545454545,
+            "last_7d": 2.38404433497537,
+            "last_30d": 2.612650246305418,
+            "last_90d": 2.4382310722100646
+        }
+    },
+    "Berlin 2019 Minor Challengers (Holo-Foil)": {
+        "steam": {
+            "last_24h": 1.809857142857143,
+            "last_7d": 1.7761333333333327,
+            "last_30d": 1.8050674882629112,
+            "last_90d": 1.8105467411545637
+        }
+    },
+    "Berlin 2019 Legends Autograph Capsule": {
+        "steam": {
+            "last_24h": 0.9279166666666666,
+            "last_7d": 0.9463726899383985,
+            "last_30d": 0.9328861593768722,
+            "last_90d": 0.8140519181490702
+        }
+    },
+    "Berlin 2019 Returning Challengers Autograph Capsule": {
+        "steam": {
+            "last_24h": 0.8017111111111109,
+            "last_7d": 0.8129057971014491,
+            "last_30d": 0.8110348101265825,
+            "last_90d": 0.753864720908744
+        }
+    },
+    "Berlin 2019 Minor Challengers Autograph Capsule": {
+        "steam": {
+            "last_24h": 2.4829642857142855,
+            "last_7d": 2.5601359649122797,
+            "last_30d": 2.5018439773645924,
+            "last_90d": 2.4806932289267563
+        }
+    },
+    "Berlin 2019 Inferno Souvenir Package": {
+        "steam": {
+            "last_24h": 7.527,
+            "last_7d": 7.421181818181819,
+            "last_30d": 7.777171428571431,
+            "last_90d": 8.711418367346939
+        }
+    },
+    "Berlin 2019 Mirage Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 14.23,
+            "last_30d": 16.562,
+            "last_90d": 14.360270270270272
+        }
+    },
+    "Berlin 2019 Dust II Souvenir Package": {
+        "steam": {
+            "last_24h": 9.22,
+            "last_7d": 10.655000000000001,
+            "last_30d": 11.07975,
+            "last_90d": 12.10417647058824
+        }
+    },
+    "Berlin 2019 Overpass Souvenir Package": {
+        "steam": {
+            "last_24h": 13.07,
+            "last_7d": 10.123272727272727,
+            "last_30d": 10.739688311688308,
+            "last_90d": 12.319632380952376
+        }
+    },
+    "Berlin 2019 Train Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 14.3125,
+            "last_90d": 12.783666666666667
+        }
+    },
+    "Berlin 2019 Nuke Souvenir Package": {
+        "steam": {
+            "last_24h": 14.714,
+            "last_7d": 12.713083333333332,
+            "last_30d": 14.235499999999998,
+            "last_90d": 16.348021739130434
+        }
+    },
+    "Berlin 2019 Vertigo Souvenir Package": {
+        "steam": {
+            "last_24h": 12.84,
+            "last_7d": 10.7125,
+            "last_30d": 11.471860000000003,
+            "last_90d": 11.32160795454545
+        }
+    },
+    "X-Ray P250 Package": {
+        "steam": {
+            "last_24h": 2.3235,
+            "last_7d": 2.4087,
+            "last_30d": 2.468694736842105,
+            "last_90d": 2.685171021377671
+        }
+    },
+    "CS20 Case": {
+        "steam": {
+            "last_24h": 0.5895729927007298,
+            "last_7d": 0.5996691581300678,
+            "last_30d": 0.6148270327119747,
+            "last_90d": 0.6261536157126345
+        }
+    },
+    "CS20 Sticker Capsule": {
+        "steam": {
+            "last_24h": 0.7707777777777778,
+            "last_7d": 0.7594832357637037,
+            "last_30d": 0.7967455437253274,
+            "last_90d": 0.8418171227147793
+        }
+    },
+    "Half-Life: Alyx Collectible Pins Capsule": {
+        "steam": {
+            "last_24h": 8.397142857142857,
+            "last_7d": 8.950666666666665,
+            "last_30d": 9.700729411764705,
+            "last_90d": 10.10169953051643
+        }
+    },
+    "Half-Life: Alyx Sticker Capsule": {
+        "steam": {
+            "last_24h": 1.073375,
+            "last_7d": 1.01302380952381,
+            "last_30d": 1.0177079407806187,
+            "last_90d": 1.0551354971664095
+        }
+    },
+    "Prisma 2 Case": {
+        "steam": {
+            "last_24h": 0.667092209481026,
+            "last_7d": 0.6751959595666611,
+            "last_30d": 0.700215531749409,
+            "last_90d": 0.7313112109692932
+        }
+    },
+    "Masterminds Music Kit Box": {
+        "steam": {
+            "last_24h": 4.1675,
+            "last_7d": 5.138733333333333,
+            "last_30d": 5.307736842105261,
+            "last_90d": 5.4695618374558315
+        }
+    },
+    "StatTrak™ Masterminds Music Kit Box": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 9.026958333333333,
+            "last_90d": 8.92488043478261
+        }
+    },
+    "Fracture Case": {
+        "steam": {
+            "last_24h": 0.22615176621900515,
+            "last_7d": 0.22921290280655907,
+            "last_30d": 0.22247872652889955,
+            "last_90d": 0.24872632315221518
+        }
+    },
+    "Operation Broken Fang Case": {
+        "steam": {
+            "last_24h": 4.976925977653631,
+            "last_7d": 5.0834426883535375,
+            "last_30d": 5.292577227237733,
+            "last_90d": 5.144301187534868
+        }
+    },
+    "2020 RMR Legends": {
+        "steam": {
+            "last_24h": 0.20353905249679896,
+            "last_7d": 0.17606463148713478,
+            "last_30d": 0.18828191881918815,
+            "last_90d": 0.22192656216089857
+        }
+    },
+    "2020 RMR Challengers": {
+        "steam": {
+            "last_24h": 0.21066176470588235,
+            "last_7d": 0.20010799522673034,
+            "last_30d": 0.22210159362549817,
+            "last_90d": 0.2334996411161281
+        }
+    },
+    "2020 RMR Contenders": {
+        "steam": {
+            "last_24h": 0.255544061302682,
+            "last_7d": 0.2522882921589687,
+            "last_30d": 0.2733854547225878,
+            "last_90d": 0.2936136207360463
+        }
+    },
+    "Poorly Drawn Capsule": {
+        "steam": {
+            "last_24h": 1.0848,
+            "last_7d": 1.0770361445783132,
+            "last_30d": 1.102915770609318,
+            "last_90d": 1.0885673076923077
+        }
+    },
+    "Snakebite Case": {
+        "steam": {
+            "last_24h": 0.19397770282930485,
+            "last_7d": 0.19829258002488404,
+            "last_30d": 0.21119144949005816,
+            "last_90d": 0.2361885590370334
+        }
+    },
+    "Tacticians Music Kit Box": {
+        "steam": {
+            "last_24h": 4.101,
+            "last_7d": 3.93425,
+            "last_30d": 4.0152222222222225,
+            "last_90d": 3.84795512820513
+        }
+    },
+    "StatTrak™ Tacticians Music Kit Box": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 7.633,
+            "last_30d": 7.346916666666666,
+            "last_90d": 6.752142857142858
+        }
+    },
+    "2021 Community Sticker Capsule": {
+        "steam": {
+            "last_24h": 1.1374375000000003,
+            "last_7d": 1.138515151515152,
+            "last_30d": 1.0847846481876333,
+            "last_90d": 1.0111003555906748
+        }
+    },
+    "The Boardroom Sticker Capsule": {
+        "steam": {
+            "last_24h": 1.070857142857143,
+            "last_7d": 1.0515454545454546,
+            "last_30d": 1.0183338278931746,
+            "last_90d": 1.0952526205450734
+        }
+    },
+    "Battlefield 2042 Sticker Capsule": {
+        "steam": {
+            "last_24h": 1.0270000000000001,
+            "last_7d": 1.034311111111111,
+            "last_30d": 1.04475641025641,
+            "last_90d": 1.0483921794134548
+        }
+    },
+    "Operation Riptide Case": {
+        "steam": {
+            "last_24h": 5.921049875311722,
+            "last_7d": 5.774418287937744,
+            "last_30d": 6.004539196940728,
+            "last_90d": 5.756143370573648
+        }
+    },
+    "Stockholm 2021 Legends Sticker Capsule": {
+        "steam": {
+            "last_24h": 0.8917750439367312,
+            "last_7d": 0.8787237012147843,
+            "last_30d": 0.9279180737961231,
+            "last_90d": 1.0644770872189793
+        }
+    },
+    "Stockholm 2021 Challengers Sticker Capsule": {
+        "steam": {
+            "last_24h": 2.909040816326531,
+            "last_7d": 2.992687460216422,
+            "last_30d": 3.304582083154734,
+            "last_90d": 3.4306508552537034
+        }
+    },
+    "Stockholm 2021 Contenders Sticker Capsule": {
+        "steam": {
+            "last_24h": 2.733018018018018,
+            "last_7d": 2.6580447019867526,
+            "last_30d": 2.826844379532635,
+            "last_90d": 3.1695296392658765
+        }
+    },
+    "Stockholm 2021 Legends Patch Pack": {
+        "steam": {
+            "last_24h": 5.060124999999999,
+            "last_7d": 5.20364705882353,
+            "last_30d": 5.247192254495158,
+            "last_90d": 5.4187469410456055
+        }
+    },
+    "Stockholm 2021 Challengers Patch Pack": {
+        "steam": {
+            "last_24h": 13.1735,
+            "last_7d": 13.518408163265306,
+            "last_30d": 14.216271028037383,
+            "last_90d": 12.113978004713273
+        }
+    },
+    "Stockholm 2021 Contenders Patch Pack": {
+        "steam": {
+            "last_24h": 7.746,
+            "last_7d": 8.31645588235294,
+            "last_30d": 8.74277744807122,
+            "last_90d": 8.857157472417246
+        }
+    },
+    "Stockholm 2021 Inferno Souvenir Package": {
+        "steam": {
+            "last_24h": 3.0447777777777776,
+            "last_7d": 3.1346999999999996,
+            "last_30d": 3.6771931818181813,
+            "last_90d": 4.210078740157479
+        }
+    },
+    "Stockholm 2021 Mirage Souvenir Package": {
+        "steam": {
+            "last_24h": 3.8241333333333336,
+            "last_7d": 3.7884135802469125,
+            "last_30d": 4.041144549763033,
+            "last_90d": 3.836099022173259
+        }
+    },
+    "Stockholm 2021 Dust II Souvenir Package": {
+        "steam": {
+            "last_24h": 3.6993050847457627,
+            "last_7d": 3.634132075471699,
+            "last_30d": 4.033290251107829,
+            "last_90d": 4.864790301724135
+        }
+    },
+    "Stockholm 2021 Overpass Souvenir Package": {
+        "steam": {
+            "last_24h": 4.434,
+            "last_7d": 4.401319148936169,
+            "last_30d": 4.646302013422821,
+            "last_90d": 5.67187229437229
+        }
+    },
+    "Stockholm 2021 Ancient Souvenir Package": {
+        "steam": {
+            "last_24h": 3.6292857142857144,
+            "last_7d": 3.5449090909090915,
+            "last_30d": 3.53539557739558,
+            "last_90d": 3.614979133226325
+        }
+    },
+    "Stockholm 2021 Nuke Souvenir Package": {
+        "steam": {
+            "last_24h": 2.83,
+            "last_7d": 3.0634545454545457,
+            "last_30d": 3.1905090909090905,
+            "last_90d": 3.4085691906005247
+        }
+    },
+    "Stockholm 2021 Vertigo Souvenir Package": {
+        "steam": {
+            "last_24h": 3.5288749999999998,
+            "last_7d": 3.5563488372093017,
+            "last_30d": 3.6727177033492837,
+            "last_90d": 4.046825862068967
+        }
+    },
+    "Stockholm 2021 Champions Autograph Capsule": {
+        "steam": {
+            "last_24h": 0.3526520618556701,
+            "last_7d": 0.3889711359404096,
+            "last_30d": 0.44764668313037514,
+            "last_90d": 0.5866744706694924
+        }
+    },
+    "Stockholm 2021 Finalists Autograph Capsule": {
+        "steam": {
+            "last_24h": 0.5389891891891893,
+            "last_7d": 0.5137214185720951,
+            "last_30d": 0.5606155334171578,
+            "last_90d": 0.6058127694365988
+        }
+    },
+    "Dreams & Nightmares Case": {
+        "steam": {
+            "last_24h": 1.0533104687794503,
+            "last_7d": 0.9989441748708904,
+            "last_30d": 0.9855631656106175,
+            "last_90d": 0.967901972553945
+        }
+    },
+    "Antwerp 2022 Legends Sticker Capsule": {
+        "steam": {
+            "last_24h": 0.476394114252741,
+            "last_7d": 0.44989070684860616,
+            "last_30d": 0.5167222241681261,
+            "last_90d": 0.6360403523609852
+        }
+    },
+    "Antwerp 2022 Challengers Sticker Capsule": {
+        "steam": {
+            "last_24h": 0.32159727891156464,
+            "last_7d": 0.31394237251277596,
+            "last_30d": 0.34427979087795224,
+            "last_90d": 0.3996918289517081
+        }
+    },
+    "Antwerp 2022 Contenders Sticker Capsule": {
+        "steam": {
+            "last_24h": 0.44743871706758304,
+            "last_7d": 0.42988247104247096,
+            "last_30d": 0.45598693452880396,
+            "last_90d": 0.544121118210049
+        }
+    },
+    "Antwerp 2022 Inferno Souvenir Package": {
+        "steam": {
+            "last_24h": 2.9354999999999998,
+            "last_7d": 2.897260869565217,
+            "last_30d": 3.046363636363636,
+            "last_90d": 3.467595238095239
+        }
+    },
+    "Antwerp 2022 Mirage Souvenir Package": {
+        "steam": {
+            "last_24h": 3.97,
+            "last_7d": 4.112833333333334,
+            "last_30d": 4.2209205128205145,
+            "last_90d": 4.795721093202523
+        }
+    },
+    "Antwerp 2022 Dust II Souvenir Package": {
+        "steam": {
+            "last_24h": 5.054,
+            "last_7d": 5.147819819819821,
+            "last_30d": 5.38426335877863,
+            "last_90d": 6.577116259116258
+        }
+    },
+    "Antwerp 2022 Overpass Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 4.273095238095239,
+            "last_30d": 4.110167630057804,
+            "last_90d": 4.86857741659538
+        }
+    },
+    "Antwerp 2022 Ancient Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 4.594523809523811,
+            "last_30d": 5.069983333333331,
+            "last_90d": 4.971740053050399
+        }
+    },
+    "Antwerp 2022 Nuke Souvenir Package": {
+        "steam": {
+            "last_24h": 3.142,
+            "last_7d": 2.938785714285714,
+            "last_30d": 3.1136741573033704,
+            "last_90d": 3.241092063492063
+        }
+    },
+    "Antwerp 2022 Vertigo Souvenir Package": {
+        "steam": {
+            "last_24h": 3.554,
+            "last_7d": 3.667254237288136,
+            "last_30d": 3.861549618320611,
+            "last_90d": 4.328541379310346
+        }
+    },
+    "Antwerp 2022 Legends Autograph Capsule": {
+        "steam": {
+            "last_24h": 0.2918698224852071,
+            "last_7d": 0.2653869253255382,
+            "last_30d": 0.28082834291427133,
+            "last_90d": 0.32883755421855354
+        }
+    },
+    "Antwerp 2022 Challengers Autograph Capsule": {
+        "steam": {
+            "last_24h": 0.32994897959183667,
+            "last_7d": 0.3305188630490954,
+            "last_30d": 0.3451873772540621,
+            "last_90d": 0.3942728005043433
+        }
+    },
+    "Antwerp 2022 Contenders Autograph Capsule": {
+        "steam": {
+            "last_24h": 0.4932725694444444,
+            "last_7d": 0.5016735856220732,
+            "last_30d": 0.5273835550487777,
+            "last_90d": 0.5874752265597774
+        }
+    },
+    "Antwerp 2022 Champions Autograph Capsule": {
+        "steam": {
+            "last_24h": 0.23021142857142865,
+            "last_7d": 0.23455024280911466,
+            "last_30d": 0.26066210826210806,
+            "last_90d": 0.324746554543331
+        }
+    },
+    "Recoil Case": {
+        "steam": {
+            "last_24h": 0.14990763707571803,
+            "last_7d": 0.14961264672239058,
+            "last_30d": 0.1548261184716558,
+            "last_90d": 0.16900558642528202
+        }
+    },
+    "10 Year Birthday Sticker Capsule": {
+        "steam": {
+            "last_24h": 1.0449591836734695,
+            "last_7d": 1.0305,
+            "last_30d": 1.039057854265835,
+            "last_90d": 0.9982972694487373
+        }
+    },
+    "Initiators Music Kit Box": {
+        "steam": {
+            "last_24h": 4.492800000000001,
+            "last_7d": 4.2702,
+            "last_30d": 4.330849999999999,
+            "last_90d": 4.229471728594504
+        }
+    },
+    "StatTrak™ Initiators Music Kit Box": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 7.196000000000001,
+            "last_30d": 7.644485714285713,
+            "last_90d": 7.699602739726029
+        }
+    },
+    "Rio 2022 Legends Sticker Capsule": {
+        "steam": {
+            "last_24h": 0.2329869109947644,
+            "last_7d": 0.22017847769028873,
+            "last_30d": 0.24183938172042993,
+            "last_90d": 0.29879610097073456
+        }
+    },
+    "Rio 2022 Challengers Sticker Capsule": {
+        "steam": {
+            "last_24h": 0.19813210130047912,
+            "last_7d": 0.20010648148148158,
+            "last_30d": 0.21973541376427955,
+            "last_90d": 0.2645771834925981
+        }
+    },
+    "Rio 2022 Contenders Sticker Capsule": {
+        "steam": {
+            "last_24h": 0.24155176470588238,
+            "last_7d": 0.22974024110218144,
+            "last_30d": 0.26723846455492156,
+            "last_90d": 0.3268027568318048
+        }
+    },
+    "Rio 2022 Inferno Souvenir Package": {
+        "steam": {
+            "last_24h": 4.375,
+            "last_7d": 4.3248,
+            "last_30d": 4.3093676470588225,
+            "last_90d": 4.317855614973261
+        }
+    },
+    "Rio 2022 Mirage Souvenir Package": {
+        "steam": {
+            "last_24h": 3.7032307692307693,
+            "last_7d": 3.357013986013986,
+            "last_30d": 3.397576988155669,
+            "last_90d": 3.6675080188679234
+        }
+    },
+    "Rio 2022 Dust II Souvenir Package": {
+        "steam": {
+            "last_24h": 2.9905524044389638,
+            "last_7d": 3.0342655526992295,
+            "last_30d": 3.1202708563735153,
+            "last_90d": 3.7747949543983492
+        }
+    },
+    "Rio 2022 Overpass Souvenir Package": {
+        "steam": {
+            "last_24h": null,
+            "last_7d": 3.53185,
+            "last_30d": 3.700657894736843,
+            "last_90d": 4.570753229974162
+        }
+    },
+    "Rio 2022 Ancient Souvenir Package": {
+        "steam": {
+            "last_24h": 3.435625,
+            "last_7d": 3.821999999999999,
+            "last_30d": 3.9228189655172416,
+            "last_90d": 4.133875
+        }
+    },
+    "Rio 2022 Nuke Souvenir Package": {
+        "steam": {
+            "last_24h": 5.012,
+            "last_7d": 4.844454545454545,
+            "last_30d": 4.41334375,
+            "last_90d": 4.15677397260274
+        }
+    },
+    "Rio 2022 Vertigo Souvenir Package": {
+        "steam": {
+            "last_24h": 4.522888888888889,
+            "last_7d": 4.419043478260869,
+            "last_30d": 4.662169230769231,
+            "last_90d": 5.144800000000001
+        }
+    },
+    "Rio 2022 Legends Autograph Capsule": {
+        "steam": {
+            "last_24h": 0.3295890410958904,
+            "last_7d": 0.318766606822262,
+            "last_30d": 0.32666481172324213,
+            "last_90d": 0.36165212773749317
+        }
+    },
+    "Rio 2022 Challengers Autograph Capsule": {
+        "steam": {
+            "last_24h": 0.387768115942029,
+            "last_7d": 0.3906340172071475,
+            "last_30d": 0.4194129281234929,
+            "last_90d": 0.4236226585509522
+        }
+    },
+    "Rio 2022 Contenders Autograph Capsule": {
+        "steam": {
+            "last_24h": 0.3029253731343283,
+            "last_7d": 0.29067074102368223,
+            "last_30d": 0.2949663043478257,
+            "last_90d": 0.3289461679858957
+        }
+    },
+    "Rio 2022 Champions Autograph Capsule": {
+        "steam": {
+            "last_24h": 0.2983837209302326,
+            "last_7d": 0.2835721925133691,
+            "last_30d": 0.293806720935087,
+            "last_90d": 0.3344921220457671
+        }
+    },
+    "Espionage Sticker Capsule": {
+        "steam": {
+            "last_24h": 0.7079082568807339,
+            "last_7d": 0.7034979253112037,
+            "last_30d": 0.7100289719626168,
+            "last_90d": 0.7551075973481663
+        }
+    },
+    "Revolution Case": {
+        "steam": {
+            "last_24h": 0.3049418394812503,
+            "last_7d": 0.30260637927517975,
+            "last_30d": 0.3074236417601272,
+            "last_90d": 0.34249939210120284
+        }
+    },
+    "Anubis Collection Package": {
+        "steam": {
+            "last_24h": 1.5857787219578519,
+            "last_7d": 1.5605348586351773,
+            "last_30d": 1.5374164266365962,
+            "last_90d": 1.5969345294200934
+        }
+    },
+    "Paris 2023 Legends Sticker Capsule": {
+        "steam": {
+            "last_24h": 0.13409425110286394,
+            "last_7d": 0.13199165522722348,
+            "last_30d": 0.14409969072180664,
+            "last_90d": 0.19116532876519546
+        }
+    },
+    "Paris 2023 Challengers Sticker Capsule": {
+        "steam": {
+            "last_24h": 0.12154065661385761,
+            "last_7d": 0.12441735550277115,
+            "last_30d": 0.1364511462993897,
+            "last_90d": 0.16995994323237423
+        }
+    },
+    "Paris 2023 Contenders Sticker Capsule": {
+        "steam": {
+            "last_24h": 0.12373225694041119,
+            "last_7d": 0.12569813373658384,
+            "last_30d": 0.13767434447313714,
+            "last_90d": 0.1800291511035911
+        }
+    },
+    "Paris 2023 Inferno Souvenir Package": {
+        "steam": {
+            "last_24h": 2.059272727272727,
+            "last_7d": 2.07771921182266,
+            "last_30d": 2.1742573426573464,
+            "last_90d": 2.3214524752475256
+        }
+    },
+    "Paris 2023 Mirage Souvenir Package": {
+        "steam": {
+            "last_24h": 2.5229110070257614,
+            "last_7d": 2.5086214386459798,
+            "last_30d": 2.5460606834975352,
+            "last_90d": 2.641407137518688
+        }
+    },
+    "Paris 2023 Anubis Souvenir Package": {
+        "steam": {
+            "last_24h": 1.8420752212389382,
+            "last_7d": 1.8212046920821112,
+            "last_30d": 1.851272368241865,
+            "last_90d": 2.0356259936787664
+        }
+    },
+    "Paris 2023 Overpass Souvenir Package": {
+        "steam": {
+            "last_24h": 2.566280487804878,
+            "last_7d": 2.453703481392557,
+            "last_30d": 2.649846123880016,
+            "last_90d": 2.925400951382724
+        }
+    },
+    "Paris 2023 Ancient Souvenir Package": {
+        "steam": {
+            "last_24h": 2.6924057971014492,
+            "last_7d": 2.645747330960855,
+            "last_30d": 2.7085264172772825,
+            "last_90d": 2.8036045367586784
+        }
+    },
+    "Paris 2023 Nuke Souvenir Package": {
+        "steam": {
+            "last_24h": 2.1543749999999995,
+            "last_7d": 2.147767741935485,
+            "last_30d": 2.210471346704873,
+            "last_90d": 2.340913352272726
+        }
+    },
+    "Paris 2023 Vertigo Souvenir Package": {
+        "steam": {
+            "last_24h": 2.112394495412844,
+            "last_7d": 2.0867099811676093,
+            "last_30d": 2.1139796757250506,
+            "last_90d": 2.3157632419233605
+        }
+    },
+    "Paris 2023 Legends Autograph Capsule": {
+        "steam": {
+            "last_24h": 0.15989375750300122,
+            "last_7d": 0.1579657449122262,
+            "last_30d": 0.17256516076516087,
+            "last_90d": 0.2185166841645437
+        }
+    },
+    "Paris 2023 Challengers Autograph Capsule": {
+        "steam": {
+            "last_24h": 0.16437047970479707,
+            "last_7d": 0.16619399785637717,
+            "last_30d": 0.1804834292373805,
+            "last_90d": 0.236335324325082
+        }
+    },
+    "Paris 2023 Contenders Autograph Capsule": {
+        "steam": {
+            "last_24h": 0.13656370449678804,
+            "last_7d": 0.1375624088256747,
+            "last_30d": 0.14442431539353887,
+            "last_90d": 0.18577058221796272
+        }
+    },
+    "Paris 2023 Champions Autograph Capsule": {
+        "steam": {
+            "last_24h": 0.1516375617792422,
+            "last_7d": 0.14955136850456172,
+            "last_30d": 0.16085224062410902,
+            "last_90d": 0.19909136446313896
+        }
+    },
+    "Kilowatt Case": {
+        "steam": {
+            "last_24h": 0.8689713220212568,
+            "last_7d": 0.8616298994026339,
+            "last_30d": 0.9664087741939793,
+            "last_90d": 1.372291730399806
+        }
+    },
+    "Ambush Sticker Capsule": {
+        "steam": {
+            "last_24h": 1.0469859154929577,
+            "last_7d": 1.0239420783645654,
+            "last_30d": 1.0581665111940297,
+            "last_90d": 1.0367710496684597
+        }
+    },
+    "NIGHTMODE Music Kit Box": {
+        "steam": {
+            "last_24h": 5.97775,
+            "last_7d": 5.383137931034484,
+            "last_30d": 5.258437086092718,
+            "last_90d": 5.335327464788731
+        }
+    },
+    "StatTrak™ NIGHTMODE Music Kit Box": {
+        "steam": {
+            "last_24h": 7.13,
+            "last_7d": 8.428777777777777,
+            "last_30d": 8.234326923076923,
+            "last_90d": 8.445796954314723
+        }
+    },
+    "Copenhagen 2024 Legends Sticker Capsule": {
+        "steam": {
+            "last_24h": 0.22599462102689485,
+            "last_7d": 0.2255951322256027,
+            "last_30d": 0.22984319335725922,
+            "last_90d": 0.25217293695633475
+        }
+    },
+    "Copenhagen 2024 Challengers Sticker Capsule": {
+        "steam": {
+            "last_24h": 0.21926756867090452,
+            "last_7d": 0.22168082680770743,
+            "last_30d": 0.23510628534132721,
+            "last_90d": 0.24999135116076887
+        }
+    },
+    "Copenhagen 2024 Contenders Sticker Capsule": {
+        "steam": {
+            "last_24h": 0.22523871221044361,
+            "last_7d": 0.2326187916868847,
+            "last_30d": 0.2389346069601341,
+            "last_90d": 0.2541713357557686
+        }
+    },
+    "Copenhagen 2024 Inferno Souvenir Package": {
+        "steam": {
+            "last_24h": 2.4313846153846153,
+            "last_7d": 2.4719600000000015,
+            "last_30d": 2.5421287553648044,
+            "last_90d": 2.610483642624831
+        }
+    },
+    "Copenhagen 2024 Mirage Souvenir Package": {
+        "steam": {
+            "last_24h": 2.92048051948052,
+            "last_7d": 2.892469241131568,
+            "last_30d": 3.0379639571518577,
+            "last_90d": 3.1465599360285705
+        }
+    },
+    "Copenhagen 2024 Anubis Souvenir Package": {
+        "steam": {
+            "last_24h": 2.7223125000000006,
+            "last_7d": 2.9137151898734186,
+            "last_30d": 3.0890138364779887,
+            "last_90d": 2.851993957703925
+        }
+    },
+    "Copenhagen 2024 Overpass Souvenir Package": {
+        "steam": {
+            "last_24h": 2.6755846994535517,
+            "last_7d": 2.62616814159292,
+            "last_30d": 2.791458801498127,
+            "last_90d": 3.23320971462466
+        }
+    },
+    "Copenhagen 2024 Ancient Souvenir Package": {
+        "steam": {
+            "last_24h": 2.938965517241379,
+            "last_7d": 2.9116721649484547,
+            "last_30d": 2.9164460946094635,
+            "last_90d": 2.930398462195642
+        }
+    },
+    "Copenhagen 2024 Nuke Souvenir Package": {
+        "steam": {
+            "last_24h": 2.4633000000000003,
+            "last_7d": 2.445173913043479,
+            "last_30d": 2.5076254071661235,
+            "last_90d": 2.538244859420901
+        }
+    },
+    "Copenhagen 2024 Vertigo Souvenir Package": {
+        "steam": {
+            "last_24h": 2.6778999999999997,
+            "last_7d": 2.753910377358489,
+            "last_30d": 2.7177083333333343,
+            "last_90d": 2.8498054064417206
+        }
+    },
+    "Copenhagen 2024 Legends Autograph Capsule": {
+        "steam": {
+            "last_24h": 0.22876803755485256,
+            "last_7d": 0.22855165145663145,
+            "last_30d": 0.23977816059559134,
+            "last_90d": 0.2661034406802062
+        }
+    },
+    "Copenhagen 2024 Challengers Autograph Capsule": {
+        "steam": {
+            "last_24h": 0.18902426916712636,
+            "last_7d": 0.20037790343627662,
+            "last_30d": 0.2163238976645978,
+            "last_90d": 0.2298298198784401
+        }
+    },
+    "Copenhagen 2024 Contenders Autograph Capsule": {
+        "steam": {
+            "last_24h": 0.2114124741787166,
+            "last_7d": 0.21099740380327547,
+            "last_30d": 0.2289344285458367,
+            "last_90d": 0.24567426713472443
+        }
+    },
+    "Copenhagen 2024 Champions Autograph Capsule": {
+        "steam": {
+            "last_24h": 0.13195992958336827,
+            "last_7d": 0.1300305378395024,
+            "last_30d": 0.14885199394769325,
+            "last_90d": 0.16715629881097718
         }
     }
 }

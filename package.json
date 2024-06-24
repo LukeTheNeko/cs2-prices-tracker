@@ -3,10 +3,7 @@
   "author": "LukeTheNeko",
   "version": "1.0.0",
   "description": "cs2 price tracker",
-  "main": "dist/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "index.js",
   "keywords": [
     "counter",
     "srtike",
