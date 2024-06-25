@@ -61,7 +61,7 @@ async function getAllItemNames() {
         "stickers.json",
         "crates.json",
         "agents.json",
-        "keys.json",
+        /*   "keys.json",           */
         "patches.json",
         "graffiti.json",
         "music_kits.json",
@@ -145,7 +145,7 @@ async function processItems(items, batchSize = 1) {
         console.log(`Processed batch ${i / batchSize + 1}/${Math.ceil(items.length / batchSize)}`);
 
         if (i + batchSize < items.length) {
-            console.log(`Waiting for ${ delayPerBatch / 1000 } seconds to respect rate limit...`);
+            console.log(`Waiting for ${delayPerBatch / 1000} seconds to respect rate limit...`);
             await new Promise((resolve) => setTimeout(resolve, delayPerBatch));
         }
     }
@@ -172,7 +172,6 @@ function getWeightedAveragePrice(data) {
     return {
         last_24h: calculateWAP(1),
         last_7d: calculateWAP(7),
-        last_14d: calculateWAP(14),
         last_30d: calculateWAP(30),
         last_90d: calculateWAP(90),
     };
