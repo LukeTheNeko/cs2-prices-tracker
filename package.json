@@ -1,18 +1,20 @@
 {
   "name": "cs2-price-tracker",
   "author": "LukeTheNeko",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "cs2 price tracker",
   "main": "index.js",
   "keywords": [
     "counter",
     "srtike",
     "2",
-    "counter",
-    "strike",
+    "cs",
     "cs2",
     "csgo"
   ],
+  "scripts": {
+    "dev": "node index.js"
+  },
   "license": "MIT",
   "dependencies": {
     "js-sha1": "^0.7.0",
