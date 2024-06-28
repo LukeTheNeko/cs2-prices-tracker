@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",                       
+    "module": "CommonJS",                      
+    "strict": true,                            
+    "esModuleInterop": true,                   
+    "skipLibCheck": true,                      
+    "forceConsistentCasingInFileNames": true,  
+    "moduleResolution": "node",                
+    "resolveJsonModule": true,                 
+    "outDir": "./dist",                        
+    "rootDir": "./src",                        
+    "baseUrl": "./src",                        
+    "types": ["node"],                        
+    "typeRoots": ["./@types", "./node_modules/@types"]    
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+} 

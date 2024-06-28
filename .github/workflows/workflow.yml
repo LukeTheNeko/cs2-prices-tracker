@@ -2,7 +2,7 @@ name: Update CS Prices
 
 on:
     schedule:
-        - cron: "0 22 * * *"
+        - cron: "0 */6 * * *"
 
     workflow_dispatch:
 
@@ -16,11 +16,17 @@ jobs:
         steps:
             - uses: actions/checkout@master
             - uses: actions/setup-node@v3
-            - name: Update CS2 prices
-              run: npm install && node index.js '${{ secrets.USERNAME }}' '${{ secrets.PASSWORD }}'
+
+            - name: Install Dependencies
+              run: npm install
+
+            - name: Update Prices
+              run: npm run dev '${{ secrets.USERNAME }}' '${{ secrets.PASSWORD }}'
+
             - name: Get current date and time
               id: current_datetime
               run: echo "CURRENT_DATETIME=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+              
             - name: Commit & push changes
               uses: stefanzweifel/git-auto-commit-action@v4
               with:
