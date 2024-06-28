@@ -6,15 +6,15 @@ const marketBaseURL = "https://steamcommunity.com/market";
 
 export async function getAllItemNames(): Promise<string[]> {
     const endpoints = [
-        // "skins_not_grouped.json",
-        // "stickers.json",
-        // "crates.json",
-        // "agents.json",
-        // "keys.json",
-        // "patches.json",
+        "skins_not_grouped.json",
+        "stickers.json",
+        "crates.json",
+        "agents.json",
+        "keys.json",
+        "patches.json",
         "graffiti.json",
         "music_kits.json",
-        //  "collectibles.json"
+        "collectibles.json"
     ];
 
     try {
