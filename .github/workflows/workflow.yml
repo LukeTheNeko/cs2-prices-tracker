@@ -2,7 +2,7 @@ name: Update CS Prices
 
 on:
     schedule:
-        - cron: "0 */6 * * *"
+        - cron: "0 5,12,19 * * *"
 
     workflow_dispatch:
 
