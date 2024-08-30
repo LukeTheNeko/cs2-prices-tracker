@@ -1,7 +1,7 @@
 import SteamCommunity from "steamcommunity";
 import * as colors from 'ansi-colors';
 
-const itemsBaseUrl = "https://cs2-api.vercel.app/api/en";
+const itemsBaseUrl = "https://api.cs2data.info/en"; // Using cs2data.info api 
 const marketBaseURL = "https://steamcommunity.com/market";
 
 export async function getAllItemNames(): Promise<string[]> {
