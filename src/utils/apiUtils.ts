@@ -14,7 +14,8 @@ export async function getAllItemNames(): Promise<string[]> {
         "patches.json",
         "graffiti.json",
         "music_kits.json",
-        "collectibles.json"
+        "collectibles.json",
+        "keychains.json"
     ];
 
     try {
