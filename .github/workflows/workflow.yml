@@ -30,4 +30,4 @@ jobs:
       - name: Commit & push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Updated CS2 Prices -> ${{ env.CURRENT_DATETIME }}"
+          commit_message: "🔄 Updated CS2 Prices | ${{ env.CURRENT_DATETIME }}"

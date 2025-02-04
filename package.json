@@ -1,7 +1,6 @@
 {
   "name": "cs2-price-tracker",
-  "author": "LukeTheNeko",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "cs2 price tracker",
   "main": "dist/index.js",
   "keywords": [
