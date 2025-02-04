@@ -2,3 +2,4 @@ node_modules/
 temp/
 ignore
 exceptions.txt
+accounts.json

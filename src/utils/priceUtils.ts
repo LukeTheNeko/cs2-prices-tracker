@@ -1,4 +1,4 @@
-export function getWeightedAveragePrice(data: { time: number; value: number; volume: number }[]) {
+export function getWeightedAveragePrice(data: { time: number; value: number; volume: number }[], lastEver?: number | null) {
     const now = Date.now();
 
     const calculateWAP = (days: number) => {
@@ -21,5 +21,6 @@ export function getWeightedAveragePrice(data: { time: number; value: number; vol
         last_7d: calculateWAP(7),
         last_30d: calculateWAP(30),
         last_90d: calculateWAP(90),
+        last_ever: lastEver
     };
 }

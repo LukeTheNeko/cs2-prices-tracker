@@ -1,33 +1,33 @@
-name: Update CS Prices
+name: Update CS2 Prices
 
 on:
-    schedule:
-        - cron: "0 */12 * * *"
+  schedule:
+    - cron: "0 5,12,19 * * *"
 
-    workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
-    download:
-        runs-on: ubuntu-latest
+  download:
+    runs-on: ubuntu-latest
 
-        permissions:
-            contents: write
+    permissions:
+      contents: write
 
-        steps:
-            - uses: actions/checkout@master
-            - uses: actions/setup-node@v3
+    steps:
+      - uses: actions/checkout@master
+      - uses: actions/setup-node@v3
 
-            - name: Install Dependencies
-              run: npm install
+      - name: Install Dependencies
+        run: npm install
 
-            - name: Update Prices
-              run: npm run dev '${{ secrets.USERNAME }}' '${{ secrets.PASSWORD }}'
+      - name: Update Prices
+        run: npm run dev '${{ secrets.USERNAME }}' '${{ secrets.PASSWORD }}'
 
-            - name: Get current date and time
-              id: current_datetime
-              run: echo "CURRENT_DATETIME=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
-              
-            - name: Commit & push changes
-              uses: stefanzweifel/git-auto-commit-action@v4
-              with:
-                  commit_message: "Updated CS2 Prices -> ${{ env.CURRENT_DATETIME }}"
+      - name: Get current date and time
+        id: current_datetime
+        run: echo "CURRENT_DATETIME=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+
+      - name: Commit & push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Updated CS2 Prices -> ${{ env.CURRENT_DATETIME }}"

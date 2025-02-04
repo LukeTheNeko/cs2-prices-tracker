@@ -21,7 +21,7 @@ export class SteamMarketFetcher {
 
     async run() {
         createDirectories([dir, dirPrices, dirPricehistory]);
-        console.log(colors.green("Logging into Steam community..."));
+        console.log(colors.magentaBright.italic("🔑 Logging into Steam community..."));
 
         this.community.login(
             {
@@ -41,9 +41,9 @@ export class SteamMarketFetcher {
 
     private async processMarketData() {
         try {
-            console.log(colors.green("Loading items..."));
+            console.log(colors.magentaBright.italic("⏳ Loading items..."));
             const items = await getAllItemNames();
-            console.log(colors.blue(`Processing ${items.length} items.`));
+            console.log(colors.magentaBright.bold(`🔽 Processing ${items.length} items.`));
             const state = loadState();
             const lastIndex = (state.lastIndex || 0) % items.length;
             await this.processItems(items.slice(lastIndex), lastIndex);
@@ -109,12 +109,12 @@ export class SteamMarketFetcher {
                 return;
             }
 
-            console.log(`Processed batch ${Math.floor(i / batchSize) + 1}/${Math.ceil(items.length / batchSize)}`);
+            console.log(colors.blueBright(`☑️ Processed batch ${Math.floor(i / batchSize) + 1}/${Math.ceil(items.length / batchSize)}`));
 
             saveState({ lastIndex: startIndex + i + batchSize });
 
             if (i + batchSize < items.length) {
-                console.log(`Waiting for ${delayPerBatch / 1000} seconds to respect rate limit...`);
+                console.log(colors.cyanBright(`🔄 Waiting for ${delayPerBatch / 1000} seconds to respect rate limit...`));
                 await new Promise(resolve => setTimeout(resolve, delayPerBatch));
             }
         }
