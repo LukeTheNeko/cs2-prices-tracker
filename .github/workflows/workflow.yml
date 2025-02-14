@@ -2,7 +2,7 @@ name: Update CS2 Prices
 
 on:
   schedule:
-    - cron: "0 5,12,19 * * *"
+    - cron: "0 4,11,18 * * *"
 
   workflow_dispatch:
 
@@ -30,4 +30,4 @@ jobs:
       - name: Commit & push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "🔄 Updated CS2 Prices | ${{ env.CURRENT_DATETIME }}"
+          commit_message: "🔄 Updated: CS2 PRICES | ${{ env.CURRENT_DATETIME }}"
