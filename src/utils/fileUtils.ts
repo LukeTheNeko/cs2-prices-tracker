@@ -1,4 +1,5 @@
-import fs from "fs";
+import fs from 'fs';
+import path from 'path';
 
 const dirPrices = `./static/prices`;
 const stateFile = `./src/state.json`;
@@ -9,6 +10,29 @@ export function createDirectories(directories: string[]) {
             fs.mkdirSync(directory);
         }
     });
+}
+
+export function getCurrentDate(): string {
+    return new Date().toISOString().split('T')[0];
+}
+
+export function savePrices(orderedNewPrices: any) {
+    const currentDate = getCurrentDate();
+    const dirPath = path.join(dirPrices, 'date');
+
+    if (!fs.existsSync(dirPath)) {
+        fs.mkdirSync(dirPath, { recursive: true });
+    }
+
+    fs.writeFile(
+        `${dirPath}/${currentDate}.json`,
+        JSON.stringify(orderedNewPrices, null, 4),
+        (err) => {
+            if (err) {
+                console.error(err);
+            }
+        }
+    );
 }
 
 export function loadPrices(): { [key: string]: any } {

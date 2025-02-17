@@ -1,6 +1,6 @@
 import SteamCommunity from "steamcommunity";
 import { getAllItemNames, fetchPrice } from "./utils/apiUtils";
-import { loadPrices, loadState, saveState, createDirectories } from "./utils/fileUtils";
+import { loadPrices, loadState, saveState, createDirectories, savePrices } from "./utils/fileUtils";
 import { getWeightedAveragePrice } from "./utils/priceUtils";
 import { sha1 } from "js-sha1";
 import * as fsPromises from "fs/promises";
@@ -43,7 +43,7 @@ export class SteamMarketFetcher {
         try {
             console.log(colors.magentaBright.italic("⏳ Loading items..."));
             const items = await getAllItemNames();
-            console.log(colors.magentaBright.bold(`🔽 Processing ${items.length} items.`));
+            console.log(colors.magentaBright.bold(`📦 Processing ${items.length} items.`));
             const state = loadState();
             const lastIndex = (state.lastIndex || 0) % items.length;
             await this.processItems(items.slice(lastIndex), lastIndex);
@@ -64,8 +64,11 @@ export class SteamMarketFetcher {
                 `${dirPrices}/latest.json`,
                 JSON.stringify(orderedNewPrices, null, 4)
             );
+
+            savePrices(orderedNewPrices);
+
         } catch (error) {
-            console.error("An error occurred while processing items:", error);
+            console.error("❌ An error occurred while processing items:", error);
         }
     }
 
@@ -97,7 +100,7 @@ export class SteamMarketFetcher {
         for (let i = 0; i < items.length; i += batchSize) {
             const currentTime = Date.now();
             if (currentTime - startTime >= maxDuration) {
-                console.log("Max duration reached. Stopping the process.");
+                console.log(colors.green("⏰ Max duration reached. Stopping the process."));
                 saveState({ lastIndex: startIndex + i });
                 return;
             }
@@ -114,7 +117,7 @@ export class SteamMarketFetcher {
             saveState({ lastIndex: startIndex + i + batchSize });
 
             if (i + batchSize < items.length) {
-                console.log(colors.cyanBright(`🔄 Waiting for ${delayPerBatch / 1000} seconds to respect rate limit...`));
+                console.log(colors.cyanBright(`⌛ Waiting for ${delayPerBatch / 1000} seconds to respect rate limit...`));
                 await new Promise(resolve => setTimeout(resolve, delayPerBatch));
             }
         }

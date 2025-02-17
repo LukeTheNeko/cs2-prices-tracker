@@ -5,7 +5,7 @@ const log = console.log;
 
 const main = () => {
     if (process.argv.length !== 4) {
-        log(colors.red(`ERROR Missing input arguments, expected 4 got ${process.argv.length}`));
+        log(colors.red(`❌ ERROR Missing input arguments, expected 4 got ${process.argv.length}`));
         process.exit(1);
     }
 
