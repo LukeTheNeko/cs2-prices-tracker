@@ -17,7 +17,7 @@ export class SteamMarketFetcher {
     private priceDataByItemHashName: { [key: string]: any } = {};
     private errorFound = false;
 
-    constructor(private accountName: string, private password: string) {}
+    constructor(private accountName: string, private password: string) { }
 
     async run() {
         createDirectories([dir, dirPrices, dirPricehistory]);

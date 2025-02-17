@@ -1,7 +1,7 @@
 {
-    "explorer.fileNesting.enabled": true,
-    "explorer.fileNesting.patterns": {
-      ".env": ".env.development, .env.production, .env.test, .env.example",
-      "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb, tsconfig.json, .eslintrc.json, .gitignore, LICENSE, accounts.json, notes.MD",
-    },
-  }
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    ".env": ".env.development, .env.production, .env.test, .env.example",
+    "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb, tsconfig.json, .eslintrc.json, .gitignore, LICENSE, accounts.json, notes.MD",
+  },
+}
