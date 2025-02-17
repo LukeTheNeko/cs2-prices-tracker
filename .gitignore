@@ -1,6 +1,7 @@
 node_modules/
 temp/
+dist/
 ignore
 exceptions.txt
 accounts.json
-notes.MD
+cnotes.MD
