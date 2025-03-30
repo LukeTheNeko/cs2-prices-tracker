@@ -3,5 +3,5 @@ temp/
 dist/
 ignore
 exceptions.txt
-accounts.json
-cnotes.MD
+accounts.*
+.env.*
