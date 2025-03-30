@@ -1,13 +1,11 @@
 {
   "name": "cs2-price-tracker",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "description": "cs2 price tracker",
   "main": "dist/index.js",
   "keywords": [
     "counter",
     "srtike",
-    "2",
-    "cs",
     "cs2",
     "cs2-price-tracker"
   ],
