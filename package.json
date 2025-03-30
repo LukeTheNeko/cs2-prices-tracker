@@ -1,6 +1,6 @@
 {
   "name": "cs2-price-tracker",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "cs2 price tracker",
   "main": "dist/index.js",
   "keywords": [
