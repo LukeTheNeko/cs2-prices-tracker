@@ -1,0 +1,20 @@
+name: Criar Pasta e Commitar
+
+on:
+  workflow_dispatch:
+
+jobs:
+  create-folder:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Verificar repositório
+        uses: actions/checkout@v4
+
+      - name: workds
+        run: mkdir -p nova_pasta
+
+      - name: Commit & Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "fixed?"

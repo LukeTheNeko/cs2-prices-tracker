@@ -1,0 +1,21 @@
+name: Configurar Git User
+
+on:
+  workflow_dispatch:
+
+jobs:
+  setup-git:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Verificar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Nome e E-mail no Git
+        run: |
+          git config --global user.name "LukeX404"
+          git config --global user.email "lucasneko25@gmail.com"
+
+      - name: Verificar Configuração
+        run: |
+          git config --global --list || echo "Nenhuma configuração encontrada"
