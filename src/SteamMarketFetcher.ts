@@ -9,7 +9,8 @@ import * as colors from 'ansi-colors';
 const dir = `./static`;
 const dirPrices = `./static/prices`;
 const dirPricehistory = `./static/pricehistory`;
-const maxDuration = 3600 * 1000 * 5.7;
+// const maxDuration = 3600 * 1000 * 5.7;
+const maxDuration = 30000;
 const startTime = Date.now();
 
 export class SteamMarketFetcher {
