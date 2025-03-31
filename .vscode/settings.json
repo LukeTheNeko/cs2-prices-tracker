@@ -2,7 +2,7 @@
   "explorer.fileNesting.enabled": true,
   "explorer.fileNesting.patterns": {
     ".env": ".env.development, .env.production, .env.test, .env.example, .env.dev",
-    "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb, tsconfig.json, .eslintrc.json, .gitignore, LICENSE, accounts.txt, accounts.json, secrets"
+    "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb, tsconfig.json, .eslintrc.json, .gitignore, LICENSE, accounts.txt, accounts.json"
   },
   "files.autoSave": "afterDelay"
 }

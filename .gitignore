@@ -2,7 +2,6 @@ node_modules
 temp
 dist
 ignore
-secrets
 exceptions.txt
 accounts.*
 .env.*
