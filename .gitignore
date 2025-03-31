@@ -1,7 +1,9 @@
-node_modules/
-temp/
-dist/
+node_modules
+temp
+dist
 ignore
 exceptions.txt
 accounts.*
 .env.*
+*.rar
+*.zip
