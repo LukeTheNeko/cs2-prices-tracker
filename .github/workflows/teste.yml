@@ -1,4 +1,4 @@
-name: Criar Pasta e Commitar
+name: Create Folder and Commit
 
 on:
   workflow_dispatch:
@@ -8,13 +8,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Verificar repositório
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: workds
-        run: mkdir -p nova_pasta
+      - name: Create Folder
+        run: mkdir -p new_folder
+
+      - name: Ensure Changes are Recognized
+        run: |
+          touch new_folder/.keep
+          git add new_folder/.keep
 
       - name: Commit & Push Changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "fixed?"
+          commit_message: "Automatically created new_folder"
