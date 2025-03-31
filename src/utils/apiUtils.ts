@@ -1,8 +1,8 @@
 import SteamCommunity from "steamcommunity";
 import * as colors from 'ansi-colors';
 
-const itemsBaseUrl = "https://api.cs2data.info/en"; // Using https://cs2data.info API
-const marketBaseURL = "https://steamcommunity.com/market";
+const itemsBaseUrl = "https://api.cs2data.info/en"; // https://cs2data.info API
+const marketBaseURL = "https://steamcommunity.com/market"; // Steam Markt url
 
 export async function getAllItemNames(): Promise<string[]> {
     const endpoints = [
