@@ -2,7 +2,7 @@ name: Update CS2 Prices
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,11 +15,6 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - uses: actions/setup-node@v3
-
-      - name: Configurar Nome e E-mail no Git
-        run: |
-          git config --global user.name "LukeX404"
-          git config --global user.email "lucasneko25@gmail.com"
 
       - name: Install Dependencies
         run: npm install

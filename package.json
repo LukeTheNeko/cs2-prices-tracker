@@ -6,6 +6,8 @@
   "keywords": [
     "counter",
     "srtike",
+    "price",
+    "tracker",
     "cs2",
     "cs2-price-tracker"
   ],
@@ -16,8 +18,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@types/ansi-colors": "^3.2.6",
-    "@types/colors": "^1.2.4",
     "@types/js-sha1": "^0.6.3",
     "chalk": "^5.4.1",
     "colors": "^1.4.0",

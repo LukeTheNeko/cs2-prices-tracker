@@ -1,5 +1,5 @@
 import { SteamMarketFetcher } from "./SteamMarketFetcher";
-import * as colors from 'ansi-colors';
+import * as colors from 'colors';
 
 const log = console.log;
 
