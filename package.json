@@ -1,14 +1,12 @@
 {
   "name": "cs2-price-tracker",
-  "version": "1.5.5",
+  "version": "1.6.0",
   "description": "cs2 price tracker",
   "main": "dist/index.js",
   "keywords": [
-    "counter",
-    "srtike",
+    "cs2",
     "price",
     "tracker",
-    "cs2",
     "cs2-price-tracker"
   ],
   "scripts": {
@@ -19,7 +17,6 @@
   "license": "MIT",
   "dependencies": {
     "@types/js-sha1": "^0.6.3",
-    "chalk": "^5.4.1",
     "colors": "^1.4.0",
     "fs": "^0.0.1-security",
     "js-sha1": "^0.7.0",
