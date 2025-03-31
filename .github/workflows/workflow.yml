@@ -2,7 +2,7 @@ name: Update ALL CS2 Prices
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 4,11,18 * * *"
   workflow_dispatch:
 
 jobs:
